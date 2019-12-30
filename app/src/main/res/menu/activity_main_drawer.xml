@@ -5,34 +5,49 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
+            android:id="@+id/nav_home"
             android:icon="@drawable/ic_menu_camera"
-            android:title="Código de Policía" />
+            android:title="@string/home" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_code_police"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/code_police" />
+        <item
+            android:id="@+id/nav_alcoholDrogas"
             android:icon="@drawable/ic_menu_gallery"
             android:title="Alcohol y drogas" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_animalesMascotas"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Animales y mascotas" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_porteArmas"
             android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+            android:title="Porte de armas" />
+        <item
+            android:id="@+id/nav_peatonesBicicletas"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Peatones y bicicletas" />
+        <item
+            android:id="@+id/nav_transportePublico"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Transporte público" />
+        <item
+            android:id="@+id/nav_espacioPublico"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Espacio público" />
+        <item
+            android:id="@+id/nav_actividadComercial"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Actividad comercial" />
+        <item
+            android:id="@+id/nav_protestaSocial"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Protesta Social" />
+        <item
+            android:id="@+id/nav_convivenciaEntreVecinos"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Convivencia entre vecinos" />
+
     </group>
-
-    <item android:title="Communicate">
-        <menu>
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
-        </menu>
-    </item>
-
 </menu>
