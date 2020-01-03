@@ -6,47 +6,51 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_menu_home"
             android:title="@string/menu_home" />
         <item
+            android:id="@+id/nav_introduccion"
+            android:icon="@drawable/ic_menu_introduccion"
+            android:title="@string/menu_introduccion" />
+        <item
             android:id="@+id/nav_code1"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_menu_libro"
             android:title="@string/menu_1" />
         <item
             android:id="@+id/nav_code2"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_menu_vino"
             android:title="@string/menu_2" />
         <item
             android:id="@+id/nav_code3"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_menu_animales"
             android:title="@string/menu_3" />
         <item
             android:id="@+id/nav_code4"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_menu_pistola"
             android:title="@string/menu_4" />
         <item
             android:id="@+id/nav_code5"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_menu_bicicleta"
             android:title="@string/menu_5" />
         <item
             android:id="@+id/nav_code6"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_menu_autobus"
             android:title="@string/menu_6" />
         <item
             android:id="@+id/nav_code7"
-            android:icon="@drawable/ic_menu_share"
+            android:icon="@drawable/ic_menu_espacio_publico"
             android:title="@string/menu_7" />
         <item
             android:id="@+id/nav_code8"
-            android:icon="@drawable/ic_menu_send"
+            android:icon="@drawable/ic_menu_actividad_comercial"
             android:title="@string/menu_8" />
         <item
             android:id="@+id/nav_code9"
-            android:icon="@drawable/ic_menu_send"
+            android:icon="@drawable/ic_menu_protesta"
             android:title="@string/menu_9" />
         <item
             android:id="@+id/nav_code10"
-            android:icon="@drawable/ic_menu_send"
+            android:icon="@drawable/ic_menu_convivencia"
             android:title="@string/menu_10" />
     </group>
 </menu>
