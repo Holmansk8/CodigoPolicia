@@ -16,6 +16,59 @@
 
 
     <!-- Menu -->
-    <string name="home">Inicio</string>
-    <string name="code_police">Código de Policía</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_1">Código de Policía</string>
+    <string name="menu_2">Alcohol y drogas</string>
+    <string name="menu_3">Animales y mascotas</string>
+    <string name="menu_4">Porte de armas</string>
+    <string name="menu_5">Peatones y bicicletas</string>
+    <string name="menu_6">Transporte público</string>
+    <string name="menu_7">Espacio público</string>
+    <string name="menu_8">Actividad comercial</string>
+    <string name="menu_9">Protesta Social</string>
+    <string name="menu_10">Convivencia entre vecinos</string>
+
+    <string name="informacionGeneral">Esta aplicación ha sido desarrollada por Nuria Ortega Sánchez.\n
+
+        Se ha desarrollado en dos etapas: en una PRIMERA ETAPA como Trabajo de Fin de Grado.
+        Se trata de un prototipo para proporcionar información aumentada en visitas a museos usando técnicas de localización en interiores con tecnología
+        Bluetooth Low Energy.\n
+        La aplicación miMuseo guía al usuario por el museo para ayudarle a encontrar las obras de arte
+        que busque seleccionando la opción Visita Guiada. También le proporciona información ampliada
+        del cuadro más cercano a él pulsando sobre Visita Libre.
+        El usuario también puede usar las opciones de Mapa para localizarse en el museo y Pedir Ayuda para que
+        un miembro del personal del museo acuda a su posición.
+        Esta aplicación funciona en todo el conjunto de museos que forman parte de la aplicación. \n
+        \n
+        En la SEGUNDA ETAPA, como Tabajo de Fin de Master.
+        En esta etapa de ampliación se ha incorporado características muy demandadas actualmente en los museos.\n
+        Para su desarrollo se ha tenido más presente al usuario final ya que la primera fase se centró en el desarrollador.\n
+        Las novedades más importantes son las opciones de Audioguía y Realidad Aumentada, que consisten en nuevas formas de presentarle el contenido a los usuarios.\n
+        Para incorporarlas se han tenido que modificar distintas clases e interfaces en el perfil desarrollador, además de un cambio en la BBDD y en los archivos de intercambio de información con el servidor.\n
+        Como se acaba de mencionar, el usuario se ha tenido muy presente para el desarrollo y esto se refleja en cómo se han perfeccionado distintos detalles para mejorar la experiencia de usuario:
+        incorporación de splash screen, animación dropdown para dar a entender que se trata de una lista deslizable,
+        un cajón de navegación más vistoso y con vínculo a la página del desarrollador, uso de CardViews en los RecyclerView,
+        mostrar una fotografía de la obra de la que se habla para ayudar al usuario a reconocer el contenido,
+        uso de SearchView para encontrar más cómodamente una obra, transiciones entre un CardView concreto y su contenido,
+        acceso a la compra de tickets desde la app, incorporación de cuadros de diálogo explicativos en las opciones complejas,
+        capacidad de compartir con tus contactos el contenido del museo para fomentar la cultura,
+        uso de mascotas-guía_de_museo en la Realidad Aumentada que intentan captar la atención de los más pequeños
+        y hacen la explicación más amena, tomar fotografías desde la app, incorporar la flecha de volver a atrás en toolbar, poder llamar a emergencias, etc.\n
+        \n
+        \n
+        Agradecimientos:\n
+        \n
+        A mis tutores y profesores, por hacer que a sus alumnos les encante Android.
+        \n
+        \n
+        Recursos:\n
+        \n
+        Los iconos usados en los botones de la pantalla principal se han descargado de Flaticon
+        ( https://www.flaticon.com/ )  \n
+		Icon made by Pixel Buddha from www.flaticon.com  \n
+        Icon made by Freepik from www.flaticon.com   \n
+        \n
+		Los modelos 3d gratuitos para la Realidad Aumentada han sido descargados desde TurboSquid.
+
+    </string>
 </resources>

@@ -3,10 +3,19 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSecondary">#ffcd00</color>
+    <color name="colorSecondaryDark">#c79d00</color>
+    <color name="colorSecondaryAccent">#ffff51</color>
+
+    <color name="colorCuadro">#ff6961</color>
+    <color name="crema">#efe4b0</color>
+    <color name="sky">#99D9EA</color>
+
     <color name="Azul">#0092D3</color>
     <color name="Amarillo">#F1CF00</color>
     <color name="GrisFondo">#A4A4A4</color>
-    <color name="Blanco">#FFFFFF</color>
+    <color name="White">#FFFFFF</color>
     <color name="Negro">#000</color>
     <color name="AzulClaro">#E0F8F7</color>
     <color name="Transparente">#00FFFFFF</color>

@@ -7,47 +7,46 @@
         <item
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/home" />
+            android:title="@string/menu_home" />
         <item
-            android:id="@+id/nav_code_police"
+            android:id="@+id/nav_code1"
             android:icon="@drawable/ic_menu_camera"
-            android:title="@string/code_police" />
+            android:title="@string/menu_1" />
         <item
-            android:id="@+id/nav_alcoholDrogas"
+            android:id="@+id/nav_code2"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="Alcohol y drogas" />
+            android:title="@string/menu_2" />
         <item
-            android:id="@+id/nav_animalesMascotas"
+            android:id="@+id/nav_code3"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Animales y mascotas" />
+            android:title="@string/menu_3" />
         <item
-            android:id="@+id/nav_porteArmas"
+            android:id="@+id/nav_code4"
             android:icon="@drawable/ic_menu_manage"
-            android:title="Porte de armas" />
+            android:title="@string/menu_4" />
         <item
-            android:id="@+id/nav_peatonesBicicletas"
+            android:id="@+id/nav_code5"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Peatones y bicicletas" />
+            android:title="@string/menu_5" />
         <item
-            android:id="@+id/nav_transportePublico"
+            android:id="@+id/nav_code6"
             android:icon="@drawable/ic_menu_manage"
-            android:title="Transporte público" />
+            android:title="@string/menu_6" />
         <item
-            android:id="@+id/nav_espacioPublico"
+            android:id="@+id/nav_code7"
             android:icon="@drawable/ic_menu_share"
-            android:title="Espacio público" />
+            android:title="@string/menu_7" />
         <item
-            android:id="@+id/nav_actividadComercial"
+            android:id="@+id/nav_code8"
             android:icon="@drawable/ic_menu_send"
-            android:title="Actividad comercial" />
+            android:title="@string/menu_8" />
         <item
-            android:id="@+id/nav_protestaSocial"
+            android:id="@+id/nav_code9"
             android:icon="@drawable/ic_menu_send"
-            android:title="Protesta Social" />
+            android:title="@string/menu_9" />
         <item
-            android:id="@+id/nav_convivenciaEntreVecinos"
+            android:id="@+id/nav_code10"
             android:icon="@drawable/ic_menu_send"
-            android:title="Convivencia entre vecinos" />
-
+            android:title="@string/menu_10" />
     </group>
 </menu>
