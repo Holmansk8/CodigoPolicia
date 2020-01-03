@@ -5,10 +5,24 @@
     android:layout_height="match_parent"
     tools:context=".Code2Fragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_menu_vino"
+            android:text="@string/menu_2"
+            android:gravity="center"
+            android:textColor="@color/White"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            tools:layout_editor_absoluteX="111dp"
+            tools:layout_editor_absoluteY="479dp" />
+
+    </LinearLayout>
 
 </FrameLayout>

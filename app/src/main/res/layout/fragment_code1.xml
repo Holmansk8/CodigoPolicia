@@ -16,8 +16,10 @@
             android:id="@+id/textViewTitulo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:drawableLeft="@mipmap/ic_launcher_round"
-            android:text="Información"
+            android:drawableLeft="@drawable/ic_menu_libro"
+            android:text="@string/menu_1"
+            android:gravity="center"
+            android:textColor="@color/White"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             tools:layout_editor_absoluteX="111dp"
             tools:layout_editor_absoluteY="479dp" />
