@@ -12,25 +12,38 @@
         android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/linearLayout3"
-        android:layout_margin="10dp"
-        android:gravity="center">
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/titulo"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:gravity="center"
-            android:textColor="@color/White"
-            android:layout_margin="20dp"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/codigo_policia"
-            android:textColor="@color/White"
-            android:gravity="center"/>
+        android:id="@+id/linearLayout1">
+        <ImageView
+            android:src="@drawable/ic_policia"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/imageView1"
+            android:layout_marginTop="60dp" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout3"
+            android:layout_margin="5dp"
+            android:gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_introduccion"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="@color/White"
+                android:layout_margin="5dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/title_abc"
+                android:textSize="20sp"
+                android:textColor="@color/Amarillo"
+                android:gravity="center"/>
+        </LinearLayout>
     </LinearLayout>
-
 </FrameLayout>

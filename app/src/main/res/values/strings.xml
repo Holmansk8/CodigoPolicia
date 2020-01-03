@@ -29,6 +29,11 @@
     <string name="menu_9">Protesta Social</string>
     <string name="menu_10">Convivencia entre vecinos</string>
 
+    <!-- Introduccion -->
+    <string name="title_introduccion">¡NO SE GANE UNA MULTA!</string>
+    <string name="title_abc">ABC del nuevo Código de Policía</string>
+
+
     <string name="informacionGeneral">Esta aplicación ha sido desarrollada por Nuria Ortega Sánchez.\n
 
         Se ha desarrollado en dos etapas: en una PRIMERA ETAPA como Trabajo de Fin de Grado.
