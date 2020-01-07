@@ -6,12 +6,14 @@
     <dimen name="nav_header_height">150dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
 
+    <dimen name="vertical_separator10">10dp</dimen>
     <dimen name="vertical_separator">16dp</dimen>
 
     <dimen name="title_size">30sp</dimen>
     <dimen name="subtitle_size">22sp</dimen>
     <dimen name="letter_size">18sp</dimen>
 
-    <dimen name="dialog_margin">16dp</dimen>
+    <dimen name="dialog_margin10">10dp</dimen>
+    <dimen name="dialog_margin16">16dp</dimen>
 
 </resources>

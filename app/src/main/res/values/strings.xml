@@ -34,32 +34,287 @@
 
     <!-- Código de Policía -->
 
+
+
     <!-- Alcohol y drogas -->
-    <string name="text_responsible">Autoridades responsables:</string>
+    <string name="text_responsible">Autoridades responsables</string>
     <string name="text_behaviors">Comportamientos contrarios a la convivencia y sanciones</string>
     <string name="text1">Alcaldías y gobernaciones</string>
     <string name="text2">Policía</string>
-    <string name="text3">Definir lugares de traslados: Los alcaldes deben definir el lugar al que pueden ser enviadas las personas que sean trasladadas, por protección, por la Policía.</string>
-    <string name="text4">Prohibir la venta de alcohol: Ante situaciones de emergencia y calamidad, los alcaldes y gobernadores podrán restringir o prohibir el expendio y consumo de bebidas alcohólicas. </string>
-    <string name="text5">Traslado por protección: Cuando la vida o integridad de una persona o terceros esté en riesgo o peligro, la Policía podrá trasladarla para su protección. Específicamente, en los siguientes casos: Cuando deambule con el estado de conciencia alterado o bajo los efectos de bebidas alcohólicas
-Cuando esté involucrada en una riña o presente comportamientos agresivos o temerarios
-Cuando realice actividades peligrosas o de riesgo que pongan en peligro su vida o integridad o la de terceros
-Cuando esté en peligro de ser agredida
-Antes del traslado, la Policía podrá entregar a la persona a un allegado o pariente que asuma la protección. La duración del traslado no podrá ser mayor a 12 horas y la Policía tendrá que hacer un informe escrito de lo sucedido, para lo cual deberá definir el formato.</string>
+    <string name="text3"><i>Definir lugares de traslados:</i> \n
+        \n
+        Los alcaldes deben definir el lugar al que pueden ser enviadas las personas que sean trasladadas, por protección, por la Policía.</string>
+    <string name="text4"><i>Prohibir la venta de alcohol: </i> \n
+        \n
+        Ante situaciones de emergencia y calamidad, los alcaldes y gobernadores podrán restringir o prohibir el expendio y consumo de bebidas alcohólicas.</string>
+    <string name="text5"><i>Traslado por protección:</i> \n
+        \n
+        Cuando la vida o integridad de una persona o terceros esté en riesgo o peligro, la Policía podrá trasladarla para su protección. Específicamente, en los siguientes casos:
+        Cuando deambule con el estado de conciencia alterado o bajo los efectos de bebidas alcohólicas \n
+        \n
+        - Cuando esté involucrada en una riña o presente comportamientos agresivos o temerarios \n
+        - Cuando realice actividades peligrosas o de riesgo que pongan en peligro su vida o integridad o la de terceros \n
+        - Cuando esté en peligro de ser agredida \n
+        \n
+        Antes del traslado, la Policía podrá entregar a la persona a un allegado o pariente que asuma la protección. La duración del traslado no podrá ser mayor a 12 horas y la Policía tendrá que hacer un informe escrito de lo sucedido, para lo cual deberá definir el formato.</string>
     <string name="text6">Restricción: Una persona no podrá ser trasladada por la Policía por el simple hecho de estar consumiendo bebidas alcohólicas o sustancias psicoactivas.</string>
 
-    <string name="text7">En barrios y viviendas</string>
-    <string name="text8">Consumo: Consumir bebidas alcohólicas, sustancias psicoactivas o prohibidas en lugares no autorizados para su consumo. Multa de $394.000</string>
-    <string name="text9">Venta a menores: Facilitar, prestar o vender bebidas alcohólicas, cigarrillo, tabaco y sus derivados, o sustancias psicoactivas a niños, niñas o adolescentes. Multa de $787.000</string>
+    <string name="text7"><i>En barrios y viviendas</i></string>
+    <string name="text8">Consumo: Consumir bebidas alcohólicas, sustancias psicoactivas o prohibidas en lugares no autorizados para su consumo. \n <b>Multa de $394.000</b></string>
+    <string name="text9">Venta a menores: Facilitar, prestar o vender bebidas alcohólicas, cigarrillo, tabaco y sus derivados, o sustancias psicoactivas a niños, niñas o adolescentes. \n <b>Multa de $787.000</b></string>
+
+    <string name="text10"><i>En establecimientos educativos</i></string>
+    <string name="text11">Consumo: Consumir bebidas alcohólicas, drogas o sustancias prohibidas en una institución o centro educativo. \n <b>Multa de $394.000</b></string>
+    <string name="text12">Consumo en áreas circundantes: Consumir bebidas alcohólicas, drogas o sustancias prohibidas en el perímetro circundante a una institución o centro educativo. \n <b>Multa de $394.000</b></string>
+    <string name="text13">Distribución: Tener o vender bebidas alcohólicas, drogas o sustancias prohibidas dentro de una institución o centro educativo. \n <b>Multa de $787.000</b></string>
+    <string name="text14">Venta en áreas circundantes Tener o vender bebidas alcohólicas, drogas o sustancias prohibidas dentro del perímetro circundante a una institución educativa. \n <b>Multa de $787.000</b></string>
+
+    <string name="text15"><i>Contrarios a los derechos de niñas, niños y adolescentes</i></string>
+    <string name="text16">Ingreso de niños a lugares donde se expende alcohol: Permitir la entrada de niños, niñas y adolescentes a lugares donde se consume alcohol o sustancias psicoactivas. \n <b>Multa de $787.000 y suspensió́n temporal de actividad comercial.</b></string>
+    <string name="text17">Consumo y comercialización: Está prohibido que niños, niñas y adolescentes tengan o consuman sustancias psicoactivas. \n <b>Amonestación si es menor de 16 años y programa pedagógico de convivencia si es mayor de 16 años.</b></string>
+
+    <string name="text18"><i>En el espacio público</i></string>
+    <string name="text19">Consumo: Se prohíbe consumir bebidas alcohólicas o sustancias psicoactivas en estadios, parques, hospitales y, en general, en el espacio público, excepto en las actividades autorizadas. \n <b>Multa $197.000 y programa comunitario o de convivencia.</b></string>
+    <string name="text20">Excepción: Se permite el consumo controlado de bebidas alcohólicas en lugares habilitados para aglomeraciones, siempre y cuando se cumplan las siguientes condiciones: \n
+        \n
+        - La venta de alcohol se realizará solo en áreas dispuestas para ello. \n
+        - Se dejará de vender alcohol 20 minutos antes de que finalice el evento. \n
+        - No se podrá portar ni consumir bebidas alcohólicas al momento del ingreso, la salida o la evacuación de eventos. \n
+        - En los espectáculos públicos en los que se expenda alcohol deberá haber áreas diferenciadas para consumo y no consumo. \n
+        - Si una persona presenta síntomas de intoxicación etílica, el organizador se abstendrá de venderle alcohol. \n
+        - En las áreas cercanas a los eventos públicos en los que se venda alcohol, está prohibido el expendio y el consumo de bebidas alcohólicas.</string>
+
+    <string name="text21"><i>En actividades que aglomeran público</i></string>
+    <string name="text22">Portar, consumir o estar bajo los efectos de sustancias psicoactivas. Se considera que estos comportamientos pueden poner en riesgo la vida e integridad de las personas.</string>
+    <string name="text23">Sanciones: \n
+        \n
+        - Prohibición de ingreso a la actividad que involucra aglomeración. Un concierto, por ejemplo. \n
+        - Participación en un programa comunitario o actividad pedagógica de convivencia. \n
+        - Remisión a centros de atención en drogadicción (CAD).</string>
 
     <!-- Animales y mascotas -->
+    <string name="text_responsibilities">Responsabilidades:</string>
+
+    <string name="text_animal_1">Alcaldía</string>
+    <string name="text_animal_2"><b>Crear albergues:</b> Establecer un albergue para animales domésticos o mascotas. \n
+        \n
+        <b>Sistema de información: </b> Implementar un mecanismo para informar a la ciudadanía sobre el lugar a donde se llevan animales extraviados o que estén vagando en el espacio público. \n
+        \n
+        <b>Cobro por animal extraviado: </b> La Alcaldía podrá fijar una tarifa diaria que cubra el costo del cuidado y la alimentación temporal de animales extraviados. \n
+        \n
+        <b>Entrega de animales extraviados: </b> Reglamentar la entrega de animales extraviados. \n
+        \n
+        <b>Transporte público: </b> Reglamentar las condiciones y requisitos para el transporte de mascotas en medios de transporte público.</string>
+
+    <string name="text_animal_3">Concejos distritales o municipales</string>
+    <string name="text_animal_4"><b>Ingreso a parques: </b> Regular mediante acuerdos el ingreso de mascotas a las zonas de juegos infantiles ubicadas en plazas y parques. \n
+        \n
+        <b>Censo: </b> Establecer el censo local de caninos potencialmente peligrosos. \n
+        \n
+        <b>Permisos: </b> Con base en el censo, la Alcaldía expedirá permisos a los propietarios o tenedores de perros potencialmente peligrosos.</string>
+
+    <string name="text_animal_5">Gobierno nacional</string>
+    <string name="text_animal_6"><b>Pólizas de seguro: </b> En un término de 6 meses, el Gobierno deberá reglamentar lo relacionado con la expedición de pólizas de seguro para perros potencialmente peligrosos.</string>
+
+    <string name="text_animal_7">Propietario de un perro potencialmente peligroso</string>
+    <string name="text_animal_8"><b>Daños: </b> Es responsable por todos los daños que el animal pueda ocasionar. \n
+        \n
+        <b>Registro: </b> Debe registrarlo en el censo que administrará la Alcaldía del municipio en el que vive. El registro del animal se debe renovar todos los años. \n
+        \n
+        <b>Traspaso o cesión: </b> En el censo también se anotará cualquier compra, venta, traspaso, donación o cesión de un animal potencialmente peligroso. \n
+        \n
+        <b>Pago: </b> La Alcaldía podrá cobrar por el permiso de tenencia de perros potencialmente peligrosos. \n
+        \n
+        <b>Póliza de seguro: </b> Para poder registrar un animal en el censo, su propietario debe contratar una póliza de responsabilidad extracontractual que cubra los daños que el perro pueda causar a personas, bienes o animales.</string>
+    <string name="text_animal_9"><b>Póliza de seguro:</b> Si el dueño del perro no cuenta con póliza de seguro podrá ser sancionado. <b> Multa $787.000 </b> \n
+        \n
+        <b>Registro:</b> Quien no cumpla con las normas de registro y restricciones para animales potencialmente peligrosos, podrá ser sancionado. <b> Multa $197.000 </b> \n
+        \n
+        <b>Apuestas:</b> Promover, participar y patrocinar actividades de apuestas en donde se involucre animales, con excepción a lo previsto en la ley 84 de 1989. <b> Multa $394.000 </b> \n
+        \n
+        <b>Comercio:</b> Venta de animales domésticos en vía pública, en municipios de más de 100.000 habitantes. <b> Multa $394.000 </b> \n
+        \n
+        <b>Zonas comunes:</b> Todos los perros deben llevar correa en los conjuntos residenciales y los perros potencialmente peligrosos, bozal y un permiso. Esto aplica para el espacio público. \n
+        \n
+        <b>Paseo de perro peligroso:</b> Pasear el animal en el espacio público sin correa o bozal será sancionado. <b> Multa $197.000 </b> \n
+        \n
+        <b>Paseo en estado de embriaguez:</b> El dueño de un perro potencialmente peligroso no podrá pasearlo estando en estado de embriaguez o bajo la influencia de otras sustancias. <b> Multa $197.000 </b> \n
+        \n
+        <b>Peleas:</b> Se prohíben las peleas de perros en todo el territorio nacional. \n
+        \n
+        <b>Incitar ataques:</b> La persona que induzca a un animal a que ataque a una persona, a otro animal o bienes ajenos, podrá ser sancionada. <b> Multa $787.000 </b> \n
+        \n
+        <b>Ataque:</b> Cuando un perro potencialmente peligroso ataque a una persona, su propietario será sancionado. <b> Multa $394.000 </b> \n
+        \n
+        <b>Reincidencia de ataque:</b> Si el animal reincide en el ataque este podrá ser decomisado y un veterinario determinará el tratamiento a seguir. \n
+        \n
+        <b>Importar razas potencialmente peligrosas:</b> Se prohíbe importar y criar en el país perro de las razas Staffordshire terrier, American Staffordshire terrier, Bull terrier, Pit Bull terrier y American Pit Bull terrier. Solo podrán hacerlo las empresas de vigilancia. <b> Multa $787.000 y suspensión definitiva de la actividad. </b> \n
+        \n
+        <b>Niños, niñas y adolescentes:</b> Se prohíbe que niños, niñas y adolescentes sean propietarios de perros de razas potencialmente peligrosas. <b> Multa $197.000 </b> \n
+        \n
+        <b>Salubridad:</b> No se permitirá que la permanencia de animales de cualquier especie afecte las condiciones de higiene o salubridad de un establecimiento comercial. <b> Multa $394.000 </b> \n
+        \n
+        <b>Animales silvestres:</b> Está prohibido tener animales silvestres como mascotas. <b> Multa $394.000 y el animal será decomisado. </b> \n
+        \n
+        <b>Excrementos:</b> Quien no recoja lo que hace su mascota podrá ser sancionado. <b> Multa $99.000 </b> </string>
+
     <!-- Porte de armas -->
+    <string name="text_armas_1">Policía</string>
+    <string name="text_armas_2"><b>Registro a personas:</b> El personal uniformado de la Policía podrá registrar a personas y los bienes que posee, para establecer si porta armas, municiones, explosivos, elementos cortantes, punzantes, contundentes o sus combinaciones, que amenacen o causen riesgo a la convivencia. \n
+        \n
+        <b>El registro podrá incluir contacto físico, únicamente de parte de la Policía y lo realizará una persona del mismo sexo. </b> \n
+        \n
+        <b>Incautación de armas de fuego, no convencionales, municiones y explosivos:</b> La Policía tiene dentro de sus funciones, incautar y decomisar toda arma que infrinja las normas establecidas. Estas serán destruidas, salvo cuando sean material probatorio en un proceso penal.</string>
+    <string name="text_armas_3">Portar armas, elementos cortantes, punzantes o semejantes, o sustancias peligrosas, en áreas comunes o lugares abiertos al público, con excepción de las herramientas de trabajo, estudio o actividad deportiva. \n
+        <b>Multa: $197.000, prohibición de ingreso a eventos y aglomeraciones de público y destrucción del bien. </b> \n
+        \n
+        Portar armas de letalidad reducida o sprays, rociadores o aspersores de pimienta o cualquier elemento que se le asemeje, en lugares abiertos al público donde se desarrollen aglomeraciones de personas.\n
+        <b>Multa: $197.000, prohibición de ingreso a eventos y aglomeraciones de público y destrucción del bien.</b></string>
+
     <!-- Peatones y bicicletas -->
+    <string name="text_peatones_1">Alcaldía</string>
+    <string name="text_peatones_2"><b>Promoción:</b> Promoverá el uso de medios alternativos de transporte. Para ello debe establecer un sistema de ciclo-rutas y carriles exclusivos de bicicleta. \n
+         \n
+        <b>Reglamentación:</b> Los alcaldes podrán reglamentar, en su jurisdicción, las ciclo-rutas y los carriles exclusivos para bicicletas.</string>
+    <string name="text_peatones_3"><b>Derecho a la vía:</b> Se le otorgará prioridad a los peatones y ciclistas en las vías y zonas diseñadas para ellos, excepto sobre vías férreas, autopistas y vías arterias.
+        /n
+        <b>Ciclo-rutas y carriles exclusivos:</b> Está prohibido obstruir por cualquier medio la ciclo-ruta o carril exclusivo para bicicletas.<b> Multa $99.000</b></string>
+
     <!-- Transporte público -->
+    <string name="text_transporte_1">Empresas de transporte público</string>
+    <string name="text_transporte_2"><b>Aseo:</b> Mantener los vehículos limpios para la prestación del servicio. En caso de incumplir, la empresa será sancionada. <b>Multa $394.000</b> /n
+        /n
+        <b>Cámaras de vigilancia:</b> Implementar cámaras de vigilancia en los vehículos que entren en circulación después de la expedición del nuevo Código de Policía. Si no lo hacen serán sancionadas. <b>Multa de $787.000 e inmovilización del vehículo.</b></string>
+    <string name="text_transporte_3"><b>Calibradores:</b> Queda prohibido realizar el control informal del tiempo durante el trayecto de un vehículo de transporte. <b>Este comportamiento será sancionado con una amonestación. </b> /n
+        /n
+        <b>Colados:</b> Colarse sin pagar en el transporte público. <b>Multa $197.000 </b> /n
+        /n
+        <b>Agresiones y empujones:</b> Agredir o empujar a las demás personas en el sistema de transporte. <b>Multa $99.000 </b> /n
+        /n
+        <b>Alarmas:</b> Destruir o alterar el sistema de alarma de los vehículos destinados al transporte público. <b>Multa $787.000 </b> /n
+        /n
+        <b>Ingreso y salida:</b> No se puede ingresar y salir de las estaciones o portales por lugares distintos a los establecidos. <b>Multa $99.000 </b></string>
+
     <!-- Espacio público -->
+    <string name="text_espacio_1">Alcaldes</string>
+    <string name="text_espacio_2"><b>Uso de pólvora:</b> Deben aprobar el uso de pólvora en el espacio público. /n
+        /n
+        <b>Restricción a menores de edad:</b> Restringir, de manera temporal, la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
+
+    <string name="text_espacio_3">Gobierno Nacional</string>
+    <string name="text_espacio_4"><b>Integrar sistemas de vigilancia:</b> Los sistemas de video y medios tecnológicos que se encuentren instalados en el espacio público, se enlazarán a la red que disponga la Policía, de acuerdo con la reglamentación que expida el Gobierno.</string>
+
+    <string name="text_espacio_5">ICBF</string>
+    <string name="text_espacio_6"><b>Acompañamiento:</b> Acompañar las medidas de restricción de la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
+
+    <string name="text_espacio_7">Policía</string>
+    <string name="text_espacio_8"><b>Remoción de obstáculos:</b> Remover los bienes que obstaculizan el espacio público.</string>
+
+    <string name="text_espacio_9">Concejos municipales</string>
+    <string name="text_espacio_10"><b>Delimitar lugares de aglomeración:</b> Definir cuáles serán las áreas protegidas, reservadas o determinadas del espacio público en las que no se dará permiso para aglomeraciones.</string>
+
+    <string name="text_espacio_11"><b>Pólvora:</b> Prender o manipular pólvora sin contar con la autorización del alcalde. <b>Multa $787.000</b> /n
+        /n
+        <b>Sexo:</b> Está prohibido tener sexo en espacios públicos. <b>Multa $394.000</b> /n
+        /n
+        <b>Grafitis:</b> Hacer un grafiti o pegar un afiche sin autorización. <b>Multa $197.000</b> /n
+        /n
+        <b>Manifestaciones:</b> Irrespetar las manifestaciones y reuniones en el espacio público o en lugares privados en razón a la raza, edad, género, orientación sexual, creencias religiosas, preferencias políticas o apariencia personal. <b>Multa $787.000</b> /n
+        /n
+        <b>Demostraciones de afecto:</b> Obstruir las manifestaciones de afecto público (que no configuren actos sexuales) debido a la raza, orientación sexual, género u otra condición similar. <b>Multa $99.000</b> /n
+        /n
+        <b>Lavado de vehículos:</b> Lavar carros, motos y otros bienens en la vía pública, ríos, canales y quebradas, es contrario a la preservación del agua. <b>Multa $99.000</b> /n
+        /n
+        <b>Arrojar basura:</b> Botar basura en el espacio público. <b>Multa $99.000</b></string>
+
     <!-- Actividad comercial -->
+    <string name="text_comercial_1">Alcalde</string>
+    <string name="text_comercial_2"><b>Horarios:</b> Debe fijar los horarios de operación de la actividad comercial, inclusive para clubes sociales. /n
+        /n
+        <b>Perímetro de afectación:</b> Debe proponer el perímetro en el que una actividad económica afecta la tranquilidad./n
+        /n
+        <b>Servicio de baño:</b> El alcalde regulará el cobro de servicio de baño.</string>
+
+    <string name="text_comercial_3">Policía</string>
+    <string name="text_comercial_4"><b>Verificar el funcionamiento:</b> La Policía debe verificar los requisitos de funcionamiento de los establecimientos comerciales, ingresando cuando estén desarrollando su actividad. /n
+        /n
+        <b>Ingreso a clubes sociales:</b> La Policía puede, en determinadas circunstancias, ingresar a clubes sociales.</string>
+
+    <string name="text_comercial_5">Propietarios</string>
+    <string name="text_comercial_6"><b>Apertura:</b> El propietario de una actividad comercial debe comunicar a la comunidad la apertura del negocio. /n
+        /n
+        <b>Servicio de baño:</b> Es obligatorio prestar el servicio de baño a niños, mujeres en embarazo y personas de la tercera edad, sin importar si son clientes o no.</string>
+
+    <string name="text_comercial_7"><b>Música y derechos de autor:</b> Poner música en un lugar comercial y no presentar el comprobante de pago de derechos de autor. <b>Multa $394.000</b> /n
+        /n
+        <b>Alimentos:</b> Vender alimentos en un lugar no autorizado. <b>Multa $197.000</b> /n
+        /n
+        <b>Horarios:</b> No cumplir con los horarios establecidos por el alcalde. <b>Multa $787.000</b> /n
+        /n
+        <b>Sobrecupo:</b> Permitir que un negocio se llene de gente por encima de la capacidad del lugar donde funciona. <b>Multa $787.000</b> /n
+        /n
+        <b>Ocupación de espacio público:</b> Está prohibido que un negocio propicie la ocupación indebida del espacio público. <b>Multa $197.000</b> /n
+        /n
+        <b>Uso del suelo:</b> Incumplir las normas de uso del suelo. <b>Multa $787.000</b> /n.
+        /n
+        <b>Servicios públicos:</b> Conectarse sin autorización de la empresa de servicios públicos. <b>Multa $787.000</b> /n
+        /n
+        <b>Arrendamiento:</b> Arrendar un inmueble para una actividad contraria a las normas de uso del suelo. <b>Multa $787.000</b> /n
+        /n
+        <b>Evacuación:</b> No informar los protocolos de evacuación. <b>Multa $99.000</b> /n
+        /n
+        <b>Ingreso de armas:</b> Se suspenderá de manera temporal la actividad comercial de cualquier establecimiento que permita el ingreso de personas con armas. Las armas serán decomisadas. /n
+        /n
+        <b>Suspensión:</b> Cuando un negocio incurra en comportamientos que afectan la convivencia dos o más veces, la Policía podrá suspender la actividad comercial de manera definitiva. /n
+        /n
+        <b>Drogas y otras sustancias:</b> Está prohibido expender o guardar en un establecimiento comercial cualquier sustancia prohibida. <b>Multa $787.000</b> /n
+        /n
+        <b>Contrabando:</b> Poseer o vender mercancías sin demostrar su procedencia lícita. <b>Multa $787.000 y destrucción del bien.</b> /n
+        /n
+        <b>Discriminación:</b> Limitar o vetar el acceso a lugares y eventos públicos a personas en razón de su raza, sexo, orientación sexual, género o condición social o económica o discapacidad. <b>Multa $787.000</b></string>
+
     <!-- Protesta Social -->
+    <string name="text_protesta_1">Alcalde</string>
+    <string name="text_protesta_2"><b>Uso de vías públicas:</b> Autorizar el uso de vías públicas para el libre ejercicio del derecho de reunión y manifestación pacífica. Si estas requieren avenidas, deberán elaborar un plan efectivo de desvíos. /n
+        /n
+        <b>Acompañamiento:</b> Acompañar las movilizaciones, junto con los entes de control encargados de velar por la protección de los Derechos Humanos. Cuando se presenten amenazas o incidentes, los alcaldes podrán intervenir a través de gestores de convivencia civiles.</string>
+
+    <string name="text_protesta_3">Policía</string>
+    <string name="text_protesta_4"><b>Identificación:</b> El personal de Policía que acompañe la movilización debe estar visiblemente identificado y ubicado donde pueda reaccionar oportunamente, sin obstaculizarla. /n
+        /n
+        <b>Esmad:</b> Solo puede ser enviado cuando no sea posible controlar la movilización por otro medio. /n
+        /n
+        <b>Disolución:</b> Las movilizaciones pueden disolverse si causan alteraciones a la convivencia. /n
+        /n
+        <b>Uso de la fuerza:</b> La fuerza solo debe ser utilizada como último recurso. /n
+        /n
+        <b>Fuerzas militares:</b> No pueden intervenir para controlar movilizaciones, salvo en los casos donde la Ley lo permita.</string>
+
+    <string name="text_protesta_5"><b>Armas:</b> Portar armas, elementos cortopunzantes o sustancias peligrosas en lugares abiertos al público. <b>Multa de $197.000, prohibición de ingreso y destrucción del bien.</b> /n
+        /n
+        <b>Otras armas:</b> Portar armas neumáticas, de aire, letalidad reducida o sprays, gases pimienta o aspersores en lugares donde existan aglomeraciones. <b>Multa de $197.000, prohibición de ingreso y destrucción del bien.</b> /n
+        /n
+        <b>Objetos:</b> Lanzar objetos que puedan causar daño a otras personas. Amonestación y participación en actividad comunitaria o pedagógica de convivencia. /n
+        /n
+        <b>Discriminación:</b> Irrespetar las manifestaciones en razón de la etnia, orientación sexual, género, creencias, posiciones políticas o apariencia personal. <b>Multa $787.000 </b> /n
+        /n
+        <b>Señalamentos:</b> Divulgar mensajes engañosos o señalamientos públicos a participantes de las manifestaciones. No se establece sanción. /n
+        /n
+        <b>Irrespeto:</b> Irrespetar a las autoridades de Policía. <b>Multa $99.000 </b> /n
+        /n
+        <b>Agredir a la Policía:</b> Agredir, lanzar objetos o sustancias peligrosas que puedan poner en peligro la vida y la integridad del personal de Policía. <b>Multa de $787.000 y participación en actividad comunitaria o de pedagogía de convivencia.</b></string>
+
     <!-- Convivencia entre vecinos -->
+    <string name="text_vecinos_1">Policía</string>
+    <string name="text_vecinos_2"><b>Desactivar fuentes de sonido:</b> La Policía podrá desactivar temporalmente la fuente de sonido que perturbe a los vecinos.</string>
+
+    <string name="text_vecinos_3">Perturbar o permitir que se afecte la tranquilidad con: /n
+        /n
+        <b>Fiestas:</b> Sonidos que generen molestia por su impacto en fiestas, reuniones o actividades privadas. <b>Multa: $394.000 y disolución de la actividad.</b> /n
+        /n
+        <b>Otros dispositivos:</b> Sonidos producidos por dispositivos de maquinaria, construcción o decoración utilizados en horas no permitidas. <b>Multa: $394.000</b> /n
+        /n
+        <b>Fumar:</b> Fumar en lugares prohibidos. <b>Amonestación.</b></string>
 
     <string name="informacionGeneral">Esta aplicación ha sido desarrollada por Nuria Ortega Sánchez.\n
 

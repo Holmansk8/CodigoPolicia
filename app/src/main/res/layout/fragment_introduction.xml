@@ -28,15 +28,21 @@
             android:textColor="@color/White"
             android:layout_margin="20dp"/>
 
-        <TextView
-            android:layout_width="wrap_content"
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/vertical_separator"
-            android:layout_centerInParent="true"
-            android:layout_gravity="center_horizontal"
-            android:textColor="@color/White"
-            android:textSize="@dimen/subtitle_size"
-            android:gravity="center"
-            android:text="@string/codigo_policia"/>
+            android:layout_marginLeft="@dimen/dialog_margin10"
+            android:layout_marginRight="@dimen/dialog_margin10"
+            android:padding="@dimen/dialog_margin10"
+            android:background="@drawable/text_border">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center_horizontal"
+                android:textSize="@dimen/subtitle_size"
+                android:gravity="center"
+                android:text="@string/codigo_policia"/>
+        </LinearLayout>
     </LinearLayout>
 </FrameLayout>

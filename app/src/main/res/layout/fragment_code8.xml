@@ -35,8 +35,8 @@
             android:layout_marginTop="@dimen/vertical_separator"
             android:textColor="@color/White"
             android:textSize="@dimen/letter_size"
-            android:layout_marginLeft="@dimen/dialog_margin"
-            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_marginLeft="@dimen/dialog_margin16"
+            android:layout_marginRight="@dimen/dialog_margin16"
             android:text="@string/informacionGeneral" />
     </LinearLayout>
 </FrameLayout>
