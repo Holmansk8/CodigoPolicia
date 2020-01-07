@@ -16,10 +16,13 @@
             android:id="@+id/textViewTitulo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:drawableLeft="@drawable/ic_menu_libro"
-            android:text="@string/menu_1"
+            android:layout_marginTop="@dimen/vertical_separator"
+            android:padding="@dimen/fab_margin"
             android:gravity="center"
             android:textColor="@color/White"
+            android:textSize="@dimen/title_size"
+            android:textStyle="bold"
+            android:text="@string/menu_1"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             tools:layout_editor_absoluteX="111dp"
             tools:layout_editor_absoluteY="479dp" />
@@ -28,6 +31,12 @@
             android:id="@+id/textViewDescripcion"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/vertical_separator"
+            android:textColor="@color/White"
+            android:textSize="@dimen/letter_size"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
             android:text="@string/informacionGeneral" />
     </LinearLayout>
 

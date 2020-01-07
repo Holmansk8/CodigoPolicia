@@ -99,13 +99,15 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
         else if (id == R.id.nav_code3)
         {
-
-        } else if (id == R.id.nav_code4)
+            fragment = new Code3Fragment();
+        }
+        else if (id == R.id.nav_code4)
         {
-
-        } else if (id == R.id.nav_code5)
+            fragment = new Code4Fragment();
+        }
+        else if (id == R.id.nav_code5)
         {
-
+            fragment = new Code5Fragment();
         }
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
         ft.replace(R.id.mainFrame, fragment);

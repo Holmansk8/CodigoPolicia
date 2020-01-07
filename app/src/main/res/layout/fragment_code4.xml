@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Code2Fragment">
+    tools:context=".Code4Fragment">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -21,7 +22,7 @@
             android:textColor="@color/White"
             android:textSize="@dimen/title_size"
             android:textStyle="bold"
-            android:text="@string/menu_2"
+            android:text="@string/menu_4"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
             tools:layout_editor_absoluteX="111dp"
             tools:layout_editor_absoluteY="479dp" />
