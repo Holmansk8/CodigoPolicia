@@ -125,6 +125,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         {
             fragment = new Code9Fragment();
         }
+        else if (id == R.id.nav_code10)
+        {
+            fragment = new Code10Fragment();
+        }
 
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
         ft.replace(R.id.mainFrame, fragment);
