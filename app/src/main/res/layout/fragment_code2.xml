@@ -27,15 +27,124 @@
             tools:layout_editor_absoluteY="479dp" />
 
         <TextView
-            android:id="@+id/textViewDescripcion"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="@dimen/vertical_separator"
-            android:textColor="@color/White"
-            android:textSize="@dimen/letter_size"
             android:layout_marginLeft="@dimen/dialog_margin"
             android:layout_marginRight="@dimen/dialog_margin"
-            android:text="@string/informacionGeneral" />
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="@dimen/letter_size"
+            android:textColor="@color/White"
+            android:text="@string/text_responsible"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/White"
+            android:gravity="center"
+            android:text="@string/text1" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/text3"
+            android:background="@drawable/text_border" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_marginTop="@dimen/vertical_separator"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/text4"
+            android:background="@drawable/text_border"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_marginTop="@dimen/vertical_separator"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/White"
+            android:gravity="center"
+            android:text="@string/text2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_marginTop="@dimen/vertical_separator"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/text5"
+            android:background="@drawable/text_border"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_marginTop="@dimen/vertical_separator"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="@string/text6"
+            android:background="@drawable/text_border"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dialog_margin"
+            android:layout_marginRight="@dimen/dialog_margin"
+            android:layout_marginTop="@dimen/vertical_separator"
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="@dimen/letter_size"
+            android:textColor="@color/White"
+            android:text="@string/text_behaviors"/>
+
+        <LinearLayout android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/text_border">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dialog_margin"
+                android:layout_marginRight="@dimen/dialog_margin"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/text7"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dialog_margin"
+                android:layout_marginRight="@dimen/dialog_margin"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/text8"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dialog_margin"
+                android:layout_marginRight="@dimen/dialog_margin"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/text9"/>
+
+        </LinearLayout>
     </LinearLayout>
 </FrameLayout>

@@ -14,7 +14,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-
     <!-- Menu -->
     <string name="menu_home">Inicio</string>
     <string name="menu_introduccion">Introducción</string>
@@ -33,6 +32,34 @@
     <string name="title_introduccion">¡NO SE GANE UNA MULTA!</string>
     <string name="title_abc">ABC del nuevo Código de Policía</string>
 
+    <!-- Código de Policía -->
+
+    <!-- Alcohol y drogas -->
+    <string name="text_responsible">Autoridades responsables:</string>
+    <string name="text_behaviors">Comportamientos contrarios a la convivencia y sanciones</string>
+    <string name="text1">Alcaldías y gobernaciones</string>
+    <string name="text2">Policía</string>
+    <string name="text3">Definir lugares de traslados: Los alcaldes deben definir el lugar al que pueden ser enviadas las personas que sean trasladadas, por protección, por la Policía.</string>
+    <string name="text4">Prohibir la venta de alcohol: Ante situaciones de emergencia y calamidad, los alcaldes y gobernadores podrán restringir o prohibir el expendio y consumo de bebidas alcohólicas. </string>
+    <string name="text5">Traslado por protección: Cuando la vida o integridad de una persona o terceros esté en riesgo o peligro, la Policía podrá trasladarla para su protección. Específicamente, en los siguientes casos: Cuando deambule con el estado de conciencia alterado o bajo los efectos de bebidas alcohólicas
+Cuando esté involucrada en una riña o presente comportamientos agresivos o temerarios
+Cuando realice actividades peligrosas o de riesgo que pongan en peligro su vida o integridad o la de terceros
+Cuando esté en peligro de ser agredida
+Antes del traslado, la Policía podrá entregar a la persona a un allegado o pariente que asuma la protección. La duración del traslado no podrá ser mayor a 12 horas y la Policía tendrá que hacer un informe escrito de lo sucedido, para lo cual deberá definir el formato.</string>
+    <string name="text6">Restricción: Una persona no podrá ser trasladada por la Policía por el simple hecho de estar consumiendo bebidas alcohólicas o sustancias psicoactivas.</string>
+
+    <string name="text7">En barrios y viviendas</string>
+    <string name="text8">Consumo: Consumir bebidas alcohólicas, sustancias psicoactivas o prohibidas en lugares no autorizados para su consumo. Multa de $394.000</string>
+    <string name="text9">Venta a menores: Facilitar, prestar o vender bebidas alcohólicas, cigarrillo, tabaco y sus derivados, o sustancias psicoactivas a niños, niñas o adolescentes. Multa de $787.000</string>
+
+    <!-- Animales y mascotas -->
+    <!-- Porte de armas -->
+    <!-- Peatones y bicicletas -->
+    <!-- Transporte público -->
+    <!-- Espacio público -->
+    <!-- Actividad comercial -->
+    <!-- Protesta Social -->
+    <!-- Convivencia entre vecinos -->
 
     <string name="informacionGeneral">Esta aplicación ha sido desarrollada por Nuria Ortega Sánchez.\n
 
