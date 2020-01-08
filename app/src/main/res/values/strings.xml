@@ -35,9 +35,24 @@
     <string name="text_introduction_2">Entró en vigencia el nuevo Código Nacional de Policía y Convivencia (Ley 1801 de 2016), una herramienta diseñada para prevenir la violencia y los delitos que se derivan de los conflictos de convivencia.</string>
 
     <!-- Código de Policía -->
-    <string name="text_codigo_1">Aqui va el codigo de policia</string>
-
-
+    <string name="text_codigo_1">EL CONGRESO DE COLOMBIA \n
+        \n
+        DECRETA: \n
+        \n
+        LIBRO PRIMERO \n
+        \n
+        DISPOSICIONES GENERALES \n
+        \n
+        TÍTULO 1 \n
+        \n
+        OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA. \n
+        \n
+        BASES DE LA CONVIVENCIA \n
+        \n
+        CAPÍTULO 1
+        \n
+        OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA</string>
+    
     <!-- Alcohol y drogas -->
     <string name="text_responsible">Autoridades responsables</string>
     <string name="text_behaviors">Comportamientos contrarios a la convivencia y sanciones</string>
