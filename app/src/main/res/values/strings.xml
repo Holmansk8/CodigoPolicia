@@ -7,9 +7,7 @@
     <string name="nav_header_desc">Navigation</string>
     <string name="action_settings">Acerca de</string>
 
-    <string name="titulo">Código Nacional de Policía y Convivencia</string>
-    <string name="codigo_policia">El 30 de enero entró en vigencia el nuevo Código Nacional de Policía y Convivencia (Ley 1801 de 2016), una herramienta diseñada para prevenir la violencia y los delitos que se derivan de los conflictos de convivencia.</string>
-    <string name="title_activity_codigo_policia_layout">codigoPoliciaLayout</string>
+   <string name="title_activity_codigo_policia_layout">codigoPoliciaLayout</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
@@ -28,12 +26,16 @@
     <string name="menu_9">Protesta Social</string>
     <string name="menu_10">Convivencia entre vecinos</string>
 
+    <!-- Home -->
+    <string name="title_home_1">¡NO SE GANE UNA MULTA!</string>
+    <string name="title_home_2">ABC del nuevo Código de Policía</string>
+
     <!-- Introduccion -->
-    <string name="title_introduccion">¡NO SE GANE UNA MULTA!</string>
-    <string name="title_abc">ABC del nuevo Código de Policía</string>
+    <string name="text_introduction_1">Código Nacional de Policía y Convivencia</string>
+    <string name="text_introduction_2">Entró en vigencia el nuevo Código Nacional de Policía y Convivencia (Ley 1801 de 2016), una herramienta diseñada para prevenir la violencia y los delitos que se derivan de los conflictos de convivencia.</string>
 
     <!-- Código de Policía -->
-
+    <string name="text_codigo_1">Aqui va el codigo de policia</string>
 
 
     <!-- Alcohol y drogas -->
@@ -173,190 +175,142 @@
 
     <!-- Peatones y bicicletas -->
     <string name="text_peatones_1">Alcaldía</string>
-    <string name="text_peatones_2"><b>Promoción:</b> Promoverá el uso de medios alternativos de transporte. Para ello debe establecer un sistema de ciclo-rutas y carriles exclusivos de bicicleta. \n
-         \n
-        <b>Reglamentación:</b> Los alcaldes podrán reglamentar, en su jurisdicción, las ciclo-rutas y los carriles exclusivos para bicicletas.</string>
-    <string name="text_peatones_3"><b>Derecho a la vía:</b> Se le otorgará prioridad a los peatones y ciclistas en las vías y zonas diseñadas para ellos, excepto sobre vías férreas, autopistas y vías arterias.
-        /n
-        <b>Ciclo-rutas y carriles exclusivos:</b> Está prohibido obstruir por cualquier medio la ciclo-ruta o carril exclusivo para bicicletas.<b> Multa $99.000</b></string>
+    <string name="text_peatones_2"><b>Promoción:</b> Promoverá el uso de medios alternativos de transporte. Para ello debe establecer un sistema de ciclo-rutas y carriles exclusivos de bicicleta.</string>
+    <string name="text_peatones_3"><b>Reglamentación:</b> Los alcaldes podrán reglamentar, en su jurisdicción, las ciclo-rutas y los carriles exclusivos para bicicletas.</string>
+
+    <string name="text_peatones_4"><b>Derecho a la vía:</b> Se le otorgará prioridad a los peatones y ciclistas en las vías y zonas diseñadas para ellos, excepto sobre vías férreas, autopistas y vías arterias.</string>
+    <string name="text_peatones_5"><b>Ciclo-rutas y carriles exclusivos:</b> Está prohibido obstruir por cualquier medio la ciclo-ruta o carril exclusivo para bicicletas.<b> Multa $99.000</b></string>
 
     <!-- Transporte público -->
     <string name="text_transporte_1">Empresas de transporte público</string>
-    <string name="text_transporte_2"><b>Aseo:</b> Mantener los vehículos limpios para la prestación del servicio. En caso de incumplir, la empresa será sancionada. <b>Multa $394.000</b> /n
-        /n
-        <b>Cámaras de vigilancia:</b> Implementar cámaras de vigilancia en los vehículos que entren en circulación después de la expedición del nuevo Código de Policía. Si no lo hacen serán sancionadas. <b>Multa de $787.000 e inmovilización del vehículo.</b></string>
-    <string name="text_transporte_3"><b>Calibradores:</b> Queda prohibido realizar el control informal del tiempo durante el trayecto de un vehículo de transporte. <b>Este comportamiento será sancionado con una amonestación. </b> /n
-        /n
-        <b>Colados:</b> Colarse sin pagar en el transporte público. <b>Multa $197.000 </b> /n
-        /n
-        <b>Agresiones y empujones:</b> Agredir o empujar a las demás personas en el sistema de transporte. <b>Multa $99.000 </b> /n
-        /n
-        <b>Alarmas:</b> Destruir o alterar el sistema de alarma de los vehículos destinados al transporte público. <b>Multa $787.000 </b> /n
-        /n
-        <b>Ingreso y salida:</b> No se puede ingresar y salir de las estaciones o portales por lugares distintos a los establecidos. <b>Multa $99.000 </b></string>
+
+    <string name="text_transporte_2"><b>Aseo:</b> Mantener los vehículos limpios para la prestación del servicio. En caso de incumplir, la empresa será sancionada. <b>Multa $394.000</b></string>
+    <string name="text_transporte_3"><b>Cámaras de vigilancia:</b> Implementar cámaras de vigilancia en los vehículos que entren en circulación después de la expedición del nuevo Código de Policía. Si no lo hacen serán sancionadas. <b>Multa de $787.000 e inmovilización del vehículo.</b></string>
+
+    <string name="text_transporte_4"><b>Calibradores:</b> Queda prohibido realizar el control informal del tiempo durante el trayecto de un vehículo de transporte. \n
+        <b>Este comportamiento será sancionado con una amonestación.</b></string>
+    <string name="text_transporte_5"><b>Colados:</b> Colarse sin pagar en el transporte público. <b>Multa $197.000 </b></string>
+    <string name="text_transporte_6"><b>Agresiones y empujones:</b> Agredir o empujar a las demás personas en el sistema de transporte. <b>Multa $99.000 </b></string>
+    <string name="text_transporte_7"><b>Alarmas:</b> Destruir o alterar el sistema de alarma de los vehículos destinados al transporte público. <b>Multa $787.000 </b></string>
+    <string name="text_transporte_8"><b>Ingreso y salida:</b> No se puede ingresar y salir de las estaciones o portales por lugares distintos a los establecidos. <b>Multa $99.000 </b></string>
 
     <!-- Espacio público -->
     <string name="text_espacio_1">Alcaldes</string>
-    <string name="text_espacio_2"><b>Uso de pólvora:</b> Deben aprobar el uso de pólvora en el espacio público. /n
-        /n
-        <b>Restricción a menores de edad:</b> Restringir, de manera temporal, la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
+    <string name="text_espacio_2"><b>Uso de pólvora:</b> Deben aprobar el uso de pólvora en el espacio público.</string>
+    <string name="text_espacio_3"><b>Restricción a menores de edad:</b> Restringir, de manera temporal, la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
 
-    <string name="text_espacio_3">Gobierno Nacional</string>
-    <string name="text_espacio_4"><b>Integrar sistemas de vigilancia:</b> Los sistemas de video y medios tecnológicos que se encuentren instalados en el espacio público, se enlazarán a la red que disponga la Policía, de acuerdo con la reglamentación que expida el Gobierno.</string>
+    <string name="text_espacio_4">Gobierno Nacional</string>
+    <string name="text_espacio_5"><b>Integrar sistemas de vigilancia:</b> Los sistemas de video y medios tecnológicos que se encuentren instalados en el espacio público, se enlazarán a la red que disponga la Policía, de acuerdo con la reglamentación que expida el Gobierno.</string>
 
-    <string name="text_espacio_5">ICBF</string>
-    <string name="text_espacio_6"><b>Acompañamiento:</b> Acompañar las medidas de restricción de la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
+    <string name="text_espacio_6">ICBF</string>
+    <string name="text_espacio_7"><b>Acompañamiento:</b> Acompañar las medidas de restricción de la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
 
-    <string name="text_espacio_7">Policía</string>
-    <string name="text_espacio_8"><b>Remoción de obstáculos:</b> Remover los bienes que obstaculizan el espacio público.</string>
+    <string name="text_espacio_8">Policía</string>
+    <string name="text_espacio_9"><b>Remoción de obstáculos:</b> Remover los bienes que obstaculizan el espacio público.</string>
 
-    <string name="text_espacio_9">Concejos municipales</string>
-    <string name="text_espacio_10"><b>Delimitar lugares de aglomeración:</b> Definir cuáles serán las áreas protegidas, reservadas o determinadas del espacio público en las que no se dará permiso para aglomeraciones.</string>
+    <string name="text_espacio_10">Concejos municipales</string>
+    <string name="text_espacio_11"><b>Delimitar lugares de aglomeración:</b> Definir cuáles serán las áreas protegidas, reservadas o determinadas del espacio público en las que no se dará permiso para aglomeraciones.</string>
 
-    <string name="text_espacio_11"><b>Pólvora:</b> Prender o manipular pólvora sin contar con la autorización del alcalde. <b>Multa $787.000</b> /n
-        /n
-        <b>Sexo:</b> Está prohibido tener sexo en espacios públicos. <b>Multa $394.000</b> /n
-        /n
-        <b>Grafitis:</b> Hacer un grafiti o pegar un afiche sin autorización. <b>Multa $197.000</b> /n
-        /n
-        <b>Manifestaciones:</b> Irrespetar las manifestaciones y reuniones en el espacio público o en lugares privados en razón a la raza, edad, género, orientación sexual, creencias religiosas, preferencias políticas o apariencia personal. <b>Multa $787.000</b> /n
-        /n
-        <b>Demostraciones de afecto:</b> Obstruir las manifestaciones de afecto público (que no configuren actos sexuales) debido a la raza, orientación sexual, género u otra condición similar. <b>Multa $99.000</b> /n
-        /n
-        <b>Lavado de vehículos:</b> Lavar carros, motos y otros bienens en la vía pública, ríos, canales y quebradas, es contrario a la preservación del agua. <b>Multa $99.000</b> /n
-        /n
+    <string name="text_espacio_12"><b>Pólvora:</b> Prender o manipular pólvora sin contar con la autorización del alcalde. <b>Multa $787.000</b> \n
+        \n
+        <b>Sexo:</b> Está prohibido tener sexo en espacios públicos. <b>Multa $394.000</b> \n
+        \n
+        <b>Grafitis:</b> Hacer un grafiti o pegar un afiche sin autorización. <b>Multa $197.000</b> \n
+        \n
+        <b>Manifestaciones:</b> Irrespetar las manifestaciones y reuniones en el espacio público o en lugares privados en razón a la raza, edad, género, orientación sexual, creencias religiosas, preferencias políticas o apariencia personal. <b>Multa $787.000</b> \n
+        \n
+        <b>Demostraciones de afecto:</b> Obstruir las manifestaciones de afecto público (que no configuren actos sexuales) debido a la raza, orientación sexual, género u otra condición similar. <b>Multa $99.000</b> \n
+        \n
+        <b>Lavado de vehículos:</b> Lavar carros, motos y otros bienens en la vía pública, ríos, canales y quebradas, es contrario a la preservación del agua. <b>Multa $99.000</b> \n
+        \n
         <b>Arrojar basura:</b> Botar basura en el espacio público. <b>Multa $99.000</b></string>
 
     <!-- Actividad comercial -->
     <string name="text_comercial_1">Alcalde</string>
-    <string name="text_comercial_2"><b>Horarios:</b> Debe fijar los horarios de operación de la actividad comercial, inclusive para clubes sociales. /n
-        /n
-        <b>Perímetro de afectación:</b> Debe proponer el perímetro en el que una actividad económica afecta la tranquilidad./n
-        /n
+    <string name="text_comercial_2"><b>Horarios:</b> Debe fijar los horarios de operación de la actividad comercial, inclusive para clubes sociales. \n
+        \n
+        <b>Perímetro de afectación:</b> Debe proponer el perímetro en el que una actividad económica afecta la tranquilidad. \n
+        \n
         <b>Servicio de baño:</b> El alcalde regulará el cobro de servicio de baño.</string>
 
     <string name="text_comercial_3">Policía</string>
-    <string name="text_comercial_4"><b>Verificar el funcionamiento:</b> La Policía debe verificar los requisitos de funcionamiento de los establecimientos comerciales, ingresando cuando estén desarrollando su actividad. /n
-        /n
+    <string name="text_comercial_4"><b>Verificar el funcionamiento:</b> La Policía debe verificar los requisitos de funcionamiento de los establecimientos comerciales, ingresando cuando estén desarrollando su actividad. \n
+        \n
         <b>Ingreso a clubes sociales:</b> La Policía puede, en determinadas circunstancias, ingresar a clubes sociales.</string>
 
     <string name="text_comercial_5">Propietarios</string>
-    <string name="text_comercial_6"><b>Apertura:</b> El propietario de una actividad comercial debe comunicar a la comunidad la apertura del negocio. /n
-        /n
+    <string name="text_comercial_6"><b>Apertura:</b> El propietario de una actividad comercial debe comunicar a la comunidad la apertura del negocio. \n
+        \n
         <b>Servicio de baño:</b> Es obligatorio prestar el servicio de baño a niños, mujeres en embarazo y personas de la tercera edad, sin importar si son clientes o no.</string>
 
-    <string name="text_comercial_7"><b>Música y derechos de autor:</b> Poner música en un lugar comercial y no presentar el comprobante de pago de derechos de autor. <b>Multa $394.000</b> /n
-        /n
-        <b>Alimentos:</b> Vender alimentos en un lugar no autorizado. <b>Multa $197.000</b> /n
-        /n
-        <b>Horarios:</b> No cumplir con los horarios establecidos por el alcalde. <b>Multa $787.000</b> /n
-        /n
-        <b>Sobrecupo:</b> Permitir que un negocio se llene de gente por encima de la capacidad del lugar donde funciona. <b>Multa $787.000</b> /n
-        /n
-        <b>Ocupación de espacio público:</b> Está prohibido que un negocio propicie la ocupación indebida del espacio público. <b>Multa $197.000</b> /n
-        /n
-        <b>Uso del suelo:</b> Incumplir las normas de uso del suelo. <b>Multa $787.000</b> /n.
-        /n
-        <b>Servicios públicos:</b> Conectarse sin autorización de la empresa de servicios públicos. <b>Multa $787.000</b> /n
-        /n
-        <b>Arrendamiento:</b> Arrendar un inmueble para una actividad contraria a las normas de uso del suelo. <b>Multa $787.000</b> /n
-        /n
-        <b>Evacuación:</b> No informar los protocolos de evacuación. <b>Multa $99.000</b> /n
-        /n
-        <b>Ingreso de armas:</b> Se suspenderá de manera temporal la actividad comercial de cualquier establecimiento que permita el ingreso de personas con armas. Las armas serán decomisadas. /n
-        /n
-        <b>Suspensión:</b> Cuando un negocio incurra en comportamientos que afectan la convivencia dos o más veces, la Policía podrá suspender la actividad comercial de manera definitiva. /n
-        /n
-        <b>Drogas y otras sustancias:</b> Está prohibido expender o guardar en un establecimiento comercial cualquier sustancia prohibida. <b>Multa $787.000</b> /n
-        /n
-        <b>Contrabando:</b> Poseer o vender mercancías sin demostrar su procedencia lícita. <b>Multa $787.000 y destrucción del bien.</b> /n
-        /n
+    <string name="text_comercial_7"><b>Música y derechos de autor:</b> Poner música en un lugar comercial y no presentar el comprobante de pago de derechos de autor. <b>Multa $394.000</b> \n
+        \n
+        <b>Alimentos:</b> Vender alimentos en un lugar no autorizado. <b>Multa $197.000</b> \n
+        \n
+        <b>Horarios:</b> No cumplir con los horarios establecidos por el alcalde. <b>Multa $787.000</b> \n
+        \n
+        <b>Sobrecupo:</b> Permitir que un negocio se llene de gente por encima de la capacidad del lugar donde funciona. <b>Multa $787.000</b> \n
+        \n
+        <b>Ocupación de espacio público:</b> Está prohibido que un negocio propicie la ocupación indebida del espacio público. <b>Multa $197.000</b> \n
+        \n
+        <b>Uso del suelo:</b> Incumplir las normas de uso del suelo. <b>Multa $787.000</b> \n.
+        \n
+        <b>Servicios públicos:</b> Conectarse sin autorización de la empresa de servicios públicos. <b>Multa $787.000</b> \n
+        \n
+        <b>Arrendamiento:</b> Arrendar un inmueble para una actividad contraria a las normas de uso del suelo. <b>Multa $787.000</b> \n
+        \n
+        <b>Evacuación:</b> No informar los protocolos de evacuación. <b>Multa $99.000</b> \n
+        \n
+        <b>Ingreso de armas:</b> Se suspenderá de manera temporal la actividad comercial de cualquier establecimiento que permita el ingreso de personas con armas. Las armas serán decomisadas. \n
+        \n
+        <b>Suspensión:</b> Cuando un negocio incurra en comportamientos que afectan la convivencia dos o más veces, la Policía podrá suspender la actividad comercial de manera definitiva. \n
+        \n
+        <b>Drogas y otras sustancias:</b> Está prohibido expender o guardar en un establecimiento comercial cualquier sustancia prohibida. <b>Multa $787.000</b> \n
+        \n
+        <b>Contrabando:</b> Poseer o vender mercancías sin demostrar su procedencia lícita. <b>Multa $787.000 y destrucción del bien.</b> \n
+        \n
         <b>Discriminación:</b> Limitar o vetar el acceso a lugares y eventos públicos a personas en razón de su raza, sexo, orientación sexual, género o condición social o económica o discapacidad. <b>Multa $787.000</b></string>
 
     <!-- Protesta Social -->
     <string name="text_protesta_1">Alcalde</string>
-    <string name="text_protesta_2"><b>Uso de vías públicas:</b> Autorizar el uso de vías públicas para el libre ejercicio del derecho de reunión y manifestación pacífica. Si estas requieren avenidas, deberán elaborar un plan efectivo de desvíos. /n
-        /n
+    <string name="text_protesta_2"><b>Uso de vías públicas:</b> Autorizar el uso de vías públicas para el libre ejercicio del derecho de reunión y manifestación pacífica. Si estas requieren avenidas, deberán elaborar un plan efectivo de desvíos. \n
+        \n
         <b>Acompañamiento:</b> Acompañar las movilizaciones, junto con los entes de control encargados de velar por la protección de los Derechos Humanos. Cuando se presenten amenazas o incidentes, los alcaldes podrán intervenir a través de gestores de convivencia civiles.</string>
 
     <string name="text_protesta_3">Policía</string>
-    <string name="text_protesta_4"><b>Identificación:</b> El personal de Policía que acompañe la movilización debe estar visiblemente identificado y ubicado donde pueda reaccionar oportunamente, sin obstaculizarla. /n
-        /n
-        <b>Esmad:</b> Solo puede ser enviado cuando no sea posible controlar la movilización por otro medio. /n
-        /n
-        <b>Disolución:</b> Las movilizaciones pueden disolverse si causan alteraciones a la convivencia. /n
-        /n
-        <b>Uso de la fuerza:</b> La fuerza solo debe ser utilizada como último recurso. /n
-        /n
+    <string name="text_protesta_4"><b>Identificación:</b> El personal de Policía que acompañe la movilización debe estar visiblemente identificado y ubicado donde pueda reaccionar oportunamente, sin obstaculizarla. \n
+        \n
+        <b>Esmad:</b> Solo puede ser enviado cuando no sea posible controlar la movilización por otro medio. \n
+        \n
+        <b>Disolución:</b> Las movilizaciones pueden disolverse si causan alteraciones a la convivencia. \n
+        \n
+        <b>Uso de la fuerza:</b> La fuerza solo debe ser utilizada como último recurso. \n
+        \n
         <b>Fuerzas militares:</b> No pueden intervenir para controlar movilizaciones, salvo en los casos donde la Ley lo permita.</string>
 
-    <string name="text_protesta_5"><b>Armas:</b> Portar armas, elementos cortopunzantes o sustancias peligrosas en lugares abiertos al público. <b>Multa de $197.000, prohibición de ingreso y destrucción del bien.</b> /n
-        /n
-        <b>Otras armas:</b> Portar armas neumáticas, de aire, letalidad reducida o sprays, gases pimienta o aspersores en lugares donde existan aglomeraciones. <b>Multa de $197.000, prohibición de ingreso y destrucción del bien.</b> /n
-        /n
-        <b>Objetos:</b> Lanzar objetos que puedan causar daño a otras personas. Amonestación y participación en actividad comunitaria o pedagógica de convivencia. /n
-        /n
-        <b>Discriminación:</b> Irrespetar las manifestaciones en razón de la etnia, orientación sexual, género, creencias, posiciones políticas o apariencia personal. <b>Multa $787.000 </b> /n
-        /n
-        <b>Señalamentos:</b> Divulgar mensajes engañosos o señalamientos públicos a participantes de las manifestaciones. No se establece sanción. /n
-        /n
-        <b>Irrespeto:</b> Irrespetar a las autoridades de Policía. <b>Multa $99.000 </b> /n
-        /n
+    <string name="text_protesta_5"><b>Armas:</b> Portar armas, elementos cortopunzantes o sustancias peligrosas en lugares abiertos al público. <b>Multa de $197.000, prohibición de ingreso y destrucción del bien.</b> \n
+        \n
+        <b>Otras armas:</b> Portar armas neumáticas, de aire, letalidad reducida o sprays, gases pimienta o aspersores en lugares donde existan aglomeraciones. <b>Multa de $197.000, prohibición de ingreso y destrucción del bien.</b> \n
+        \n
+        <b>Objetos:</b> Lanzar objetos que puedan causar daño a otras personas. Amonestación y participación en actividad comunitaria o pedagógica de convivencia. \n
+        \n
+        <b>Discriminación:</b> Irrespetar las manifestaciones en razón de la etnia, orientación sexual, género, creencias, posiciones políticas o apariencia personal. <b>Multa $787.000 </b> \n
+        \n
+        <b>Señalamentos:</b> Divulgar mensajes engañosos o señalamientos públicos a participantes de las manifestaciones. No se establece sanción. \n
+        \n
+        <b>Irrespeto:</b> Irrespetar a las autoridades de Policía. <b>Multa $99.000 </b> \n
+        \n
         <b>Agredir a la Policía:</b> Agredir, lanzar objetos o sustancias peligrosas que puedan poner en peligro la vida y la integridad del personal de Policía. <b>Multa de $787.000 y participación en actividad comunitaria o de pedagogía de convivencia.</b></string>
 
     <!-- Convivencia entre vecinos -->
     <string name="text_vecinos_1">Policía</string>
     <string name="text_vecinos_2"><b>Desactivar fuentes de sonido:</b> La Policía podrá desactivar temporalmente la fuente de sonido que perturbe a los vecinos.</string>
 
-    <string name="text_vecinos_3">Perturbar o permitir que se afecte la tranquilidad con: /n
-        /n
-        <b>Fiestas:</b> Sonidos que generen molestia por su impacto en fiestas, reuniones o actividades privadas. <b>Multa: $394.000 y disolución de la actividad.</b> /n
-        /n
-        <b>Otros dispositivos:</b> Sonidos producidos por dispositivos de maquinaria, construcción o decoración utilizados en horas no permitidas. <b>Multa: $394.000</b> /n
-        /n
+    <string name="text_vecinos_3">Perturbar o permitir que se afecte la tranquilidad con: \n
+        \n
+        <b>Fiestas:</b> Sonidos que generen molestia por su impacto en fiestas, reuniones o actividades privadas. <b>Multa: $394.000 y disolución de la actividad.</b> \n
+        \n
+        <b>Otros dispositivos:</b> Sonidos producidos por dispositivos de maquinaria, construcción o decoración utilizados en horas no permitidas. <b>Multa: $394.000</b> \n
+        \n
         <b>Fumar:</b> Fumar en lugares prohibidos. <b>Amonestación.</b></string>
-
-    <string name="informacionGeneral">Esta aplicación ha sido desarrollada por Nuria Ortega Sánchez.\n
-
-        Se ha desarrollado en dos etapas: en una PRIMERA ETAPA como Trabajo de Fin de Grado.
-        Se trata de un prototipo para proporcionar información aumentada en visitas a museos usando técnicas de localización en interiores con tecnología
-        Bluetooth Low Energy.\n
-        La aplicación miMuseo guía al usuario por el museo para ayudarle a encontrar las obras de arte
-        que busque seleccionando la opción Visita Guiada. También le proporciona información ampliada
-        del cuadro más cercano a él pulsando sobre Visita Libre.
-        El usuario también puede usar las opciones de Mapa para localizarse en el museo y Pedir Ayuda para que
-        un miembro del personal del museo acuda a su posición.
-        Esta aplicación funciona en todo el conjunto de museos que forman parte de la aplicación. \n
-        \n
-        En la SEGUNDA ETAPA, como Tabajo de Fin de Master.
-        En esta etapa de ampliación se ha incorporado características muy demandadas actualmente en los museos.\n
-        Para su desarrollo se ha tenido más presente al usuario final ya que la primera fase se centró en el desarrollador.\n
-        Las novedades más importantes son las opciones de Audioguía y Realidad Aumentada, que consisten en nuevas formas de presentarle el contenido a los usuarios.\n
-        Para incorporarlas se han tenido que modificar distintas clases e interfaces en el perfil desarrollador, además de un cambio en la BBDD y en los archivos de intercambio de información con el servidor.\n
-        Como se acaba de mencionar, el usuario se ha tenido muy presente para el desarrollo y esto se refleja en cómo se han perfeccionado distintos detalles para mejorar la experiencia de usuario:
-        incorporación de splash screen, animación dropdown para dar a entender que se trata de una lista deslizable,
-        un cajón de navegación más vistoso y con vínculo a la página del desarrollador, uso de CardViews en los RecyclerView,
-        mostrar una fotografía de la obra de la que se habla para ayudar al usuario a reconocer el contenido,
-        uso de SearchView para encontrar más cómodamente una obra, transiciones entre un CardView concreto y su contenido,
-        acceso a la compra de tickets desde la app, incorporación de cuadros de diálogo explicativos en las opciones complejas,
-        capacidad de compartir con tus contactos el contenido del museo para fomentar la cultura,
-        uso de mascotas-guía_de_museo en la Realidad Aumentada que intentan captar la atención de los más pequeños
-        y hacen la explicación más amena, tomar fotografías desde la app, incorporar la flecha de volver a atrás en toolbar, poder llamar a emergencias, etc.\n
-        \n
-        \n
-        Agradecimientos:\n
-        \n
-        A mis tutores y profesores, por hacer que a sus alumnos les encante Android.
-        \n
-        \n
-        Recursos:\n
-        \n
-        Los iconos usados en los botones de la pantalla principal se han descargado de Flaticon
-        ( https://www.flaticon.com/ )  \n
-		Icon made by Pixel Buddha from www.flaticon.com  \n
-        Icon made by Freepik from www.flaticon.com   \n
-        \n
-		Los modelos 3d gratuitos para la Realidad Aumentada han sido descargados desde TurboSquid.
-
-    </string>
 </resources>

@@ -37,7 +37,7 @@
             android:textSize="@dimen/letter_size"
             android:layout_marginLeft="@dimen/dialog_margin16"
             android:layout_marginRight="@dimen/dialog_margin16"
-            android:text="@string/informacionGeneral" />
+            android:text="@string/text_codigo_1" />
     </LinearLayout>
 
 </FrameLayout>

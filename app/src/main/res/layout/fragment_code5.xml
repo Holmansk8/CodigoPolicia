@@ -60,6 +60,13 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:text="@string/text_peatones_2" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/text_peatones_3" />
         </LinearLayout>
 
         <TextView
@@ -87,7 +94,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
-                android:text="@string/text_peatones_3" />
+                android:text="@string/text_peatones_4" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/text_peatones_5" />
         </LinearLayout>
     </LinearLayout>
 </FrameLayout>
