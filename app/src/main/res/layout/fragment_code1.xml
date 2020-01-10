@@ -6,12 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".Code1Fragment">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:orientation="vertical">
-
         <TextView
             android:id="@+id/textViewTitulo"
             android:layout_width="match_parent"
@@ -27,17 +21,44 @@
             tools:layout_editor_absoluteX="111dp"
             tools:layout_editor_absoluteY="479dp" />
 
-        <TextView
-            android:id="@+id/textViewDescripcion"
+        <LinearLayout
+            android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginTop="@dimen/vertical_separator"
-            android:textColor="@color/White"
-            android:textSize="@dimen/letter_size"
-            android:layout_marginLeft="@dimen/dialog_margin16"
-            android:layout_marginRight="@dimen/dialog_margin16"
-            android:text="@string/text_codigo_1" />
-    </LinearLayout>
+            android:layout_marginLeft="@dimen/dialog_margin10"
+            android:layout_marginRight="@dimen/dialog_margin10"
+            android:padding="@dimen/dialog_margin10"
+            android:background="@drawable/text_border">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/text_codigo_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_4"/>
+        </LinearLayout>
 </FrameLayout>

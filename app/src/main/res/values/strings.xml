@@ -32,10 +32,11 @@
 
     <!-- Introduccion -->
     <string name="text_introduction_1">Código Nacional de Policía y Convivencia</string>
-    <string name="text_introduction_2">Entró en vigencia el nuevo Código Nacional de Policía y Convivencia (Ley 1801 de 2016), una herramienta diseñada para prevenir la violencia y los delitos que se derivan de los conflictos de convivencia.</string>
+    <string name="text_introduction_2">Entró en vigencia el nuevo Código Nacional de Policía y Convivencia (Ley 1801 de 2016), una herramienta diseñada para
+        prevenir la violencia y losdelitos que se derivan de los conflictos de convivencia.</string>
 
     <!-- Código de Policía -->
-    <string name="text_codigo_1">EL CONGRESO DE COLOMBIA \n
+    <string name="text_codigo_1"> <b>EL CONGRESO DE COLOMBIA \n
         \n
         DECRETA: \n
         \n
@@ -51,8 +52,26 @@
         \n
         CAPÍTULO 1
         \n
-        OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA</string>
-    
+        OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA </b></string>
+    <string name="codigo_art_1"><b>Artículo 1.</b> Objeto. Las disposiciones previstas en este Código son de carácter preventivo y buscan establecer las condiciones para la convivencia en el
+        territorio nacional al propiciar el cumplimiento de los deberes y obligaciones de las personas naturales y jurídicas, así como determinar el ejercicio del poder, la función y la
+        actividad de policía, de conformidad con la Constitución Política y el ordenamiento jurídico vigente. </string>
+    <string name="codigo_art_2"><b>Artículo 2°. Objetivos específicos.</b> Con el fin de mantener las condiciones necesarias para la convivencia en el territorio nacional, los objetivos específicos
+        de este Código son los siguientes: \n
+        1. Propiciar en la comunidad comportamientos que favorezcan la convivencia en el espacio público, áreas comunes, lugares abiertos al público o que siendo privados trasciendan a lo público. \n
+        2. Promover el respeto, el ejercicio responsable de la libertad, la dignidad, los deberes y los derechos correlativos de la personalidad humana. \n
+        3. Promover el uso de mecanismos alternativos, o comunitarios, para la conciliación y solución pacífica de desacuerdos entre particulares. \n
+        4. Definir comportamientos, medidas, medios y procedimientos de policía. \n
+        5. Establecer la competencia de las autoridades de pOlicía en el orden nacional, departamental, distrital y municipal, con observancia del principio de autonomía territorial. \n
+        6. Establecer un procedimiento respetuoso del debido proceso, idóneo, inmediato, expedito y eficaz para la atención oportuna de los comportamientos relacionados con la convivencia en el territorio nacional.</string>
+    <string name="codigo_art_3"><b>Artículo 3°. Ámbito de aplicación del Derecho de Policía.</b> El derecho de policía se aplicará a todas las personas naturales o jurídicas, de conformidad con este Código. \n
+        \n
+        Las autoridades de policía sujetarán sus actuaciones al procedimiento único de policía, sin perjuicio de las competencias que les asistan en procedimientos regulados por leyes especiales. </string>
+    <string name="codigo_art_4"><b>Artículo 4°. Autonomía del acto y del procedimiento de policía.</b> Las disposiciones de la Parte Primera del Código de Procedimiento Administrativo y de lo Contencioso
+        Administrativo no se aplicarán al acto de pOlicía ni a los procedimientos de policía, que por su misma naturaleza preventiva requieren decisiones de aplicación inmediata, eficaz, oportuna y
+        diligente, para conservar el fin superior de la convivencia, de conformidad con las normas vigentes y el artículo 20 de la Ley 1437 de 2011. Por su parte las disposiciones de la parte
+        segunda de la Ley 1437 de 2011 se aplicarán a la decisión final de las autoridades de policía en el proceso único de policía, con excepción de aquellas de que trata el numeral 3 del Artículo 105 de la Ley en mención.  </string>
+
     <!-- Alcohol y drogas -->
     <string name="text_responsible">Autoridades responsables</string>
     <string name="text_behaviors">Comportamientos contrarios a la convivencia y sanciones</string>
