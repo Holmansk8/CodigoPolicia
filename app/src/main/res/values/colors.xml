@@ -22,4 +22,7 @@
 
     <color name="background_color">#E0F8F7</color>
     <color name="border_color">#0092D3</color>
+
+    <color name="text_color">#0000CC</color>
+
 </resources>

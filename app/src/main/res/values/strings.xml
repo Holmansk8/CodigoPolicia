@@ -36,21 +36,17 @@
         prevenir la violencia y losdelitos que se derivan de los conflictos de convivencia.</string>
 
     <!-- Código de Policía -->
-    <string name="text_codigo_1"> <b>EL CONGRESO DE COLOMBIA \n
+    <string name="text_codigo_1"><b>EL CONGRESO DE COLOMBIA \n
         \n
-        DECRETA: \n
+        DECRETA:</b></string>
+    <string name="codigo_libro_1"><b>LIBRO PRIMERO \n
         \n
-        LIBRO PRIMERO \n
-        \n
-        DISPOSICIONES GENERALES \n
-        \n
-        TÍTULO 1 \n
-        \n
+        DISPOSICIONES GENERALES</b></string>
+
+    <string name="libro_1_titulo_1"><b>TÍTULO I \n
         OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA. \n
-        \n
-        BASES DE LA CONVIVENCIA \n
-        \n
-        CAPÍTULO 1
+        BASES DE LA CONVIVENCIA</b></string>
+    <string name="lib_1_tit_1_cap_1"><b>CAPÍTULO I
         \n
         OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA </b></string>
     <string name="codigo_art_1"><b>Artículo 1.</b> Objeto. Las disposiciones previstas en este Código son de carácter preventivo y buscan establecer las condiciones para la convivencia en el
@@ -71,6 +67,429 @@
         Administrativo no se aplicarán al acto de pOlicía ni a los procedimientos de policía, que por su misma naturaleza preventiva requieren decisiones de aplicación inmediata, eficaz, oportuna y
         diligente, para conservar el fin superior de la convivencia, de conformidad con las normas vigentes y el artículo 20 de la Ley 1437 de 2011. Por su parte las disposiciones de la parte
         segunda de la Ley 1437 de 2011 se aplicarán a la decisión final de las autoridades de policía en el proceso único de policía, con excepción de aquellas de que trata el numeral 3 del Artículo 105 de la Ley en mención.  </string>
+
+    <string name="lib_1_tit_1_cap_2"><b>CAPÍTULO II \n
+        BASES DE LA CONVIVENCIA Y SEGURIDAD CIUDADANA</b></string>
+    <string name="codigo_art_5"><b>Artículo 5°. Definición.</b> Para los efectos de este Código, se entiende por convivencia, la
+        interacción pacífica, respetuosa y armónica entre las personas, con los bienes, y con el ambiente, en el marco del ordenamiento
+        jurídico.</string>
+    <string name="codigo_art_6"><b>Artículo 6°.</b> Categorías jurídicas. Las categorías de convivencia son: seguridad, tranquilidad,
+        ambiente y salud pública, y su alcance es el siguiente:\n
+        1. Seguridad: Garantizar la protección de los derechos y libertades constitucionales y legales de las personas en el territorio nacional.\n
+        2. Tranquilidad: Lograr que las personas ejerzan sus derechos y libertades, sin abusar de los mismos, y con plena observancia de los derechos ajenos.\n
+        3. Ambiente: Favorecer la protección de los recursos naturales, el patrimonio ecológico, el goce y la relación sostenible con el ambiente. \n
+        4. Salud Pública: Es la responsabilidad estatal y ciudadana de protección de la salud como un derecho esencial, individual,
+        colectivo y comunitario logrado en función de las condiciones de bienestar y calidad de vida. </string>
+    <string name="codigo_art_7"><b>Artículo 7°.</b> Finalidades de la convivencia. Son fines esenciales de las normas de convivencia
+        social previstas en este Código:\n
+        1. Que el ejercicio de los derechos y libertades sean garantizados y respetados en el marco de la constitución y la ley.\n
+        2. El cumplimiento de los deberes contenidos en la Constitución, la ley y las normas que regulan la convivencia.\n
+        3. El respeto por las diferencias y la aceptación de ellas.\n
+        4. La resolución pacífica de los desacuerdos que afecten la convivencia.\n
+        5. La convergencia de los intereses personales y generales para promover un desarrollo armónico.\n
+        6. prevalencia de los valores sociales de solidaridad, tolerancia, responsabilidad, honradez, respeto, bondad, libertad,
+        justicia, igualdad, fraternidad, lealtad, prudencia y paz. </string>
+    <string name="codigo_art_8"><b>Artículo 8°. Principios.</b> Son principios fundamentales del Código:\n
+    1. La protección de la vida y el respeto a la dignidad humana.\n
+        2. Protección y respeto a los derechos humanos.\n
+        3. La prevalencia de los derechos de niños, niñas y adolescentes y su protección integral.\n
+        4. La igualdad ante la ley.\n
+        5. La libertad y la autorregulación.\n
+        6. El reconocimiento y respeto de las diferencias culturales, la autonomía e identidad regional, la diversidad y la no discriminación.\n
+        7. El debido proceso.\n
+        8. La protección de la diversidad e integridad del ambiente y el patrimonio ecológico.\n
+        9. La solidaridad.\n
+        10. La solución pacífica de las controversias y desacuerdos de los conflictos.\n
+        11. El respeto al ordenamiento jurídico y a las autoridades legalmente constituidas.\n
+        12. Proporcionalidad y razonabilidad. La adopción de medios de policía y medidas correctivas debe ser proporcional y razonable
+        atendiendo las circunstancias de cada caso y la finalidad de la norma. Por lo tanto, se debe procurar que la afectación de
+        derechos y libertades no sea superior al beneficio perseguido y evitar todo exceso innecesario.\n
+        13. Necesidad. Las autoridades de policía solo podrán adoptar los medios y medidas rigurosamente necesarias e idóneas para la
+        preservación y restablecimiento del orden público cuando la aplicación de otros mecanismos de protección, restauración,
+        educación o de prevención resulte ineficaz para alcanzar el fin propuesto.\n
+        <b>Parágrafo.</b> Los principios enunciados en la Ley 1098 de 2006 deberán observarse como criterio de interpretación y aplicación
+        de esta Ley cuando se refiera a niños, niñas y adolescentes.</string>
+    <string name="codigo_art_9"><b>Artículo 9°. Ejercicio de la libertad y de los derechos de los asociados.</b> Las autoridades
+        garantizarán a las personas que habitan o visitan el territorio colombiano, el ejercicio legítimo de los derechos y las
+        libertades constitucionales, con fundamento en su autonomía personal, autorregulación individual y social. </string>
+    <string name="codigo_art_10"><b>Artículo 10°. Deberes de las autoridades de Policía.</b> Son deberes generales de las
+        autoridades de policía:\n
+        1. Respetar y hacer respetar los derechos y las libertades que establecen la Constitución Política, las leyes,
+        los tratados y convenios internacionales suscritos y ratificados por el Estado colombiano.\n
+        2. Cumplir y hacer cumplir la Constitución, las leyes, las normas contenidas en el presente Código, las ordenanzas,
+        los acuerdos, y en otras disposiciones que dicten las autoridades competentes en materia de convivencia.\n
+        3. Prevenir situaciones y comportamientos que ponen en riesgo la convivencia.\n
+        4. Dar el mismo trato a todas las personas, sin perjuicio de las medidas especiales de protección que deban ser
+        brindadas por las autoridades de policía a aquellas que se encuentran en situación de debilidad manifiesta o pertenecientes
+        a grupos de especial protección constitucional.\n
+        5. Promover los mecanismos alternativos de resolución de conflictos como vía de solución de desacuerdos o conflictos
+        entre particulares, y propiciar el diálogo y los acuerdos en aras de la convivencia, cuando sea viable legalmente.\n
+        6. Recibir y atender de manera pronta, oportuna y eficiente, las quejas, peticiones y reclamos de las personas.\n
+        7. Observar el procedimiento establecido en este Código, para la imposición de medidas correctivas.\n
+        8. Colaborar con las autoridades judiciales para la debida prestación del servicio de justicia.\n
+        9. Aplicar las normas de policía con transparencia, eficacia, economía, celeridad y publicidad, y dando ejemplo de
+        acatamiento de la ley y las normas de convivencia.\n
+        10. Conocer, aplicar y capacitarse en mecanismos alternativos de solución de conflictos y en rutas de acceso a la justicia.\n
+        11. Evitar al máximo el uso de la fuerza y de no ser esto posible, limitarla al mínimo necesario.\n
+        \n
+        <b>Parágrafo Transitorio.</b> Dentro de los seis (6) meses siguientes a la entrada en vigencia de la presente ley, el Gobierno
+        Nacional reglamentará y dispondrá lo concerniente a los espacios físicos necesarios para que la policía nacional reciba
+        y atienda de manera pronta, oportuna y eficiente las quejas, peticiones y reclamos de las personas. </string>
+    <string name="libro_1_titulo_2"><b>TÍTULO II \n
+        PODER, FUNCIÓN Y ACTIVIDAD DE POLICÍA.</b></string>
+
+    <string name="lib_1_tit_2_cap_1"><b>CAPÍTULO I
+        \n
+        PODER DE POLICÍA </b></string>
+    <string name="codigo_art_11"><b>Artículo 11°. Poder de Policía.</b> El poder de policía es la facultad de expedir las normas en
+        materia de policía, que son de carácter general, impersonal y abstracto, ejercido por el Congreso de la República para
+        regular el ejercicio de la libertad, los derechos y los deberes constitucionales, para la convivencia y establecer los
+        medios y las medidas correctivas en caso de su incumplimiento.</string>
+    <string name="codigo_art_12"><b>Artículo 12°. Poder subsidiario de policía.</b> Las asambleas departamentales y el Concejo
+        Distrital de Bogotá, dentro de su respectivo ámbito territorial, ejercen un poder subsidiario de policía para dictar
+        normas en materias que no sean de reserva legal, en el marco de la Constitución y la ley. \n
+        \n
+        Estas corporaciones en el ejercicio de poder subsidiario no pOdrán:\n
+        \n
+        1. Establecer limitaciones, restricciones o normas adicionales a los derechos y deberes de las personas, que no hayan
+        sido previstas o autorizadas por el legislador.\n
+        2. Establecer medios o medidas correctivas diferentes a las previstas por el legislador.\n
+        3. Exigir requisitos adicionales para ejercer derechos o actividades reglamentadas de manera general, ni afectar los establecidos en la ley.\n
+        \n
+        <b>Parágrafo 1°.</b> El Concejo Distrital de Bogotá podrá establecer formas de control policial sobre las normas de ordenamiento
+        territorial, usos del suelo y defensa del patrimonio ecológico y cultural.
+        \n
+        <b>Parágrafo 2°.</b> Las normas de pOlicía y convivencia expedidas por el Concejo del Distrito Capital de Bogotá no están subordinadas a las ordenanzas.</string>
+    <string name="codigo_art_13"><b>Artículo 13°. Poder residual de pOlicía.</b> Los demás Concejos Distritales y los Concejos
+        Municipales dentro de su respectivo ámbito territorial, podrán reglamentar residual mente los comportamientos que no
+        hayan sido regulados por la ley o los reglamentos departamentales de policía, ciñéndose a los medios, procedimientos y medidas
+        correctivas establecidas en la presente ley.\n
+        \n
+        Estas Corporaciones en el ejercicio del poder residual no podrán:\n
+        \n
+        1. Establecer limitaciones, restricciones o normas adicionales a los derechos y deberes de las personas, que no hayan
+        sido previstas o autorizadas por el legislador.\n
+        2. Establecer medios, procedimientos o medidas correctivas diferentes a las previstas por el legislador.\n
+        3. Exigir requisitos adicionales para ejercer derechos o actividades reglamentadas de manera general, ni afectar los
+        establecidos en la ley.\n
+        \n
+        Parágrafo. Los Concejos Municipales y Distritales podrán establecer formas de control policial sobre las normas de ordenamiento
+        territorial, usos del suelo y defensa del patrimonio ecológico y cultural. </string>
+    <string name="codigo_art_14"><b>Artículo 14°. Poder extraordinario para prevención del riesgo o ante situaciones de emergencia, seguridad y calamidad.</b>
+        Los gobernadores y los alcaldes, podrán disponer acciones transitorias de policía, ante situaciones extraordinarias que puedan amenazar o
+        afectar gravemente a la población, con el propósito de prevenir las consecuencias negativas ante la materialización de un evento amenazante o
+        mitigar los efectos adversos ante la ocurrencia de desastres, epidemias, calamidades, o situaciones de seguridad o medio ambiente; así mismo,
+        para disminuir el impacto de sus posibles consecuencias, de conformidad con las leyes que regulan la materia.\n
+        \n
+        <b>Parágrafo.</b> Lo anterior sin perjuicio de lo establecido en la Ley 9a de 1979, la Ley 65 de 1993, Ley 1523 de 2012 frente
+        a la condición de los mandatarios como cabeza de los Consejos de Gestión de Riesgo de Desastre y las normas que las modifiquen,
+        adicionen o sustituyan, con respecto a las facultades para declarar la emergencia sanitaria.</string>
+    <string name="codigo_art_15"><b>Artículo 15°. Transitoriedad e informe de la gestión.</b> Las acciones transitorias de policía
+        señaladas en el artículo anterior, sólo regirán mientras dure la situación de desastre o emergencia. La autoridad que las
+        ejerza dará cuenta inmediata de las medidas que hubiere adoptado a la Asamblea Departamental y/o al Concejo Distrital o Municipal,
+        en sus inmediatas sesiones, según corresponda.\n
+        \n
+        En el caso en que se considere necesario darle carácter permanente a las acciones transitorias de policía dictadas de conformidad
+        con lo establecido en el artículo anterior, los gobernadores y los alcaldes, presentarán ante la Asamblea Departamental o el
+        Concejo Distrital o Municipal, según corresponda, el respectivo proyecto, que será tramitado de la manera más expedita de
+        conformidad con el reglamento interno de cada corporación. </string>
+    <string name="lib_1_tit_2_cap_2"><b>CAPÍTULO II \n
+        FUNCIÓN Y ACTIVIDAD DE POLICÍA</b></string>
+    <string name="codigo_art_16"><b>Artículo 16°. Función de Policía.</b> Consiste en la facultad de hacer cumplir las disposiciones
+        dictadas en ejercicio del poder de policía, mediante la expedición de reglamentos generales y de acciones apropiadas para
+        garantizar la convivencia. Esta función se cumple por medio de órdenes de policía.</string>
+    <string name="codigo_art_17"><b>Artículo 17°. Competencia para expedir reglamentos.</b> En el ámbito nacional corresponde al
+        Presidente de la República reglamentar las leyes sobre materias de policía. Cuando las disposiciones de las asambleas o los
+        concejos en asuntos de policía, requieran reglamentación para aplicarlas, los gobernadores o los alcaldes podrán, según el
+        caso, dictar reglamentos sólo con ese fin.\n
+        Las autoridades que expiden reglamentos no podrán regular comportamientos, imponer medidas correctivas o crear procedimientos
+        distintos a los establecidos en la norma reglamentada, salvo que esta les otorgue dicha competencia. </string>
+    <string name="codigo_art_18"><b>Artículo 18°. Coordinación.</b> La coordinación entre las autoridades de policía debe ser
+        permanente, adecuada, eficiente, eficaz y oportuna, con el fin de asegurar las condiciones necesarias para la convivencia. </string>
+    <string name="codigo_art_19"><b>Artículo 19°. Consejos de Seguridad y Convivencia y Comité Civil de Convivencia.</b> Los Consejos de
+        Seguridad y Convivencia son cuerpos consultivos y de decisión para la prevención y reacción ante los problemas relacionados con
+        la seguridad y la convivencia en el nivel nacional, regional, departamental, distrital, municipal o metropolitano. El Gobierno
+        nacional establecerá mediante reglamentación los objetivos, funciones, integrantes y demás aspectos relacionados con el
+        funcionamiento de los Consejos de Seguridad y Convivencia. De manera subsidiaria, las autoridades ejecutivas de los niveles distrital,
+        departamental y municipal, considerando su especificidad y necesidad, podrán complementar la regulación hecha por el Gobierno Nacional.\n
+        \n
+        Créanse los Comités Civiles de Convivencia en cada municipio o distrito, cuyo objeto será analizar hechos y fenómenos que afectan
+        la convivencia así como tramitar las quejas, denuncias, peticiones o reconocimientos reportados en relación con la función y la
+        actividad de policía en su respectiva jurisdicción priorizando los casos relacionados con actuaciones donde hubieren podido verse
+        afectados los intereses colectivos.\n
+        \n
+        Estos Comités podrán emitir recomendaciones para mejorar la función y la actividad de policía y garantizar la transparencia en el
+        ejercicio de sus funciones. Así mismo, deberán fomentar e incentivar que la ciudadanía presente las denuncias y quejas que
+        correspondan y promoverá campañas de información sobre los derechos, deberes y garantías de los ciudadanos ante las actividades de policía.\n
+        \n
+        Este Comité estará conformado por el Alcalde, el Personero Municipal y el Comandante de Estación del respectivo distrito,
+        municipio o localidad. Estos Comités deberán reunirse, al menos, una vez al mes.  </string>
+    <string name="codigo_art_20"><b>Artículo 20°. Actividad de policía.</b> Es el ejercicio de materialización de los medios y medidas
+        correctivas, de acuerdo con las atribuciones constitucionales, legales y reglamentarias conferidas a los uniformados de la
+        Policía Nacional, para concretar y hacer cumplir las decisiones dictadas en ejercicio del poder y la función de policía, a las
+        cuales está subordinada. La actividad de policía es una labor estrictamente material y no jurídica, y su finalidad es la de
+        preservar la convivencia y restablecer todos los comportamientos que la alteren.</string>
+    <string name="codigo_art_21"><b>Artículo 21°. Carácter público de las actividades de policía.</b> Todo procedimiento policivo podrá
+        ser grabado mediante cualquier medio de las tecnologías de información y comunicación, por lo que le está prohibido a cualquier
+        persona, salvo las restricciones expresas de ley, impedir que sean realizadas dichas grabaciones.\n
+        \n
+        La autoridad de policía que impida la grabación de que trata este artículo sin la justificación legal correspondiente
+        incurrirá en causal de mala conducta. </string>
+    <string name="codigo_art_22"><b>Artículo 22°. Titular del uso de la fuerza policial.</b> La utilización de la fuerza legítima
+        corresponde de manera exclusiva, en el marco de este Código, a los miembros uniformados de la Policía Nacional, de conformidad
+        con el marco jurídico vigente, salvo en aquellos casos en los que de manera excepcional se requiera la asistencia militar. </string>
+    <string name="lib_1_tit_2_cap_3"><b>CAPÍTULO III \n
+        CONCRECIÓN DE LA ORDEN DE POLICÍA</b></string>
+    <string name="codigo_art_23"><b>Artículo 23°. Materialización de la orden.</b>  Consiste en la ejecución concreta de una orden o norma
+        de policía. Esta es aplicada por la autoridad de policía que la dictó y por aquellas personas que, en razón de sus funciones,
+        deban hacerlo o contribuir a ejecutarla. </string>
+
+    <string name="codigo_libro_2"><b>LIBRO SEGUNDO \n
+        DE LA LIBERTAD, LOS DERECHOS Y DEBERES DE LAS \n
+        PERSONAS EN MATERIA DE CONVIVENCIA</b></string>
+    <string name="libro_2_titulo_1"><b>TÍTULO I \n
+        DEL CONTENIDO DEL LIBRO</b></string>
+    <string name="lib_2_tit_1_cap_unico"><b>CAPÍTULO ÚNICO
+        \n
+        ASPECTOS GENERALES </b></string>
+    <string name="codigo_art_24"><b>Artículo 24°. Contenido.</b> El presente libro establece los comportamientos contrarios a la convivencia
+        que no deben ser realizados por las personas que habitan o visitan el territorio nacional.\n
+        \n
+        El cumplimiento de los comportamientos favorables a la convivencia y el rechazo de los que le son contrarios, serán promovidos por
+        las entidades estatales y organizaciones de la sociedad civil, y en particular por las autoridades de policía, quienes exaltarán los
+        primeros y ejercerán un control sobre los segundos. </string>
+    <string name="codigo_art_25"><b>Artículo 25°. Comportamientos contrarios a la convivencia y medidas correctivas.</b> Quienes incurran
+        en comportamientos contrarios a la convivencia serán objeto de medidas correctivas de conformidad con esta ley, sin perjuicio
+        de las demás acciones que en derecho correspondan.\n
+        \n
+        <b>Parágrafo 1°.</b> En atención a los comportamientos relacionados en el presente Código, corresponde a las autoridades de Policía dentro
+        del ámbito de su competencia adelantar las acciones que en derecho correspondan respetando las garantías constitucionales.\n
+        \n
+        <b>Parágrafo 2°.</b> En caso de que el comportamiento contrario a la convivencia también constituya una conducta tipificada en el Código
+        Penal, la medida correctiva a imponer no pOdrá tener la misma naturaleza que la sanción prevista en este último. La autoridad de
+        policía lo pondrá en conocimiento de la Fiscalía General de la Nación e impondrá las medidas de naturaleza distinta previstas
+        en el presente Código.</string>
+    <string name="libro_2_titulo_2"><b>TÍTULO II \n
+        DE LOS COMPORTAMIENTOS CONTRARIOS A LA CONVIVENCIA</b></string>
+    <string name="codigo_art_26"><b>Artículo 26°. Deberes de convivencia.</b> Es deber de todas las personas en el territorio nacional
+        comportarse de manera favorable a la convivencia. Para ello, además de evitar comportamientos contrarios a la misma, deben
+        regular sus comportamientos a fin de respetar a las demás personas, en el ejercicio de sus derechos y deberes ciudadanos, en su vida,
+        honra y bienes, de conformidad con la Constitución Política y las leyes, y especialmente con lo dispuesto en la presente ley. </string>
+    <string name="libro_2_titulo_3"><b>TÍTULO III \n
+        DEL DERECHO DE LAS PERSONAS A LA SEGURIDAD Y A LA DE SUS BIENES</b></string>
+    <string name="lib_2_tit_3_cap_1"><b>CAPÍTULO I \n
+        VIDA E INTEGRIDAD DE LAS PERSONAS</b></string>
+    <string name="codigo_art_27"><b>Artículo 27°. Comportamientos que ponen en riesgo la vida e integridad.</b> Los siguientes
+        comportamientos ponen en riesgo la vida e integridad de las personas, y, por lo tanto, son contrarios a la convivencia:\n
+        \n
+        1. Reñir, incitar o incurrir en confrontaciones violentas que puedan derivar en agresiones físicas.\n
+        2. Lanzar objetos que puedan causar daño o sustancias peligrosas a personas.\n
+        3. Agredir físicamente a personas por cualquier medio.\n
+        4. Amenazar con causar un daño físico a personas por cualquier medio.\n
+        5. No retirar o reparar, en los inmuebles, los elementos que ofrezcan riesgo a la vida e integridad.\n
+        6. Portar armas, elementos cortantes, punzantes o semejantes, o sustancias peligrosas, en áreas comunes o lugares abiertos
+        al púlblico. Se exceptúa a quien demuestre que tales elementos o sustancias constituyen una herramienta de su actividad deportiva,
+        oficio, profesión o estudio.\n
+        7. Portar armas neumáticas, de aire, de fogueo, de letalidad reducida o sprays, rociadores, aspersores o aerosoles de pimienta o
+        cualquier elemento que se asimile a armas de fuego, en lugares abiertos al públiCO donde se desarrollen aglomeraciones de personas o
+        en aquellos donde se consuman bebidas embriagantes, o se advierta su utilización irregular, o se incurra en un comportamiento
+        contrario a la convivencia.\n
+        \n
+        <b>Parágrafo 1.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las siguientes
+        medidas correctivas:</string>
+    <string name="tabla_1_encabezado_1"><b>COMPORTAMIENTOS</b></string>
+    <string name="tabla_1_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
+    <string name="tabla_1_fila_1_1">Numeral 1</string>
+    <string name="tabla_1_fila_1_2">Multa General tipo 2.</string>
+    <string name="tabla_1_fila_2_1">Numeral 2</string>
+    <string name="tabla_1_fila_2_2">Amonestación; Participación en programa comunitario o actividad pedagógica de convivencia.</string>
+    <string name="tabla_1_fila_3_1">Numeral 3</string>
+    <string name="tabla_1_fila_3_2">Multa General tipo 3.</string>
+    <string name="tabla_1_fila_4_1">Numeral 4</string>
+    <string name="tabla_1_fila_4_2">Participación en programa comunitario o actividad pedagógica de convivencia; Multa General tipo 2.</string>
+    <string name="tabla_1_fila_5_1">Numeral 5</string>
+    <string name="tabla_1_fila_5_2">Construcción, cerramiento, reparación; o mantenimiento de inmuebles; Remoción de bienes;
+        Reparación de daños materiales de muebles; Destrucción de bien.</string>
+    <string name="tabla_1_fila_6_1">Numeral 6</string>
+    <string name="tabla_1_fila_6_2">Multa General tipo 2. Prohibición de ingreso a eventos que involucren aglomeraciones de público
+        complejas o no complejas, destrucción de bien. </string>
+    <string name="tabla_1_fila_7_1">Numeral 7</string>
+    <string name="tabla_1_fila_7_2">Multa General tipo 2. Prohibición de ingreso a eventos que involucren aglomeraciones de público
+        complejas o no complejas, destrucción de bien. </string>
+    <string name="codigo_art_27_2"><b>Parágrafo 2.</b> En todos los comportamientos señalados en el presente artículo, se
+        deberá utilizar la mediación policial como medio para intentar resolver el conflicto.</string>
+    <string name="lib_2_tit_3_cap_2"><b>CAPÍTULO II \n
+        DE LA SEGURIDAD EN LOS SERVICIOS PÚBLICOS</b></string>
+    <string name="codigo_art_28"><b>Artículo 28°. Comportamientos que afectan la seguridad y bienes en relación con los servicios públicos.</b>
+        Los siguientes comportamientos que afectan la seguridad de las personas y la de sus bienes y por lo tanto no deben realizarse al
+        hacer uso de los servicios públicos: \n
+        \n
+        1. Poner en riesgo a personas o bienes durante la instalación, utilización, mantenimiento o modificación de las estructuras
+        de los servicios públicos.\n
+        2. Modificar o alterar redes o instalaciones de servicios públicos.\n
+        3. Arrojar en las redes de alcantarillado, acueducto y de aguas lluvias, cualquier objeto, sustancia, residuo, escombros,
+        lodo, combustibles o lubricantes, que alteren u obstruyan el normal funcionamiento.\n
+        4. No reparar oportunamente los daños ocasionados a la infraestructura de servicios públicos domiciliarios, cuando estas
+        reparaciones corresponden al usuario.\n
+        \n
+        <b>Parágrafo.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las
+        siguientes medidas correctivas:</string>
+
+    <string name="tabla_2_encabezado_1"><b>COMPORTAMIENTOS</b></string>
+    <string name="tabla_2_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
+    <string name="tabla_2_fila_1_1">Numeral 1</string>
+    <string name="tabla_2_fila_1_2">Multa General tipo 3; Remoción de bienes; Destrucción de bien.</string>
+    <string name="tabla_2_fila_2_1">Numeral 2</string>
+    <string name="tabla_2_fila_2_2">Multa General tipo 3; Reparación de daños materiales de muebles o inmuebles. </string>
+    <string name="tabla_2_fila_3_1">Numeral 3</string>
+    <string name="tabla_2_fila_3_2">Multa General tipo 4.</string>
+    <string name="tabla_2_fila_4_1">Numeral 4</string>
+    <string name="tabla_2_fila_4_2">Multa General Tipo 3; Reparación de daños materiales de muebles o inmuebles </string>
+
+    <string name="lib_2_tit_3_cap_3"><b>CAPÍTULO III \n
+        ARTÍCULOS PIROTÉCNICOS Y SUSTANCIAS PEUGROSAS</b></string>
+    <string name="codigo_art_29"><b>Artículo 29°. Autorización de actos o eventos que involucren el uso y aprovechamiento de artículos pirotécnicos de categoría tres.</b>
+        Los alcaldes municipales, distritales o locales pOdrán autorizar actos o eventos que involucren el uso yaprovechamiento
+        de artículos pirotécnicos de categoría tres, previo concepto de la Policía Nacional, los cuerpos de bomberos o unidades
+        especializadas y el consejo municipal o distrital para la gestión del riesgo o quien haga sus veces, quienes determinarán
+        los sitios y lugares autorizados y las condiciones técnicas que se requieran. Previa presentación del plan de contingencias
+        en el cual el organizador establezca las condiciones particulares del lugar, características técnicas de los elementos pirotécnicos,
+        condiciones de atención de situaciones de emergencia entre otros.\n
+        \n
+        Así mismo, deberá incluir en su análisis de riesgo la actividad de transporte de los elementos desde el lugar de fabricación hasta
+        el sitio del evento y en todo caso cumplir con lo establecido en las normas de transporte de sustancias y/o elementos peligrosos.\n
+        \n
+        <b>Parágrafo.</b> En esta materia se aplican las disposiciones y sanciones previstas en la Ley 670 de 2001 o la que haga sus veces,
+        sin perjuicio de la aplicación de las normas pertinentes en este Código.</string>
+    <string name="codigo_art_30"><b>Artículo 30°. Comportamientos que afectan la seguridad e integridad de las personas en materia de artículos pirotécnicos y sustancias peligrosas.</b>
+        Los siguientes comportamientos o actividades afectan la seguridad de las personas y la de sus bienes y por lo tanto no deben realizarse:\n
+        \n
+        1. Fabricar, tener, portar, almacenar, distribuir, transportar, comercializar, manipular o usar artículos pirotécnicos,
+        fuegos artificiales, pólvora o globos sin el cumplimiento de los requisitos establecidos en la normatividad vigente.\n
+        2. Salvo actos circenses, prender o manipular fuego en el espacio público, lugar abierto al público, sin contar con la
+        autorización del alcalde o su delegado o del responsable del sitio, sin cumplir las medidas de seguridad.\n
+        3. Prender o manipular fuego, sustancias combustibles o mercancías peligrosas en medio de transporte público.\n
+        4. Fabricar, tener, portar, distribuir, transportar, comercializar, manipular o usar sustancias prohibidas, elementos
+        o residuos químicos o inflamables sin el cumplimiento de los requisitos establecidos.\n
+        5. Realizar quemas o incendios que afecten la convivencia en cualquier lugar público o privado o en sitios prohibidos. \n
+        \n
+        6. Utilizar calderas, motores, máquinas o aparatos similares que no se encuentren en condiciones aptas de funcionamiento.\n
+        \n
+        <b>Parágrafo 1°.</b> En los comportamientos señalados en el numeral 1, en el caso en que los productos contengan fósforo
+        blanco se pondrá en conocimiento de manera inmediata a la autoridad competente para aplicar lo establecido en el
+        artículo 9° de la Ley 670 de 2001 y las normas que la adicionen o modifiquen. \n
+         \n
+        <b>Parágrafo 2°.</b> El alcalde distrital o municipal reglamentará en su jurisdicción las condiciones para la realización
+        de actividades peligrosas y los requisitos para la prevención y atención de incendios, referidos a los comportamientos
+        señalados en el presente artículo, de conformidad con las normas, regulaciones, e instructivos nacionales.\n
+        \n
+        <b>Parágrafo 3°.</b>A quien incurra en uno o más de los comportamientos antes señalados, se les aplicarán las
+        siguientes medidas correctivas:</string>
+    <string name="tabla_3_encabezado_1"><b>COMPORTAMIENTOS</b></string>
+    <string name="tabla_3_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
+    <string name="tabla_3_fila_1_1">Numeral 1</string>
+    <string name="tabla_3_fila_1_2">Multa General tipo 4. Destrucción de bien. Suspensión temporal de actividad.</string>
+    <string name="tabla_3_fila_2_1">Numeral 2</string>
+    <string name="tabla_3_fila_2_2">Multa General tipo 4. Destrucción de bien. Suspensión temporal de actividad.
+        Suspensión definitiva de la actividad.</string>
+    <string name="tabla_3_fila_3_1">Numeral 3</string>
+    <string name="tabla_3_fila_3_2">Multa General tipo 4. Destrucción de bien.</string>
+    <string name="tabla_3_fila_4_1">Numeral 4</string>
+    <string name="tabla_3_fila_4_2">Multa General tipo 4. Destrucción de bien. Suspensión temporal de actividad.
+        Suspensión definitiva de la actividad.</string>
+    <string name="tabla_3_fila_5_1">Numeral 5</string>
+    <string name="tabla_3_fila_5_2">Multa General tipo 4.</string>
+    <string name="tabla_3_fila_6_1">Numeral 6</string>
+    <string name="tabla_3_fila_6_2">Multa General tipo 4. Suspensión temporal de actividad.</string>
+    <string name="codigo_art_30_2"><b>Parágrafo 4°.</b>La medida de destrucción mencionada en el presente artículo sólo operará
+        en los casos en que quien incurra en algunos de los comportamientos descritos en los numerales 1, 2, 3 Y 4, no cumpla
+        con la totalidad de los requisitos que exige la ley. </string>
+
+    <string name="libro_2_titulo_4"><b>TÍTULO IV \n
+        DE LA TRANQUILIDAD Y LAS RELACIONES RESPETUOSAS</b></string>
+    <string name="codigo_art_31"><b>Artículo 31°. Del derecho a la tranquilidad y a las relaciones respetuosas.</b>
+        El derecho a la tranquilidad y a unas relaciones respetuosas es de la esencia de la convivencia. Por ello, es
+        fundamental prevenir la realización de comportamientos que afecten la tranquilidad y la privacidad de las personas.</string>
+    <string name="lib_2_tit_4_cap_1"><b>CAPÍTULO I \n
+        PRIVACIDAD DE LAS PERSONAS</b></string>
+    <string name="codigo_art_32"><b>Artículo 32°. Definición de privacidad.</b>
+        Para efectos de este Código, se entiende por privacidad de las personas el derecho de ellas a satisfacer sus necesidades y
+        desarrollar sus actividades en un ámbito que le sea exclusivo y por lo tanto considerado como privado. \n
+        \n
+        No se consideran lugares privados: \n
+        \n
+        1. Bienes muebles o inmuebles que se encuentran en el espacio público, en lugar privado abierto al público o utilizados
+        para fines sociales, comerciales e industriales.\n
+        2. Los sitios públicos o abiertos al público, incluidas las barras, mostradores, áreas dispuestas para: almacenamiento,
+        preparación, fabricación de bienes comercializados o utilizados en el lugar, así como también las áreas dispuestas para el
+        manejo de los equipos musicales o Disc jockey, y estacionamientos a servicio del público. </string>
+    <string name="codigo_art_33"><b>Artículo 33°. Comportamientos que afectan la tranquilidad y relaciones respetuosas de las personas.</b>
+        Los siguientes comportamientos afectan la tranquilidad y relaciones respetuosas de las personas y por lo tanto no deben efectuarse: \n
+        \n
+        1. En el vecindario o lugar de habitación urbana o rural: Perturbar o permitir que se afecte el sosiego con:\n
+        a) Sonidos o ruidos en actividades, fiestas, reuniones o eventos similares que afecten la convivencia del vecindario,
+        cuando generen molestia por su impacto auditivo, en cuyo caso podrán las autoridades de policía desactivar temporalmente
+        la fuente del ruido, en caso de que el residente se niegue a desactivarlo; \n
+        b) Cualquier medio de producción de sonidos o dispositivos o accesorios o maquinaria que produzcan ruidos, desde bienes
+        muebles o inmuebles, en cuyo caso podrán las autoridades identificar, registrar y desactivar temporalmente la fuente del ruido,
+        salvo sean originados en construcciones o reparaciones en horas permitidas;\n
+        c) Actividades diferentes a las aquí señaladas en vía pública o en privado, cuando trascienda a lo público, y perturben o
+        afecten la tranquilidad de las personas.\n
+        2. En espacio público, lugares abiertos al público, o que siendo privados trasciendan a lo público: \n
+        a) Irrespetar las normas propias de los lugares públicos tales como salas de velación, cementerios, clínicas, hospitales,
+        bibliotecas y museos, entre otros.\n
+        b) Realizar actos sexuales o de exhibicionismo que generen molestia a la comunidad.\n
+        c) Consumir sustancias alcohólicas, psicoactivas o prohibidas, no autorizados para su consumo.\n
+        d) Fumar en lugares prohibidos.\n
+        e) Limitar u obstruir las manifestaciones de afecto y cariño que no configuren actos sexuales o de exhibicionismo en
+        razón a la raza, origen nacional o familiar, orientación sexual, identidad de género u otra condición similar.\n
+        \n
+        <b>Parágrafo 1.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las
+        siguientes medidas correctivas:  </string>
+    <string name="tabla_4_encabezado_1"><b>COMPORTAMIENTOS</b></string>
+    <string name="tabla_4_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
+    <string name="tabla_4_fila_1_1">Numeral 1</string>
+    <string name="tabla_4_fila_1_2">Multa General tipo 3; Disolución de reunlon o actividad que involucre aglomeraciones de público no complejas.</string>
+    <string name="tabla_4_fila_2_1">Numeral 2, literal a</string>
+    <string name="tabla_4_fila_2_2">Multa General tipo 3. </string>
+    <string name="tabla_4_fila_3_1">Numeral 2, literal b </string>
+    <string name="tabla_4_fila_3_2">Multa General tipo 3.</string>
+    <string name="tabla_4_fila_4_1">Numeral 2, literal c</string>
+    <string name="tabla_4_fila_4_2">Multa General tipo 2; Disolución de reunlon o actividad que involucre aglomeraciones de público no complejas.</string>
+    <string name="tabla_4_fila_5_1">Numeral 2, literal d</string>
+    <string name="tabla_4_fila_5_2">Amonestación. </string>
+    <string name="tabla_4_fila_6_1">Numeral 2, literal e </string>
+    <string name="tabla_4_fila_6_2">Multa general tipo 1. </string>
+    <string name="codigo_art_33_2"><b>Parágrafo 2°.</b>No constituyen actos sexuales o de exhibicionismo los besos o caricias
+        que las personas, sin importar su género, color de piel, orientación sexual o identidad de género, manifiesten como expresiones
+        de cariño, en ejercicio de su derecho al libre desarrollo de la personalidad. </string>
+
+    <string name="lib_2_tit_4_cap_2"><b>CAPÍTULO II \n
+        DE LOS ESTABLECIMIENTOS EDUCATIVOS</b></string>
+    <string name="codigo_art_34"><b>Artículo 34°. Comportamientos que afectan la convivencia en los establecimientos educativos relacionados con consumo de sustancias.</b>
+        Los siguientes comportamientos afectan la convivencia en los establecimientos educativos y por lo tanto no deben efectuarse:\n
+        \n
+        1. Consumir bebidas alcohólicas, drogas o sustancias prohibidas, dentro de la institución o centro educativo. \n
+        \n
+        2. Tener, almacenar, facilitar, distribuir, o expender bebidas alcohólicas, drogas o sustancias prohibidas dentro de la
+        institución o centro educativo.\n
+        \n
+        3. Consumir bebidas alcohólicas, sustancias psicoactivas en el espacio público olugares abiertos al público ubicados dentro
+        del área circundante a la institución o centro educativo de conformidad con el perímetro establecido en el artículo 83 de la presente ley.\n
+        \n
+        4. Tener, almacenar, facilitar, distribuir, o expender bebidas alcohólicas, sustancias prohibidas en el espacio público o
+        lugares abiertos al público dentro del perímetro circundante de conformidad con lo establecido en el artículo 84 de la presente ley.\n
+        \n
+        5. Destruir, averiar o deteriorar bienes dentro del área circundante de la institución o centro educativo.\n
+        \n
+        <b>Parágrafo 1°.</b> Los niños, niñas y adolescentes que cometan alguno de los comportamientos señalados en los numerales anteriores
+        serán objeto de las medidas dispuestas en la Ley 1098 de 2006 y demás normas vigentes en la materia.\n
+        \n
+        También procederá la medida de destrucción del bien, cuando haya lugar.\n
+        \n
+        <b>Parágrafo 2°.</b> La persona mayor de edad que incurra en uno o más de los comportamientos antes señalados, será objeto de la
+        aplicación de las siguientes medidas correctivas, sin perjuicio de lo establecido en los reglamentos internos de cada
+        establecimiento educativo: </string>
 
     <!-- Alcohol y drogas -->
     <string name="text_responsible">Autoridades responsables</string>
@@ -113,11 +532,11 @@
     <string name="text19">Consumo: Se prohíbe consumir bebidas alcohólicas o sustancias psicoactivas en estadios, parques, hospitales y, en general, en el espacio público, excepto en las actividades autorizadas. \n <b>Multa $197.000 y programa comunitario o de convivencia.</b></string>
     <string name="text20">Excepción: Se permite el consumo controlado de bebidas alcohólicas en lugares habilitados para aglomeraciones, siempre y cuando se cumplan las siguientes condiciones: \n
         \n
-        - La venta de alcohol se realizará solo en áreas dispuestas para ello. \n
-        - Se dejará de vender alcohol 20 minutos antes de que finalice el evento. \n
-        - No se podrá portar ni consumir bebidas alcohólicas al momento del ingreso, la salida o la evacuación de eventos. \n
-        - En los espectáculos públicos en los que se expenda alcohol deberá haber áreas diferenciadas para consumo y no consumo. \n
-        - Si una persona presenta síntomas de intoxicación etílica, el organizador se abstendrá de venderle alcohol. \n
+        - La venta de alcohol se realizará solo en áreas dispuestas para ello.\n
+        - Se dejará de vender alcohol 20 minutos antes de que finalice el evento.\n
+        - No se podrá portar ni consumir bebidas alcohólicas al momento del ingreso, la salida o la evacuación de eventos.\n
+        - En los espectáculos públicos en los que se expenda alcohol deberá haber áreas diferenciadas para consumo y no consumo.\n
+        - Si una persona presenta síntomas de intoxicación etílica, el organizador se abstendrá de venderle alcohol.\n
         - En las áreas cercanas a los eventos públicos en los que se venda alcohol, está prohibido el expendio y el consumo de bebidas alcohólicas.</string>
 
     <string name="text21"><i>En actividades que aglomeran público</i></string>

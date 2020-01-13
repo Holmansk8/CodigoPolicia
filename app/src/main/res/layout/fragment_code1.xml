@@ -41,6 +41,27 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/vertical_separator"
                 android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/codigo_libro_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/libro_1_titulo_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_1_tit_1_cap_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
                 android:text="@string/codigo_art_1"/>
             <TextView
                 android:layout_width="match_parent"
@@ -60,5 +81,891 @@
                 android:layout_marginTop="@dimen/vertical_separator"
                 android:layout_gravity="center_horizontal"
                 android:text="@string/codigo_art_4"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_1_tit_1_cap_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_5"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_6"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_7"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_8"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_9"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_10"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/libro_1_titulo_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_1_tit_2_cap_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_11"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_12"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_13"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_14"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_15"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_1_tit_2_cap_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_16"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_17"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_18"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_19"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_20"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_21"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_22"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_1_tit_2_cap_3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_23"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/codigo_libro_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/libro_2_titulo_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_2_tit_1_cap_unico"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_24"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_25"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/libro_2_titulo_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_26"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/libro_2_titulo_3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_2_tit_3_cap_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_27"/>
+            <TableLayout
+                android:id="@+id/Tabla1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:orientation="vertical"
+                android:stretchColumns="1" >
+
+                <TableRow
+                    android:id="@+id/CabeceraTabla1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_encabezado_1" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_encabezado_2" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorCabeceraTabla1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <FrameLayout
+                        android:id="@+id/LineaCabeceraTabla1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="6"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Tabla1Fila1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_1_1"/>
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_1_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla1Fila2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_2_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_2_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla1Fila3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_3_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_3_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla1Fila4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_4_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_4_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla1Fila5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_5_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_5_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla1Fila6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_6_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_6_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla1Fila7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_7_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_1_fila_7_2"/>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorFinalTabla1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <FrameLayout
+                        android:id="@+id/LineaFinalTabla1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="5"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+            </TableLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_27_2"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_2_tit_3_cap_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_28"/>
+            <TableLayout
+                android:id="@+id/Tabla2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:orientation="vertical"
+                android:stretchColumns="1" >
+
+                <TableRow
+                    android:id="@+id/CabeceraTabla2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_encabezado_1" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_encabezado_2" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorCabeceraTabla2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <FrameLayout
+                        android:id="@+id/LineaCabeceraTabla2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="6"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Tabla2Fila1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_1_1"/>
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_1_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla2Fila2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_2_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_2_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla2Fila3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_3_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_3_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla2Fila4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_4_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_2_fila_4_2"/>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorFinal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <FrameLayout
+                        android:id="@+id/LineaFinal"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="5"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+            </TableLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_2_tit_3_cap_3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_29"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_30"/>
+            <TableLayout
+                android:id="@+id/Tabla3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:orientation="vertical"
+                android:stretchColumns="1" >
+
+                <TableRow
+                    android:id="@+id/CabeceraTabla3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_encabezado_1" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_encabezado_2" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorCabeceraTabla3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <FrameLayout
+                        android:id="@+id/LineaCabeceraTabla3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="6"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Tabla3Fila1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_1_1"/>
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_1_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla3Fila2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_2_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_2_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla3Fila3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_3_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_3_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla3Fila4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_4_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_4_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla3Fila5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_5_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_5_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla3Fila6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_6_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_3_fila_6_2"/>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorFinalTabla3"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <FrameLayout
+                        android:id="@+id/LineaFinalTabla3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="5"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+            </TableLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_30_2"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/libro_2_titulo_4"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_31"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_2_tit_4_cap_1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_32"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_33"/>
+            <TableLayout
+                android:id="@+id/Tabla4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:orientation="vertical"
+                android:stretchColumns="1" >
+
+                <TableRow
+                    android:id="@+id/CabeceraTabla4"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_encabezado_1" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_encabezado_2" />
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorCabeceraTabla4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <FrameLayout
+                        android:id="@+id/LineaCabeceraTabla4"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="6"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/Tabla4Fila1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_1_1"/>
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_1_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla4Fila2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_2_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_2_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla4Fila3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_3_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_3_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla4Fila4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_4_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_4_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla4Fila5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_5_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_5_2"/>
+                </TableRow>
+                <TableRow
+                    android:id="@+id/Tabla4Fila6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_6_1"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="5px"
+                        android:text="@string/tabla_4_fila_6_2"/>
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/SeparadorFinalTabla4"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <FrameLayout
+                        android:id="@+id/LineaFinalTabla4"
+                        android:layout_width="fill_parent"
+                        android:layout_height="2px"
+                        android:layout_span="5"
+                        android:background="@color/Amarillo" >
+                    </FrameLayout>
+                </TableRow>
+            </TableLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_33_2"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:text="@string/lib_2_tit_4_cap_2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_separator"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/codigo_art_34"/>
+
         </LinearLayout>
 </FrameLayout>
