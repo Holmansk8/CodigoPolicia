@@ -503,7 +503,8 @@
     <string name="codigo_art_35"><b>Artículo 35°. Comportamientos que afectan las relaciones entre las personas y las autoridades.</b>
         Los siguientes comportamientos afectan la relación entre las personas y las autoridades y por lo tanto no deben realizarse.
         Su realización dará lugar a medidas correctivas: \n
-        1. Irrespetar a las autoridades de policía.
+        \n
+        1. Irrespetar a las autoridades de policía.\n
         2. Incumplir, desacatar, desconocer e impedir la función o la orden de policía.\n
         3. Impedir, dificultar, obstaculizar o resistirse a procedimiento de identificación o individualización, por parte de las autoridades de policía.\n
         4. Negarse a dar información veraz sobre lugar de residencia, domicilio y actividad a las autoridades de policía cuando estas lo requieran en
@@ -614,7 +615,30 @@
         Parágrafo 5°. En los casos en los que los derechos de los niños, niñas y adolescentes se encuentren amenazados, inobservados o vulnerados se aplicará lo dispuesto en la Ley 1098 de 2006.\n
         \n
         Parágrafo 6°. A quien incurra en uno o más de los comportamientos antes señalados, se le aplicarán las siguientes medidas correctivas:</string>
-//tabla
+    <string name="tabla_6_encabezado_1"><b>COMPORTAMIENTOS</b></string>
+    <string name="tabla_6_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
+    <string name="tabla_6_fila_1_1">Numeral 1</string>
+    <string name="tabla_6_fila_1_2">Multa General tipo 4. Suspensión temporal de actividad; Destrucción de bien.</string>
+    <string name="tabla_6_fila_2_1">Numeral 2</string>
+    <string name="tabla_6_fila_2_2">Multa General tipo 4. Suspensión temporal de actividad.</string>
+    <string name="tabla_6_fila_3_1">Numeral 3</string>
+    <string name="tabla_6_fila_3_2">Multa General tipo 4. Destrucción de bien.</string>
+    <string name="tabla_6_fila_4_1">Numeral 4</string>
+    <string name="tabla_6_fila_4_2">Multa General tipo 1.</string>
+    <string name="tabla_6_fila_5_1">Numeral 5</string>
+    <string name="tabla_6_fila_5_2">Multa General tipo 4. Suspensión temporal de actividad. Destrucción de bien.</string>
+    <string name="tabla_6_fila_6_1">Numeral 6</string>
+    <string name="tabla_6_fila_6_2">Multa General tipo 4. Suspensión temporal de actividad. Destrucción de bien.</string>
+    <string name="tabla_6_fila_7_1">Numeral 7</string>
+    <string name="tabla_6_fila_7_2">Multa General tipo 2.</string>
+    <string name="tabla_6_fila_8_1">Numeral 8</string>
+    <string name="tabla_6_fila_8_2">Suspensión definitiva de actividad.</string>
+    <string name="tabla_6_fila_9_1">Numeral 9</string>
+    <string name="tabla_6_fila_9_2">Multa General tipo 4.</string>
+    <string name="tabla_6_fila_10_1">Numeral 10</string>
+    <string name="tabla_6_fila_10_2">Suspensión temporal de actividad.</string>
+    <string name="tabla_6_fila_11_1">Numeral 11</string>
+    <string name="tabla_6_fila_11_2">Multa General tipo 4.</string>
     <string name="codigo_art_38_2"><b>Parágrafo 7°.</b> Al menor de 18 años que cometa cualquiera de los anteriores comportamientos se le aplicarán
         las medidas previstas en el Código de infancia y adolescencia.  \n
         \n
@@ -636,6 +660,79 @@
         niñas y adolescentes que incurran en el comportamiento señalado en el presente artículo, para su protección e imposición de la medida
         correctiva correspondiente.</string>
 
+    <string name="lib_2_tit_5_cap_2"><b>CAPÍTULO II \n
+        GRUPOS DE ESPECIAL PROTECCIÓN CONSTITUCIONAL</b></string>
+    <string name="codigo_art_40"><b>Artículo 40°. Comportamientos que afectan a los grupos sociales de especial protección constitucional.</b>
+        Los siguientes comportamientos afectan a los grupos sociales de especial protección (personas en condiciones de vulnerabilidad,
+        discapacidad, niños, adultos mayores, mujeres en estado de embarazo) y por lo tanto no deben realizarse: \n
+        \n
+        1. Perpetrar, permitir o inducir abusos o maltrato físico, verbal, psicológico o sexual en lugar público o privado, incluido su lugar de trabajo.\n
+        2. Utilizar a estas personas para obtener beneficio económico o satisfacer interés personal.\n
+        3. Omitir dar la prelación a las personas en condición de discapacidad, personas de la tercera edad o adulto mayor, mujeres en estado de
+        embarazo, personas con niños en brazos y personas que por su condición de salud requieran preferencia, especialmente en las filas, en el
+        uso de los vehículos de transporte público, colectivo o individual y en todos los sitios, bienes y lugares públicos o abiertos al público.\n
+        4. Dificultar, obstruir o limitar información e insumas relacionados con los derechos sexuales y reproductivos de la mujer, del
+        hombre y de la comunidad LGBTI, incluido el acceso de estos a métodos anticonceptivos.\n
+        5. Irrespetar las manifestaciones y reuniones de las personas en el espacio público o en lugares privados, en razón a su etnia,
+        raza, edad, género, orientación sexual, creencias religiosas, preferencias políticas y apariencia personal.\n
+        6. Limitar u obstruir las manifestaciones de afecto público que no configuren actos sexuales, de exhibicionismo en razón a la raza,
+        orientación sexual, género u otra condición similar. \n
+        \n
+        <b>Parágrafo.</b>A quien incurra en uno o más de los comportamientos antes señalados, se les aplicarán las siguientes medidas correctivas: </string>
+    //tabla
+    <string name="codigo_art_41"><b>Artículo 41°. Atención Integral a la Población Habitante de y en Calle.</b>
+        De conformidad a la Ley 1641 de 2013, establézcase un modelo de atención integral por ciclo vital y diferencial a la población habitante
+        de y en calle, orientada a promover, prevenir, atender, proteger y restablecer derechos, modelo que tendrá como principios la igualdad,
+        diversidad, equidad, universalidad y reconocimiento del individuo, la familia y la comunidad como sujetos de atención y que procure el
+        diálogo y reconocimiento de realidades sociales del territorio y contribuya al bienestar y desarrollo integral del ser \n
+        \n
+        <b>Parágrafo 1.</b>Con base en el marco conceptual de la Ley 1641 de 2013 yen la caracterización cuantitativa y cualitativa que las entidades
+        territoriales realicen, el modelo de atención integral que contemplará las metodologías de intervención, procedimientos, rutas de atención y
+        servicios requeridos; así mismo, tendrá como ejes la atención psicosocial, la formación y capacitación, gestión de oportunidades, movilización
+        social y reconstrucción de redes, todo ello orientado a la reincorporación responsable, digna y sostenible de los habitantes de y en calle,
+        a sus familias y a la sociedad.\n
+        \n
+        <b>Parágrafo 2.</b>Para establecer los alcances y resultados del modelo de atención integral, las entidades territoriales serán autónomas en
+        definir los servicios integrales requeridos de acuerdo a los lineamientos que dicte el Ministerio de Salud y teniendo en cuenta la
+        caracterización poblacional de cada municipio. Los entes territoriales deberán definir los equipos interdisciplinarios necesarios y pertinentes,
+        que faciliten en el tiempo y de manera integral la intervención oportuna para el restablecimiento de los derechos de los habitantes de y en calle.\n
+        \n
+        <b>Parágrafo 3.</b> La Policía Nacional deberá trasladar en el término de la distancia a los hogares o centros de atención que el ente territorial
+        tenga dispuesto para dicho efecto, a los ciudadanos habitantes de y en calle que se encuentren bajo el efecto de sustancias psicoactivas que les
+        vulneren su voluntad y que generen alteración de la convivencia afectando los derechos de los demás ciudadanos. </string>
+
+    <string name="lib_2_tit_5_cap_3"><b>CAPÍTULO II \n
+        EJERCICIO DE LA PROSTITUCIÓN</b></string>
+    <string name="codigo_art_42"><b>Artículo 42°. Ejercicio de la prostitución.</b>El ejercicio de la prostitución como tal, no da
+        lugar a la aplicación de medidas correctivas por razones de perturbación a la convivencia, toda vez que las personas en situación
+        de prostitución se encuentran en condiciones de especial vulnerabilidad para ser víctimas de trata de personas, explotación
+        sexual o feminicidios, todas formas de graves violencias de género contra población tradicionalmente discriminada, excepto
+        cuando se incurra en los comportamientos contrarios a esta.</string>
+    <string name="codigo_art_43"><b>Artículo 43°. Requisitos de los establecimientos, inmuebles o lugares donde se ejerza la prostitución.</b>
+        Los propietarios, tenedores, administradores o encargados de los establecimientos, inmuebles o lugares donde se ejerza la prostitución,
+        así como el personal que labore en ellos, deben cumplir con las siguientes condiciones:\n
+        \n
+        1. Obtener para su funcionamiento el concepto sanitario expedido por la Secretaría de Salud o su delegado o quien haga sus veces.\n
+        2. Proveer o distribuir a las personas que ejercen la prostitución y a quienes utilizan sus servicios, preservativos aprobados por
+        las entidades competentes y facilitarles el cumplimiento de las medidas recomendadas por las autoridades sanitarias.\n
+        3. Promover el uso del preservativo y de otros medios de protección, recomendados por las autoridades sanitarias, a través de información
+        impresa, visual o auditiva, y la instalación de dispensadores de tales elementos en lugares públicos y privados de dichos establecimientos,
+        inmuebles o lugares.\n
+        4. Colaborar con las autoridades sanitarias y de policía cuando se realicen campañas de inspección y vigilancia y asistir a los cursos
+        que ellas organicen. \n
+        5. Tratar dignamente a las personas que ejercen la prostitución, evitar su discriminación o rechazo y la violación de sus derechos a la
+        libre movilización y al desarrollo de la personalidad.\n
+        6. No permitir ni propiciar el ingreso de niños, niñas o adolescentes a estos establecimientos, inmuebles o lugares.\n
+        7. No permitir, ni favorecer o propiciar el abuso y la explotación sexual de menores de edad o de personas con discapacidad.\n
+        8. En ningún caso, favorecer, permitir, propiciar o agenciar el maltrato, su utilización para la pornografía, la trata de personas o la
+        Explotación Sexual Comercial de Niños, Niñas y Adolescentes (ESCNNA).\n
+        9. No inducir ni constreñir al ejercicio de la prostitución a las personas o impedir, a quien lo realiza, retirarse del mismo si fuere su deseo.\n
+        10. No mantener en cautiverio o retener a las personas que ejercen la prostitución.\n
+        11. No realizar publicidad alusiva a esta actividad en la vía pública, salvo la identificación del lugar en su fachada.\n
+        12. Velar por el cumplimiento de los deberes y comportamientos de las personas que ejercen la prostitución;\n
+        13. Proveer los elementos y servicios de aseo necesarios para garantizar el cumplimiento de las medidas recomendadas por las autoridades.\n
+        14. Intervenir en caso de controversia, entre las personas que utilizan el servicio y las que ejercen la prostitución, para evitar el
+        detrimento de los derechos de estas últimas.</string>
 
     <!-- Alcohol y drogas -->
     <string name="text_responsible">Autoridades responsables</string>
