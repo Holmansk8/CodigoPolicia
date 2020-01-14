@@ -46,6 +46,7 @@
     <string name="libro_1_titulo_1"><b>TÍTULO I \n
         OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA. \n
         BASES DE LA CONVIVENCIA</b></string>
+
     <string name="lib_1_tit_1_cap_1"><b>CAPÍTULO I
         \n
         OBJETO DEL CÓDIGO, ÁMBITO DE APLICACIÓN Y AUTONOMÍA </b></string>
@@ -135,6 +136,7 @@
         <b>Parágrafo Transitorio.</b> Dentro de los seis (6) meses siguientes a la entrada en vigencia de la presente ley, el Gobierno
         Nacional reglamentará y dispondrá lo concerniente a los espacios físicos necesarios para que la policía nacional reciba
         y atienda de manera pronta, oportuna y eficiente las quejas, peticiones y reclamos de las personas. </string>
+
     <string name="libro_1_titulo_2"><b>TÍTULO II \n
         PODER, FUNCIÓN Y ACTIVIDAD DE POLICÍA.</b></string>
 
@@ -193,6 +195,7 @@
         con lo establecido en el artículo anterior, los gobernadores y los alcaldes, presentarán ante la Asamblea Departamental o el
         Concejo Distrital o Municipal, según corresponda, el respectivo proyecto, que será tramitado de la manera más expedita de
         conformidad con el reglamento interno de cada corporación. </string>
+
     <string name="lib_1_tit_2_cap_2"><b>CAPÍTULO II \n
         FUNCIÓN Y ACTIVIDAD DE POLICÍA</b></string>
     <string name="codigo_art_16"><b>Artículo 16°. Función de Policía.</b> Consiste en la facultad de hacer cumplir las disposiciones
@@ -238,6 +241,7 @@
     <string name="codigo_art_22"><b>Artículo 22°. Titular del uso de la fuerza policial.</b> La utilización de la fuerza legítima
         corresponde de manera exclusiva, en el marco de este Código, a los miembros uniformados de la Policía Nacional, de conformidad
         con el marco jurídico vigente, salvo en aquellos casos en los que de manera excepcional se requiera la asistencia militar. </string>
+
     <string name="lib_1_tit_2_cap_3"><b>CAPÍTULO III \n
         CONCRECIÓN DE LA ORDEN DE POLICÍA</b></string>
     <string name="codigo_art_23"><b>Artículo 23°. Materialización de la orden.</b>  Consiste en la ejecución concreta de una orden o norma
@@ -247,8 +251,10 @@
     <string name="codigo_libro_2"><b>LIBRO SEGUNDO \n
         DE LA LIBERTAD, LOS DERECHOS Y DEBERES DE LAS \n
         PERSONAS EN MATERIA DE CONVIVENCIA</b></string>
+
     <string name="libro_2_titulo_1"><b>TÍTULO I \n
         DEL CONTENIDO DEL LIBRO</b></string>
+
     <string name="lib_2_tit_1_cap_unico"><b>CAPÍTULO ÚNICO
         \n
         ASPECTOS GENERALES </b></string>
@@ -269,14 +275,17 @@
         Penal, la medida correctiva a imponer no pOdrá tener la misma naturaleza que la sanción prevista en este último. La autoridad de
         policía lo pondrá en conocimiento de la Fiscalía General de la Nación e impondrá las medidas de naturaleza distinta previstas
         en el presente Código.</string>
+
     <string name="libro_2_titulo_2"><b>TÍTULO II \n
         DE LOS COMPORTAMIENTOS CONTRARIOS A LA CONVIVENCIA</b></string>
     <string name="codigo_art_26"><b>Artículo 26°. Deberes de convivencia.</b> Es deber de todas las personas en el territorio nacional
         comportarse de manera favorable a la convivencia. Para ello, además de evitar comportamientos contrarios a la misma, deben
         regular sus comportamientos a fin de respetar a las demás personas, en el ejercicio de sus derechos y deberes ciudadanos, en su vida,
         honra y bienes, de conformidad con la Constitución Política y las leyes, y especialmente con lo dispuesto en la presente ley. </string>
+
     <string name="libro_2_titulo_3"><b>TÍTULO III \n
         DEL DERECHO DE LAS PERSONAS A LA SEGURIDAD Y A LA DE SUS BIENES</b></string>
+
     <string name="lib_2_tit_3_cap_1"><b>CAPÍTULO I \n
         VIDA E INTEGRIDAD DE LAS PERSONAS</b></string>
     <string name="codigo_art_27"><b>Artículo 27°. Comportamientos que ponen en riesgo la vida e integridad.</b> Los siguientes
@@ -318,6 +327,7 @@
         complejas o no complejas, destrucción de bien. </string>
     <string name="codigo_art_27_2"><b>Parágrafo 2.</b> En todos los comportamientos señalados en el presente artículo, se
         deberá utilizar la mediación policial como medio para intentar resolver el conflicto.</string>
+
     <string name="lib_2_tit_3_cap_2"><b>CAPÍTULO II \n
         DE LA SEGURIDAD EN LOS SERVICIOS PÚBLICOS</b></string>
     <string name="codigo_art_28"><b>Artículo 28°. Comportamientos que afectan la seguridad y bienes en relación con los servicios públicos.</b>
@@ -334,7 +344,6 @@
         \n
         <b>Parágrafo.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las
         siguientes medidas correctivas:</string>
-
     <string name="tabla_2_encabezado_1"><b>COMPORTAMIENTOS</b></string>
     <string name="tabla_2_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
     <string name="tabla_2_fila_1_1">Numeral 1</string>
@@ -410,6 +419,7 @@
     <string name="codigo_art_31"><b>Artículo 31°. Del derecho a la tranquilidad y a las relaciones respetuosas.</b>
         El derecho a la tranquilidad y a unas relaciones respetuosas es de la esencia de la convivencia. Por ello, es
         fundamental prevenir la realización de comportamientos que afecten la tranquilidad y la privacidad de las personas.</string>
+
     <string name="lib_2_tit_4_cap_1"><b>CAPÍTULO I \n
         PRIVACIDAD DE LAS PERSONAS</b></string>
     <string name="codigo_art_32"><b>Artículo 32°. Definición de privacidad.</b>
@@ -449,13 +459,13 @@
     <string name="tabla_4_encabezado_1"><b>COMPORTAMIENTOS</b></string>
     <string name="tabla_4_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
     <string name="tabla_4_fila_1_1">Numeral 1</string>
-    <string name="tabla_4_fila_1_2">Multa General tipo 3; Disolución de reunlon o actividad que involucre aglomeraciones de público no complejas.</string>
+    <string name="tabla_4_fila_1_2">Multa General tipo 3; Disolución de reunión o actividad que involucre aglomeraciones de público no complejas.</string>
     <string name="tabla_4_fila_2_1">Numeral 2, literal a</string>
     <string name="tabla_4_fila_2_2">Multa General tipo 3. </string>
     <string name="tabla_4_fila_3_1">Numeral 2, literal b </string>
     <string name="tabla_4_fila_3_2">Multa General tipo 3.</string>
     <string name="tabla_4_fila_4_1">Numeral 2, literal c</string>
-    <string name="tabla_4_fila_4_2">Multa General tipo 2; Disolución de reunlon o actividad que involucre aglomeraciones de público no complejas.</string>
+    <string name="tabla_4_fila_4_2">Multa General tipo 2; Disolución de reunión o actividad que involucre aglomeraciones de público no complejas.</string>
     <string name="tabla_4_fila_5_1">Numeral 2, literal d</string>
     <string name="tabla_4_fila_5_2">Amonestación. </string>
     <string name="tabla_4_fila_6_1">Numeral 2, literal e </string>
@@ -490,6 +500,142 @@
         <b>Parágrafo 2°.</b> La persona mayor de edad que incurra en uno o más de los comportamientos antes señalados, será objeto de la
         aplicación de las siguientes medidas correctivas, sin perjuicio de lo establecido en los reglamentos internos de cada
         establecimiento educativo: </string>
+    <string name="codigo_art_35"><b>Artículo 35°. Comportamientos que afectan las relaciones entre las personas y las autoridades.</b>
+        Los siguientes comportamientos afectan la relación entre las personas y las autoridades y por lo tanto no deben realizarse.
+        Su realización dará lugar a medidas correctivas: \n
+        1. Irrespetar a las autoridades de policía.
+        2. Incumplir, desacatar, desconocer e impedir la función o la orden de policía.\n
+        3. Impedir, dificultar, obstaculizar o resistirse a procedimiento de identificación o individualización, por parte de las autoridades de policía.\n
+        4. Negarse a dar información veraz sobre lugar de residencia, domicilio y actividad a las autoridades de policía cuando estas lo requieran en
+        procedimientos de policía.\n
+        5. Ofrecer cualquier tipo de resistencia a la aplicación de una medida o la utilización de un medio de policía.\n
+        6. Agredir por cualquier medio o lanzar objetos que puedan causar daño o sustancias que representen peligro a las autoridades de policía.\n
+        7. Utilizar inadecuadamente el sistema de número único de seguridad y emergencia. \n
+        \n
+        <b>Parágrafo 1°.</b> El comportamiento esperado por parte de los habitantes del territorio nacional para con las autoridades exige un comportamiento recíproco.
+        Las autoridades y en particular el personal uniformado de la Policía, deben dirigirse a los habitantes con respeto y responder a sus inquietudes y llamado
+        con la mayor diligencia. Los habitantes del territorio nacional informarán a la autoridad competente en caso de que no sea así. \n
+        \n
+        <b>Parágrafo 2°.</b> A quien incurra en cualquiera de los comportamientos antes señalados, se le aplicarán las siguientes medidas
+        correctivas de manera concurrente:  </string>
+    <string name="tabla_5_encabezado_1"><b>COMPORTAMIENTOS</b></string>
+    <string name="tabla_5_encabezado_2"><b>MEDIDA CORRECTIVA A APLICAR</b></string>
+    <string name="tabla_5_fila_1_1">Numeral 1</string>
+    <string name="tabla_5_fila_1_2">Multa General tipo 2.</string>
+    <string name="tabla_5_fila_2_1">Numeral 2</string>
+    <string name="tabla_5_fila_2_2">Multa General tipo 4; Participación en programa comunitario o actividad pedagógica de convivencia.</string>
+    <string name="tabla_5_fila_3_1">Numeral 3</string>
+    <string name="tabla_5_fila_3_2">Multa General tipo 4; Participación en programa comunitario o actividad pedagógica de convivencia. </string>
+    <string name="tabla_5_fila_4_1">Numeral 4</string>
+    <string name="tabla_5_fila_4_2">Multa General tipo 4.</string>
+    <string name="tabla_5_fila_5_1">Numeral 5</string>
+    <string name="tabla_5_fila_5_2">Multa General tipo 4; Participación en programa comunitario o actividad pedagógica de convivencia. </string>
+    <string name="tabla_5_fila_6_1">Numeral 6</string>
+    <string name="tabla_5_fila_6_2">Multa General tipo 4; Participación en programa comunitario o actividad pedagógica de convivencia. </string>
+    <string name="tabla_5_fila_7_1">Numeral 7</string>
+    <string name="tabla_5_fila_7_2">Multa General tipo 4; Participación en programa comunitario o actividad pedagógica de convivencia. </string>
+    <string name="codigo_art_35_2"><b>Parágrafo 3°.</b> Las multas impuestas por la ocurrencia de los comportamientos señalados en el numeral 7 del presente artículo se
+        cargarán a la factura de cobro del servicio de la línea telefónica de donde se generó la llamada. La empresa operadora del servicio telefónico trasladará mensualmente a
+        las entidades y administraciones territoriales respectivas las sumas recaudadas por este concepto según lo establecido en la reglamentación de la presente ley. \n
+        \n
+        <b>Parágrafo 4°.</b>La policía debe definir dentro de los tres (3) meses siguientes a la entrada en vigencia de esta ley, un mecanismo mediante el cual un ciudadano puede
+        corroborar que quien lo aborda para un procedimiento policial, efectivamente pertenece a la institución.</string>
+
+    <string name="libro_2_titulo_5"><b>TÍTULO V \n
+        DE LAS RELACIONES RESPETUOSAS CON GRUPOS ESPECÍFICOS DE LA SOCIEDAD</b></string>
+
+    <string name="lib_2_tit_5_cap_1"><b>CAPÍTULO I \n
+        NIÑOS, NIÑAS Y ADOLESCENTES</b></string>
+    <string name="codigo_art_36"><b>Artículo 36°. Facultades de los alcaldes para la restricción de la movilidad o permanencia de niños, niñas y
+        adolescentes en el espacio público o en lugares abiertos al público.</b>
+        Con el fin de prevenir la ocurrencia de eventos que puedan poner en peligro o afectar la vida, la integridad o la salud de los niños, niñas y adolescentes,
+        excepcionalmente el alcalde podrá restringir su movilidad o permanencia en el espacio público o en lugares abiertos al público, de manera temporal y en forma motivada.\n
+        \n
+        <b>Parágrafo.</b>En la implementación se contará con el acompañamiento del Instituto Colombiano de Bienestar Familiar y del Ministerio Público con el fin de determinar
+        que la medida no atenta contra los derechos de los niños, niñas y adolescentes consagrados en el Código de la Infancia y Adolescencia. </string>
+    <string name="codigo_art_37"><b>Artículo 37°. Reglamentación para la protección de niños, niñas y adolescentes. </b>
+        El alcalde distrital o municipal determinará mediante acto motivado las actividades peligrosas, las fiestas o eventos similares, a los que se
+        prohíbe el acceso o participación a los niños, niñas y adolescentes. \n
+        \n
+        Así mismo, los niños, niñas y adolescentes deberán cumplir lo establecido en la Ley 1554 de 2012 con respecto a la edad permitida para participar o ingresar a
+        establecimientos que prestan el servicio de videojuegos. </string>
+    <string name="codigo_art_38"><b>Artículo 38°. Comportamientos que afectan la integridad de niños, niñas y adolescentes.</b>
+        Los siguientes comportamientos afectan la integridad de los niños, niñas y adolescentes y por lo tanto no deben realizarse. Su incumplimiento da lugar a medidas
+        correctivas, sin perjuicio de lo establecido por la normatividad vigente sobre la materia y de la responsabilidad penal a que haya lugar:\n
+        \n
+        1. Permitir, auspiciar, tolerar, inducir o constreñir el ingreso de los niños, niñas y adolescentes a los lugares donde:\n
+        a) Se realicen espectáculos o actividades cinematográficas aptas solo para mayores de 18 años;\n
+        b) Se preste el servicio de videojuegos salvo que sean aptos para la edad del niño, niña o adolescente, en las condiciones establecidas por la Ley 1554 de 2012;\n
+        c) Se practiquen actividades peligrosas, de acuerdo con la reglamentación establecida por el Gobierno nacional;\n
+        d) Se realicen actividades sexuales o pornográficas, o se ejerza la prostitución, o la explotación sexual;\n
+        e) Se realicen actividades de diversión destinadas al consumo de bebidas alcohólicas y consumo de cigarrillo, tabaco y sus derivados y sustancias psicoactivas;\n
+        f) Se desarrollen juegos de suerte y azar localizados;\n
+        \n
+        2. Inducir, engañar o realizar cualquier acción para que los niños, mnas y adolescentes ingresen o participen de actividades que les están prohibidas por las normas vigentes.\n
+        \n
+        3. Permitir o inducir a los niños, niñas y adolescentes a utilizar las telecomunicaciones, publicaciones y documentos para acceder a material pornográfico.\n
+        \n
+        4. Emplear o inducir a los niños, niñas y adolescentes a utilizar indebidamente las telecomunicaciones o sistemas de emergencia.\n
+        \n
+        5. Facilitar, distribuir, ofrecer, comercializar, prestar o alquilar, cualquiera de los siguientes elementos, sustancias o bebidas, a niños, niñas o adolescentes:
+        a) Material pornográfico;\n
+        b) Bebidas alcohólicas, cigarrillo, tabaco y sus derivados, sustancias psicoactivas o cualquier sustancia que afecte su salud;\n
+        c) Pólvora o sustancias prohibidas;\n
+        d) Armas, neumáticas o de aire, o que se asimilen a estas, elementos cortantes, punzantes, contundentes o sus combinaciones;\n
+        \n
+        6. Inducir a niños, niñas o adolescentes a:\n
+        a) Consumir bebidas alcohólicas, cigarrillo, tabaco y sus derivados, sustancias psicoactivas o cualquier sustancia que afecte su salud;\n
+        b) Participar en juegos de suerte y azar;\n
+        c) Ingresar a fiestas o eventos similares en los cuales exista previa restricción de edad por parte de las autoridades de policía, o esté prohibido su ingreso por las normas vigentes.\n
+        d) La explotación laboral.\n
+        \n
+        7. Permitir que los niños, niñas y adolescentes sean tenedores de animales potencialmente peligrosos.\n
+        \n
+        8. Ejercer, permitir, favorecer o propiciar el abuso, los actos y la explotación sexual de niños, niñas o adolescentes.\n
+        \n
+        9. Utilizar a niños, niñas y adolescentes para evitar el cumplimiento de una orden de policía.\n
+        \n
+        10. Permitir que los niños, niñas y adolescentes hagan uso de piscinas y estructuras similares, de uso colectivo o de propiedad privada unihabitacional,sin el
+        cumplimiento de los requisitos establecidos por la Ley 1209 de 2008 y las normas que la adicionen o modifiquen.\n
+        \n
+        11. Permitir que los niños, niñas y adolescentes sean parte de confrontaciones violentas que puedan derivar en agresiones físicas.\n
+        \n
+        Parágrafo 1°. En los comportamientos señalados en el literal b) del numeral 1 del presente artículo, se impondrá solo la medida correctiva de suspensión temporal de actividad y se
+        pondrá en conocimiento de manera inmediata a la autoridad competente para aplicar lo establecido en la Ley 1554 de 2012 y las normas que la adicionen o modifiquen.\n
+        \n
+        Parágrafo 2°. En los comportamientos señalados en el literal d) del numeral 1 del presente artículo, será procedente también la medida correctiva de suspensión definitiva de la actividad.\n
+        \n
+        Parágrafo 3°. En los comportamientos señalados en el literal d) del numeral 1 y en el numeral 8, se impondrán las medidas correctivas en el presente Código y se pondrá en
+        conocimiento de manera inmediata a la autoridad competente para aplicar lo establecido en las Leyes 679 de 2001, 1236 de 2008, 1329 de 2009 y las normas que las adicionen o modifiquen.\n
+        \n
+        Parágrafo 4°. En los comportamientos señalados en el numeral 11, se impondrán las medidas correctivas en el presente Código y se pondrá en conocimiento de manera
+        inmediata a la autoridad competente para aplicar lo establecido en la Ley 1209 de 2008 y las normas que la adicionen o modifiquen.\n
+        \n
+        Parágrafo 5°. En los casos en los que los derechos de los niños, niñas y adolescentes se encuentren amenazados, inobservados o vulnerados se aplicará lo dispuesto en la Ley 1098 de 2006.\n
+        \n
+        Parágrafo 6°. A quien incurra en uno o más de los comportamientos antes señalados, se le aplicarán las siguientes medidas correctivas:</string>
+//tabla
+    <string name="codigo_art_38_2"><b>Parágrafo 7°.</b> Al menor de 18 años que cometa cualquiera de los anteriores comportamientos se le aplicarán
+        las medidas previstas en el Código de infancia y adolescencia.  \n
+        \n
+        <b>Parágrafo 8°.</b> Quien en el término de un año contado a partir de la aplicación de la medida reincida en alguno de los comportamientos
+        prohibidos en el presente capítulo que dan lugar a la medida de suspensión temporal, será objeto de suspensión definitiva de la actividad.</string>
+    <string name="codigo_art_39"><b>Artículo 39°. Prohibiciones a niños, niñas y adolescentes. </b> Además de los comportamientos prohibidos en el
+        presente Código y en las normas vigentes, se prohíbe a niños, niñas y adolescentes: \n
+        \n
+        1. Comercializar, distribuir, tener, almacenar, portar o consumir sustancias psicoactivas o tóxicas, alcohólicas o demás sustancias estimulantes
+        que puedan afectar su salud o que produzcan dependencia, que estén restringidas para menores de edad.\n
+        \n
+        <b>Parágrafo 1°.</b>A quien incurra en el comportamiento antes señalado se le aplicará la siguiente medida correctiva: Para los menores
+        de 16 años, amonestación; para los mayores de 16 años, participación en programa comunitario o actividad pedagógica de convivencia.\n
+        \n
+        <b>Parágrafo 2°.</b>El niño, niña o adolescente que incurra en el comportamiento antes descrito será objeto de protección y restablecimiento
+        de sus derechos de conformidad con la ley. \n
+        \n
+        <b>Parágrafo 3°.</b>Las administraciones municipales o distritales determinarán los sitios adecuados a los que se podrán trasladar los niños,
+        niñas y adolescentes que incurran en el comportamiento señalado en el presente artículo, para su protección e imposición de la medida
+        correctiva correspondiente.</string>
+
 
     <!-- Alcohol y drogas -->
     <string name="text_responsible">Autoridades responsables</string>
@@ -516,20 +662,26 @@
 
     <string name="text7"><i>En barrios y viviendas</i></string>
     <string name="text8">Consumo: Consumir bebidas alcohólicas, sustancias psicoactivas o prohibidas en lugares no autorizados para su consumo. \n <b>Multa de $394.000</b></string>
-    <string name="text9">Venta a menores: Facilitar, prestar o vender bebidas alcohólicas, cigarrillo, tabaco y sus derivados, o sustancias psicoactivas a niños, niñas o adolescentes. \n <b>Multa de $787.000</b></string>
+    <string name="text9">Venta a menores: Facilitar, prestar o vender bebidas alcohólicas, cigarrillo, tabaco y sus derivados, o sustancias psicoactivas a niños, niñas o
+        adolescentes.\n <b>Multa de $787.000</b></string>
 
     <string name="text10"><i>En establecimientos educativos</i></string>
     <string name="text11">Consumo: Consumir bebidas alcohólicas, drogas o sustancias prohibidas en una institución o centro educativo. \n <b>Multa de $394.000</b></string>
-    <string name="text12">Consumo en áreas circundantes: Consumir bebidas alcohólicas, drogas o sustancias prohibidas en el perímetro circundante a una institución o centro educativo. \n <b>Multa de $394.000</b></string>
+    <string name="text12">Consumo en áreas circundantes: Consumir bebidas alcohólicas, drogas o sustancias prohibidas en el perímetro circundante a una institución o
+        centro educativo. \n <b>Multa de $394.000</b></string>
     <string name="text13">Distribución: Tener o vender bebidas alcohólicas, drogas o sustancias prohibidas dentro de una institución o centro educativo. \n <b>Multa de $787.000</b></string>
-    <string name="text14">Venta en áreas circundantes Tener o vender bebidas alcohólicas, drogas o sustancias prohibidas dentro del perímetro circundante a una institución educativa. \n <b>Multa de $787.000</b></string>
+    <string name="text14">Venta en áreas circundantes Tener o vender bebidas alcohólicas, drogas o sustancias prohibidas dentro del perímetro circundante a una institución
+        educativa. \n <b>Multa de $787.000</b></string>
 
     <string name="text15"><i>Contrarios a los derechos de niñas, niños y adolescentes</i></string>
-    <string name="text16">Ingreso de niños a lugares donde se expende alcohol: Permitir la entrada de niños, niñas y adolescentes a lugares donde se consume alcohol o sustancias psicoactivas. \n <b>Multa de $787.000 y suspensió́n temporal de actividad comercial.</b></string>
-    <string name="text17">Consumo y comercialización: Está prohibido que niños, niñas y adolescentes tengan o consuman sustancias psicoactivas. \n <b>Amonestación si es menor de 16 años y programa pedagógico de convivencia si es mayor de 16 años.</b></string>
+    <string name="text16">Ingreso de niños a lugares donde se expende alcohol: Permitir la entrada de niños, niñas y adolescentes a lugares donde se consume alcohol o sustancias
+        psicoactivas. \n <b>Multa de $787.000 y suspensió́n temporal de actividad comercial.</b></string>
+    <string name="text17">Consumo y comercialización: Está prohibido que niños, niñas y adolescentes tengan o consuman sustancias psicoactivas. \n <b>Amonestación si es menor
+        de 16 años y programa pedagógico de convivencia si es mayor de 16 años.</b></string>
 
     <string name="text18"><i>En el espacio público</i></string>
-    <string name="text19">Consumo: Se prohíbe consumir bebidas alcohólicas o sustancias psicoactivas en estadios, parques, hospitales y, en general, en el espacio público, excepto en las actividades autorizadas. \n <b>Multa $197.000 y programa comunitario o de convivencia.</b></string>
+    <string name="text19">Consumo: Se prohíbe consumir bebidas alcohólicas o sustancias psicoactivas en estadios, parques, hospitales y, en general, en el espacio público,
+        excepto en las actividades autorizadas. \n <b>Multa $197.000 y programa comunitario o de convivencia.</b></string>
     <string name="text20">Excepción: Se permite el consumo controlado de bebidas alcohólicas en lugares habilitados para aglomeraciones, siempre y cuando se cumplan las siguientes condiciones: \n
         \n
         - La venta de alcohol se realizará solo en áreas dispuestas para ello.\n
@@ -569,7 +721,8 @@
         <b>Permisos: </b> Con base en el censo, la Alcaldía expedirá permisos a los propietarios o tenedores de perros potencialmente peligrosos.</string>
 
     <string name="text_animal_5">Gobierno nacional</string>
-    <string name="text_animal_6"><b>Pólizas de seguro: </b> En un término de 6 meses, el Gobierno deberá reglamentar lo relacionado con la expedición de pólizas de seguro para perros potencialmente peligrosos.</string>
+    <string name="text_animal_6"><b>Pólizas de seguro: </b> En un término de 6 meses, el Gobierno deberá reglamentar lo relacionado con la expedición de pólizas de seguro para perros
+        potencialmente peligrosos.</string>
 
     <string name="text_animal_7">Propietario de un perro potencialmente peligroso</string>
     <string name="text_animal_8"><b>Daños: </b> Es responsable por todos los daños que el animal pueda ocasionar. \n
@@ -631,14 +784,16 @@
     <string name="text_peatones_2"><b>Promoción:</b> Promoverá el uso de medios alternativos de transporte. Para ello debe establecer un sistema de ciclo-rutas y carriles exclusivos de bicicleta.</string>
     <string name="text_peatones_3"><b>Reglamentación:</b> Los alcaldes podrán reglamentar, en su jurisdicción, las ciclo-rutas y los carriles exclusivos para bicicletas.</string>
 
-    <string name="text_peatones_4"><b>Derecho a la vía:</b> Se le otorgará prioridad a los peatones y ciclistas en las vías y zonas diseñadas para ellos, excepto sobre vías férreas, autopistas y vías arterias.</string>
+    <string name="text_peatones_4"><b>Derecho a la vía:</b> Se le otorgará prioridad a los peatones y ciclistas en las vías y zonas diseñadas para ellos, excepto sobre vías férreas,
+        autopistas y vías arterias.</string>
     <string name="text_peatones_5"><b>Ciclo-rutas y carriles exclusivos:</b> Está prohibido obstruir por cualquier medio la ciclo-ruta o carril exclusivo para bicicletas.<b> Multa $99.000</b></string>
 
     <!-- Transporte público -->
     <string name="text_transporte_1">Empresas de transporte público</string>
 
     <string name="text_transporte_2"><b>Aseo:</b> Mantener los vehículos limpios para la prestación del servicio. En caso de incumplir, la empresa será sancionada. <b>Multa $394.000</b></string>
-    <string name="text_transporte_3"><b>Cámaras de vigilancia:</b> Implementar cámaras de vigilancia en los vehículos que entren en circulación después de la expedición del nuevo Código de Policía. Si no lo hacen serán sancionadas. <b>Multa de $787.000 e inmovilización del vehículo.</b></string>
+    <string name="text_transporte_3"><b>Cámaras de vigilancia:</b> Implementar cámaras de vigilancia en los vehículos que entren en circulación después de la expedición del nuevo
+        Código de Policía. Si no lo hacen serán sancionadas. <b>Multa de $787.000 e inmovilización del vehículo.</b></string>
 
     <string name="text_transporte_4"><b>Calibradores:</b> Queda prohibido realizar el control informal del tiempo durante el trayecto de un vehículo de transporte. \n
         <b>Este comportamiento será sancionado con una amonestación.</b></string>
@@ -653,7 +808,8 @@
     <string name="text_espacio_3"><b>Restricción a menores de edad:</b> Restringir, de manera temporal, la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
 
     <string name="text_espacio_4">Gobierno Nacional</string>
-    <string name="text_espacio_5"><b>Integrar sistemas de vigilancia:</b> Los sistemas de video y medios tecnológicos que se encuentren instalados en el espacio público, se enlazarán a la red que disponga la Policía, de acuerdo con la reglamentación que expida el Gobierno.</string>
+    <string name="text_espacio_5"><b>Integrar sistemas de vigilancia:</b> Los sistemas de video y medios tecnológicos que se encuentren instalados en el espacio público, se
+        enlazarán a la red que disponga la Policía, de acuerdo con la reglamentación que expida el Gobierno.</string>
 
     <string name="text_espacio_6">ICBF</string>
     <string name="text_espacio_7"><b>Acompañamiento:</b> Acompañar las medidas de restricción de la movilidad o permanencia de niños, niñas y adolescentes en el espacio público.</string>
@@ -662,7 +818,8 @@
     <string name="text_espacio_9"><b>Remoción de obstáculos:</b> Remover los bienes que obstaculizan el espacio público.</string>
 
     <string name="text_espacio_10">Concejos municipales</string>
-    <string name="text_espacio_11"><b>Delimitar lugares de aglomeración:</b> Definir cuáles serán las áreas protegidas, reservadas o determinadas del espacio público en las que no se dará permiso para aglomeraciones.</string>
+    <string name="text_espacio_11"><b>Delimitar lugares de aglomeración:</b> Definir cuáles serán las áreas protegidas, reservadas o determinadas del espacio público en las que no
+        se dará permiso para aglomeraciones.</string>
 
     <string name="text_espacio_12"><b>Pólvora:</b> Prender o manipular pólvora sin contar con la autorización del alcalde. <b>Multa $787.000</b> \n
         \n
