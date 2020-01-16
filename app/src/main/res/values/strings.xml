@@ -948,6 +948,531 @@
         <b>Parágrafo.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las siguientes medidas:</string>
     //Tabla
 
+    <string name="lib_2_tit_6_cap_4"><b>CAPÍTULO IV \n
+        ACTIVIDADES QUE INVOLUCRAN AGLOMERACIONES DE PÚBLICO COMPLEJAS</b></string>
+    <string name="codigo_art_60"><b>Artículo 60°. Definición de las actividades que involucran aglomeraciones de público complejas.</b>
+        Las actividades que involucran aglomeraciones de público complejas son aquellas que de acuerdo con variables tales como: aforo,
+        tipo de evento, clasificación de edad para el ingreso, lugar donde se desarrolla, infraestructura a utilizar, entorno del lugar,
+        características del público, frecuencia, características de la presentación, carácter de la reunión, den lugar a riesgos de
+        afectación a la comunidad o a los bienes, generando una alta afectación de la dinámica normal del municipio, distrito o del área
+        específica en que se realizan, y que por ello requieren condiciones especiales para su desarrollo, determinadas por el Gobierno
+        Nacional de conformidad con el parágrafo del artículo 46 del presente Código. \n
+        \n
+        <b>Parágrafo 1°.</b>Toda actividad que involucra la aglomeración de público compleja exige la emisión de un permiso, por parte del
+        alcalde o su delegado. El permiso para el desarrollo de actividades que involucran aglomeraciones de público complejas en escenarios
+        habilitados o no habilitados se concederá previo cumplimiento de los requisitos y las normas vigentes para cada tipo de escenario. \n
+        \n
+        <b>Parágrafo 2°.</b>Para los fines del presente artículo, se entenderá que no procede el otorgamiento del permiso ni la realización
+        de la reunión en áreas de espacio público protegidas, reservadas o determinadas por los concejos municipales o distritales competentes. </string>
+    <string name="codigo_art_61"><b>Artículo 61°. Actividades que involucran aglomeraciones de público complejas en establecimientos
+        que desarrollen actividades económicas. </b>El alcalde distrital o municipal reglamentará las actividades que involucran
+        aglomeraciones de público complejas en establecimientos abiertos al público. </string>
+    <string name="codigo_art_62"><b>Artículo 62°.Participación de la seguridad privada en las actividades que involucran aglomeraciones de público complejas.</b>
+        La seguridad interna y externa en las actividades que involucran aglomeraciones de públicocomplejas será responsabilidad de los
+        organizadores, quienes deberán contratarla con empresas de vigilancia y seguridad privada y/o empresa de logística legalmente
+        constituidas. El servicio de seguridad será prestado desde el montaje o preparación de la actividad hasta su reacondicionamiento.\n
+        \n
+        Las empresas de seguridad y vigilancia privada y/o empresas de logística podrán designar de manera específica a miembros de la
+        empresa para que informen de manera inmediata a las autoridades de policía sobre aquellas personas que estén contrariando la ley y
+        las normas de convivencia en las actividades que involucran aglomeraciones de públiCO complejas.\n
+        \n
+        En casos excepcionales de riesgo grave a la convivencia y a la seguridad ciudadana, la Policía Nacional podrá, sin descuidar
+        sus responsabilidades frente al resto de la población, complementar la seguridad privada en las actividades que involucran
+        aglomeraciones de público complejas. \n
+        \n
+        La Policía Nacional podrá, sin embargo, por iniciativa propia, ingresar en todo  momento y bajo cualquier circunstancia a las
+        actividades que involucran aglomeraciones de público complejas, en el cumplimiento de sus funciones.\n
+        \n
+        <b>Parágrafo.</b> El Gobierno Nacional reglamentará las condiciones especiales de operación de las empresas de vigilancia y seguridad
+        privada y/o empresas de logística, que pretendan prestar el servicio de vigilancia en las actividades que involucran aglomeraciones
+        de público complejas.</string>
+    <string name="codigo_art_63"><b>Artículo 63°. Requisitos para la programación de actividades que involucran aglomeraciones de público
+        complejas en escenarios habilitados y no habilitados.</b>Para la realización de cualquier actividad que involucre aglomeraciones
+        de público complejas, ya sea público o privado, se tendrán en cuenta las siguientes condiciones, que deberán cumplir los escenarios
+        habilitados cada vez que renueven su permiso y los no habilitados para cada actividad con aglomeración de público compleja:\n
+        \n
+        1. No se autorizará la realización del evento, sin que el responsable presente su programa acompañado de la autorización de los
+        titulares o representantes de los derechos de autor y conexos.\n
+        2. Presentar e implementar, el plan de emergencia y contingencia, de acuerdo con los reglamentos expedidos por las autoridades
+        competentes, y que debe contener: descripción del evento; aforo; cronograma de actividades; análisis de riesgo; organización interna
+        del evento; planes de acción: plan de seguridad, vigilancia y acomodación, plan de atención de primer auxilio APH y atención médica,
+        plan de protección contra incendios, plan de evacuación, plan de información pública, plan de atención temporal a los afectados, plan
+        del lugar; recursos necesarios para cada plan.\n
+        3. Presentar e implementar el plan de manejo ambiental, de acuerdo con la normatividad expedida por las autoridades competentes; de
+        igual forma será obligación del organizador o promotor del evento retirar los materiales sobrantes, escombros, basura y mantener y/o
+        entregar el escenario donde se realice el mismo en perfecto estado de limpieza.\n
+        4. Disponer los medios necesarios para la conformación y el funcionamiento del puesto de mando unificado, de acuerdo con lo dispuesto
+        en la normatividad vigente. Para el inicio y desarrollo del evento, es obligatoria la presencia permanente de los organismos de
+        prevención y atención de emergencias, desastres, o quienes hagan sus veces, y del puesto de mando unificado. Por motivos de fuerza
+        mayor o caso fortuito, el espectáculo debe darse por terminado.\n
+        5. Ubicar el evento fuera del perímetro definido. \n
+        6. Presentar el Análisis de Riesgo de la Estructura, previa certificación de la capacidad estructural o física del lugar destinado
+        al espectáculo, expedida por el alcalde o su delegado.\n
+        7. Disponer la venta o distribución del número de boletas que corresponda a dicho aforo.\n
+        8. Constituir las garantías bancarias o de seguros que amparen los riesgos que el evento conlleva.\n
+        9. Cumplir con las medidas sanitarias exigidas por las autoridades competentes, de acuerdo con la clase de espectáculo a desarrollar.\n
+        \n
+        Parágrafo 1°. Para la realización de los eventos que involucren aglomeraciones de público complejas de que trata el presente artículo,
+        el organizador o promotor del mismo deberá solicitar por escrito la autorización al alcalde distrital o municipal del lugar o su delegado.
+        En la solicitud se deben registrar y acreditar los requisitos establecidos en la presente ley, así como también especificar las condiciones
+        de hora, sitio, duración y tipo de evento que se presentará, a fin de adoptar las medidas policiales necesarias para garantizar la convivencia
+        dentro del espectáculo. Esta solicitud se tendrá que presentar con una anticipación no inferior a quince (15) días. Dentro de los cinco (5)
+        días siguientes a la fecha de radicación de la solicitud, el alcalde distrital o municipal mediante resolución motivada, pOdrá conceder la
+        autorización para realizar el evento, modificar sus condiciones o desaprobarlo. Contra este acto solo procede el recurso de reposición.
+        El alcalde o su delegado deberán dar aviso al comandante de pOlicía respectivo, con cuarenta y ocho (48) horas de anticipación a la realización del evento.\n
+        \n
+        Parágrafo 2°. Los Alcaldes definirán el perímetro de ubicación de las  aglomeraciones, teniendo en cuenta la existencia de las
+        estaciones de servicio, depósitos de líquidos, químicos o sustancias inflamables, clínicas u hospitales.</string>
+    <string name="codigo_art_64"><b>Artículo 64°. De los planes de emergencia y contingencia.</b>Se entiende por plan de emergencia y
+        contingencia el documento básico que prepara el organizador de espectáculos, actividades culturales en el espacio público,
+        mediante el cual se señalan los lineamientos generales para proyectar, presentar y cumplir su realización. En este se analizan
+        integralmente los riesgos para responder a las situaciones perturbadoras o de desorden, desastres, calamidades o emergencias
+        generadas por hechos o fenómenos naturales o humanos, y se determinan las medidas de prevención, mitigación y respuesta, de
+        conformidad con la forma y condiciones que para tales efectos establezca la entidad respectiva de prevención y atención de emergencias. </string>
+    <string name="codigo_art_65"><b>Artículo 65°. Registro de los planes de emergencia y contingencia.</b> Los planes de emergencia y
+        contingencia serán registrados y aprobados con anterioridad a la realización de la actividad que implique la reunión de personas,
+        en los tiempos, términos y condiciones señalados en la presente norma y deberán considerar las siguientes variables:\n
+        \n
+        1. El posible número de personas que se van a reunir.\n
+        2. El concepto técnico acerca de los comportamientos estructurales y funcionales de la edificación (con cargas fijas y móviles) y
+        funcionales (entradas y salidas y dispositivos para controlar incendios) del escenario, de conformidad con lo establecido en la
+        normatividad dispuesta para tal efecto. \n
+        3. La actividad que da origen a la reunión, en que se señala si se trata de una actividad económica, de prestación de servicios o
+        institucional.\n
+        4. La naturaleza, contenido, finalidad, organización y programa de la reunión prevista.\n
+        5. La naturaleza de las edificaciones, instalaciones y espacios, a fin de diferenciar la calidad de los bienes privados, públicos o
+        de uso público.\n
+        6. Señalar la diferencia de la reunión en el tiempo (permanente, periódica o temporal), las modalidades de frecuencia, o la naturaleza
+        temporal de las actividades.\n
+        7. La indicación de los lugares y las condiciones para el ingreso y salida de niños, niñas o adolescentes y personas con discapacidad
+        y/o con movilidad reducida. </string>
+    <string name="codigo_art_66"><b>Artículo 66°. De la expedición de los "planes tipo".</b>La entidad respectiva de prevención y
+        atención de emergencias, dentro de los noventa (90) días hábiles siguientes a la entrada en vigencia del presente Código,
+        expedirá documentos de planes de emergencia tipo, los cuales incluirán los análisis de riesgos y las medidas de prevención,
+        mitigación y respuesta frente a cada condición amenazante identificada, los cuales se denominarán planes de contingencia.
+        En ellos también se establecerán protocolos y procedimientos con los componentes específicos, los términos técnicos y en
+        todo caso se contemplarán las fases de preingreso, ingreso, desarrollo del evento y salida de la respectiva reunión, en que
+        se privilegia a los niños, niñas, adolescentes, adultos mayores, mujeres embarazadas y las personas con discapacidad y/o con
+        movilidad reducida. \n
+        \n
+        Durante los noventa (90) días hábiles señalados en el inciso anterior, se seguirán aplicando los planes tipo y los
+        procedimientos vigentes al momento de entrada en vigencia del presente Código. </string>
+    <string name="codigo_art_67"><b>Artículo 67°. Atención y control de incendios en actividades que involucran aglomeraciones de público complejas.</b>
+        Las instituciones de bomberos del país, definirán las condiciones de los planes contra incendios, con fundamento en los siguientes factores: \n
+        \n
+        1. Mercancías peligrosas\n
+        2. Fuentes de explosiones.\n
+        3. Uso de elementos pirotécnicos.\n
+        \n
+        <b>Parágrafo.</b>En el evento en que estas instituciones no dispongan de los recursos humanos y logísticos para el cubrimiento del acto o
+        evento, el servicio de operación de atención y control de incendios pOdrá ser prestado por una persona jurídica de derecho privado o público,
+        previamente certificada ante dicha unidad.</string>
+    <string name="codigo_art_68"><b>Artículo 68°. Planes de emergencia y contingencia por temporadas.</b>Cuando los organizadores
+        de las reuniones previstas en el presente título las  realicen a lo largo del año, o por temporadas, cuyas variables generadoras
+        de riesgo sean las mismas, anualmente o por temporada, se adoptará un solo plan de emergencia y contingencia, sin perjuicio de la
+        obligación de informarlo. En todo caso, dicho plan de contingencia nunca pOdrá exceder la vigencia del permiso otorgado para la
+        realización de la actividad que involucre aglomeraciones de público complejas. En el caso de realizarse dicha aglomeración de público
+        compleja en escenarios habilitados de conformidad con la ley y las normas vigentes, el plan de emergencia y contingencia se establecerá
+        por el mismo tiempo que contemple el permiso otorgado a estos escenarios. \n
+        \n
+        <b>Parágrafo 1°.</b> Si una de las variables generadoras de riesgo para alguna reunión descrita en el presente artículo, cambia, se
+        deberá inscribir en el medio destinado para tal efecto. \n
+        \n
+        <b>Parágrafo 2°.</b> El plan de emergencia y contingencia adecuado para dicha actividad exige su registro, para ser evaluado y aprobado,
+        so pena de la aplicación de las medidas correctivas a que haya lugar.</string>
+    <string name="codigo_art_69"><b>Artículo 69°. Lugares donde se realizan actividades que involucran aglomeraciones de público complejas. </b>
+        La autoridad que haya expedido el permiso para la realización de la actividad que involucra aglomeraciones de público complejas, podrá
+        impedirlo cuando el recinto o el lugar donde vaya a realizarse no cumpla con los requisitos exigidos en las normas vigentes, si así lo
+        solicitan las autoridades de policía respectivas, una vez comprobado el incumplimiento de tales exigencias.  </string>
+    <string name="codigo_art_70"><b>Artículo 70°. Espectáculos taurinos.</b> La preparación, organización y desarrollo de los espectáculos
+        taurinos y de las actividades relacionadas con la tauromaquia, se realizarán de conformidad con lo establecido en las normas
+        vigentes y en el plan de emergencias correspondiente, cuyo cumplimiento será verificado por las autoridades de policía. </string>
+    <string name="codigo_art_71"><b>Artículo 71°. Supervisión de las actividades que involucran aglomeraciones de público complejas. </b>
+        Toda actividad que involucre aglomeraciones de público que requiera permiso, será supervisado e inspeccionado por la autoridad
+        municipal, distrital o competente, con el fin de verificar el cumplimiento de las condiciones establecidas y su correcto desarrollo. </string>
+    <string name="codigo_art_72"><b>Artículo 72°. Ingreso del cuerpo de policía.</b>El personal uniformado de la Policía Nacional, podrá
+        ingresar a los lugares en que se desarrollen actividades que involucren aglomeraciones de públicos complejas o no complejas, en
+        cualquier momento y solamente para cumplir con su función.  </string>
+    <string name="codigo_art_73"><b>Artículo 73°. Comportamientos de los organizadores que ponen en riesgo la vida e integridad de las
+        personas en las actividades que involucren aglomeraciones de público complejas y su correcto desarrollo.</b> El personal uniformado
+        de la Policía Nacional, podrá ingresar a los lugares en que se desarrollen actividades que involucren aglomeraciones de públicos
+        complejas o no complejas, en cualquier momento y solamente para cumplir con su función. \n
+        \n
+        Los siguientes comportamientos por parte de los organizadores ponen en riesgo la vida e integridad de las personas y el correcto
+        desarrollo y realización de las actividades que involucran aglomeraciones de público complejas y por tanto no deben efectuarse:\n
+        \n
+        1. Permitir el ingreso de personas con edad inferior a la señalada en la clasificación y normatividad pertinente.\n
+        2. Incumplir las disposiciones legales en materia de protección a los niños, niñas o adolescentes.\n
+        3. No disponer el servicio de acomodadores e incumplir con la numeración de los puestos. \n
+        4. No asear el escenario entre las sesiones, cuando haya varias presentaciones.\n
+        5. Autorizar la venta o permitir el ingreso a espectáculos, de bebidas o comestibles en empaques que puedan ofrecer riesgo
+        para la integridad de las personas o de los bienes.\n
+        6. Permitir el ingreso o consumo de sustancias, bebidas o elementos prohibidos por la normatividad vigente o por la reglamentación
+        expedida de conformidad con el artículo 47 del presente Código.\n
+        7. Incumplir las normas de higiene en el manejo de los alimentos.\n
+        8. No disponer la presencia de personal médico, paramédico y de equipos de primeros auxilios durante el espectáculo o sus actos preparatorios.\n
+        9. No contar con las unidades sanitarias necesarias.\n
+        10. No disponer de la señalización adecuada, ni de las vías despejadas para la circulación.\n
+        11. No disponer los espacios necesarios para la protección de niños, niñas, adolescentes o personas que requieran protección especial.\n
+        12. No disponer de sistemas temporales de almacenamiento de residuos sólidos.\n
+        13. No disponer de los medios indispensables para la instalación del puesto demando unificado.\n
+        14. No promover acciones de prevención y cultura que garanticen la seguridad de las personas, el ambiente y las instalaciones.\n
+        15. Vender boletas a un precio mayor del fijado y/o vender un número superior a las correspondientes a la capacidad del lugar.\n
+        16. Demorar injustificadamente el acceso de las personas a los actos o eventos.\n
+        17. Incumplir el horario autorizado para el inicio o finalización de un acto o evento.\n
+        18. Incumplir la programación anunciada.\n
+        19. No presentar a los artistas previstos sin justa causa.\n
+        20. No atender las órdenes o disposiciones que las autoridades de policía emiten para garantizar la convivencia.\n
+        21. Propiciar, tolerar o permitir la perturbación de la convivencia por hechos relacionados con el acto o evento.\n
+        22. No disponer de equipos y personal entrenado para el control de incendios.\n
+        23. Afectar el entorno del sitio donde se realice el acto o evento, e incumplir con las normas vigentes sobre ruido y publicidad
+        exterior visual, en las condiciones de la autorización que para la realización del mismo haya expedido la autoridad competente.\n
+        24. Incumplir con los requisitos establecidos para la realización de actividades que involucren aglomeraciones de público complejas
+        y la realización de actividades peligrosas.\n
+        25. No adoptar las medidas de vigilancia y seguridad durante el desarrollo del espectáculo, mediante la contratación de empresas
+        de vigilancia y/o empresas de logística debidamente autorizadas.\n
+        26. No elaborar, presentar, ejecutar y/o respetar el plan de emergencia y contingencia aprobado, de conformidad con las normas vigentes.\n
+        27. No presentar el permiso respectivo.\n
+        28. No presentar el espectáculo en el sitio, día u hora anunciados.\n
+        29. Carecer o no proporcionar los implementos de seguridad exigidos por la actividad, o proporcionarlos en mal estado de funcionamiento.\n
+        30. Incumplir las disposiciones o la reglamentación distrital o municipal pertinente.\n
+        \n
+        <b>Parágrafo.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las siguientes medidas:</string>
+    //tabla
+    <string name="codigo_art_74"><b>Artículo 74°. Comportamientos de los asistentes que ponen en riesgo la vida e integridad de las
+        personas y el correcto desarrollo de las actividades que involucran aglomeraciones de público complejas. </b> Los siguientes
+        comportamientos por parte de los asistentes ponen en riesgo la vida e integridad de las personas y el correcto desarrollo de
+        las actividades que involucran aglomeraciones de pLlblico complejas y por lo tanto no deben efectuarse:\n
+        \n
+        1. No respetar la asignación de la silletería.\n
+        2. Incumplir con las instrucciones o reglamentos específicos de los organizadores o responsables de la actividad o desatender las
+        recomendaciones de los grupos de logística en lo que tiene que ver con la ubicación y tránsito de lugares no autorizados para el público.\n
+        3. Ingresar niños, niñas o adolescentes a los actos o eventos que puedan causar daño a su integridad o en los cuales exista previa
+        restricción de edad por parte de las autoridades de policía, o esté prohibido su ingreso por las normas vigentes.\n
+        4. Invadir los espacios no autorizados al público.\n
+        5. Quienes al desplazarse a un acto o evento, o durante el desarrollo del mismo, en el recinto o en sus alrededores, evidencien o
+        manifiesten estar en grave estado de alteración de la conciencia por los efectos del consumo de bebidas alcohólicas. o sustancias
+        psicoactivas o tóxicas, combinadas química o físicamente, que produzcan estados irregulares en el cuerpo humano y estén prohibidas
+        por las normas vigentes o la reglamentación expedida de conformidad con el artículo 47 del presente Código.\n
+        6. Pretender ingresar, o estar en posesión o tenencia de cualquier tipo de arma u objetos prohibidos por las normas vigentes,
+        por el alcalde o su delegado.\n
+        7. Promover o causar violencia contra cualquier persona.\n
+        8. Agredir verbalmente a las demás personas.\n
+        9. Realizar acciones que constituyan un riesgo para la propia vida o la de terceros, antes, durante o después de tales actividades.\n
+        10. No utilizar los implementos de seguridad en la actividad que los exige.\n
+        11. Irrespetar, dificultar u obstaculizar el acceso o afectar el funcionamiento de Ir templos, salas de velación, cementerios,
+        centros de salud, clínicas, hospitales, bibliotecas, museos, y centros educativos o similares.\n
+        12. Ingresar con boletería falsa.\n
+        13. Vender o canjear boletería, manillas, credencial o identificaciones facilitando el ingreso a un espectáculo público, actuando
+        por fuera de las operaciones autorizadas para determinado evento.\n
+        14. Ingresar al evento sin boletería, manilla, credencial o identificación dispuesta y autorizada para el mismo o trasladarse
+        fraudulentamente a una localidad diferente a la que acredite su boleta, manilla, credencial o identificación dispuesta y autorizada.\n
+        \n
+        <b>Parágrafo.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las siguientes medidas:</string>
+    //tabla
+    <string name="codigo_art_75"><b>Artículo 75°. Requisitos para la realización de actos o eventos en escenarios habilitados y no habilitados.</b>
+        Para todas las clases de aglomeraciones de plJblico definidas en esta ley, la definición de escenarios habilitados y no habilitados, así
+        como la autoridad pública competente para realizar la habilitación del escenario y el procedimiento previsto para el efecto de dicha
+        habilitación serán los previstos en la Ley 1493 de 2011, sus disposiciones reglamentarias y las leyes que la modifiquen, adicionen o sustituyan.\n
+        \n
+        Para la realización de actos o eventos que involucren aglomeraciones de público complejas o no complejas, se deberá cumplir con los requisitos
+        establecidos en el presente Código, además de los establecidos en la Ley 1493 de 2011 para el reconocimiento de los escenarios habilitados o no habilitados.\n
+        \n
+        En todo caso, por los comportamientos contrarios a la convivencia señalados en el presente título, se impondrán las medidas correctivas
+        establecidas en el presente Código mediante el procedimiento establecido en el mismo. </string>
+
+    <string name="libro_2_titulo_7"><b>TÍTULO VII \n
+        DE LA PROTECCIÓN DE BIENES INMUEBLES </b></string>
+
+    <string name="lib_2_tit_7_cap_1"><b>CAPÍTULO I \n
+        DE LA POSESIÓN, LA TENENCIA Y LAS SERVIDUMBRES</b></string>
+    <string name="codigo_art_76"><b>Artículo 76°. Definiciones.</b>Para efectos de este Código, especialmente los relacionados con el presente
+        capítulo, la posesión, mera tenencia y servidumbre aquí contenidas, están definidos por el Código Civil en sus artículos 762, 775 Y 879.</string>
+    <string name="codigo_art_77"><b>Artículo 77°. Comportamientos contrarios a la posesión y mera tenencia de bienes inmuebles.</b>
+        Son aquellos contrarios a la posesión, la mera tenencia de los bienes inmuebles de particulares, bienes fiscales, bienes de
+        uso público, bienes de utilidad pública o social, bienes destinados a prestación de servicios públicos. Estos son los siguientes:\n
+        \n
+        1. Perturbar, alterar o interrumpir la posesión o mera tenencia de un bien inmueble ocupándolo ilegalmente.\n
+        2. Perturbar la posesión o !]lera tenencia de un inmueble o mueble por causa de daños materiales o hechos que la alteren, o por no
+        reparar las averías o daños en el propio inmueble que pongan en peligro, perjudiquen o molesten a los vecinos.\n
+        3. Instalar servicios públicos en inmuebles que hayan sido ocupados ilegalmente.\n
+        4. Omitir el cerramiento y mantenimiento de lotes y fachadas de edificaciones.\n
+        5. Impedir el ingreso, uso y disfrute de la posesión o tenencia de inmueble al titular de este derecho.\n
+        \n
+        <b>Parágrafo.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las
+        siguientes medidas correctivas:</string>
+    //tabla
+    <string name="codigo_art_78"><b>Artículo 78°. Comportamientos contrarios al derecho de servidumbres.</b>
+       Los siguientes comportamientos son contrarios al derecho de servidumbre y por lo tanto no deben efectuarse:\n
+        \n
+        1. Impedir, alterar o interrumpir el continuo uso de servidumbres por las vías de hecho.\n
+        2. No permitir el acceso al predio sobre el cual pesa el gravamen de servidumbre para realizar el mantenimiento o la reparación. \n
+        \n
+        <b>Parágrafo.</b> Quien incurra en uno o más de los comportamientos señalados, será objeto de la aplicación de las siguientes medidas: </string>
+    //tabla
+    <string name="codigo_art_79"><b>Artículo 79°.Ejercicio de las acciones de protección de los bienes inmuebles.</b> Para el ejercicio de
+        la acción de policía en el caso de la perturbación de los derechos de que trata este título, las siguientes personas, podrán
+        instaurar querella ante el inspector de policía, mediante el procedimiento único estipulado en este Código:\n
+        \n
+        1. El titular de la posesión o la mera tenencia de los inmuebles particulares o de las servidumbres.\n
+        2. Las entidades de derecho público.\n
+        3. Los apoderados o representantes legales de los antes mencionados. \n
+        \n
+        <b>Parágrafo 1°.</b> En el procedimiento de perturbación por ocupación de hecho, se ordenará el desalojo del ocupante de hecho si
+        fuere necesario o que las cosas vuelvan al estado que antes tenía. El desalojo se deberá efectuar dentro de las veinticuatro (24)
+        horas siguientes a la orden.\n
+        \n
+        <b>Parágrafo 2°.</b> En estos procedimientos se deberá comunicar al propietario inscrito la iniciación de ellos sin perjuicio de
+        que se lleve a cabo la diligencia prevista.\n
+        \n
+        <b>Parágrafo 3°.</b>  La Superintendencia de Notariado y Registro, el Instituto Agustín Codazzi y las administraciones municipales,
+        deberán suministrar la información solicitada, de manera inmediata y gratuita a las autoridades de policía. El recurso de apelación
+        se concederá en efecto devolutivo.\n
+        \n
+        <b>Parágrafo 4°.</b> Cuando por caso fortuito o fuerza mayor demostrados, excepcionalmente deba suspenderse la audiencia pública,
+        la autoridad competente decretará el statu quo sobre los bienes objeto de la misma, dejando constancia y registro documental, fijando
+        fecha y hora para su reanudación.  </string>
+    <string name="codigo_art_80"><b>Artículo 80°. Carácter, efecto y caducidad del amparo a la posesión, mera tenencia y servidumbre.</b>
+         El amparo de la posesión, la mera tenencia y las servidumbres, es una medida de carácter precario y provisional, de efecto
+        inmediato, cuya única finalidad, es mantener el statu quo mientras el juez ordinario competente decide definitivamente sobre
+        la titularidad de los derechos reales en controversia y las indemnizaciones correspondientes, si a ellas hubiere lugar. \n
+        \n
+        <b>Parágrafo.</b> La acción policial de protección a la posesión, la mera tenencia y servidumbres de los inmuebles de los
+        particulares, caducará dentro de los cuatro (4) meses siguientes a la perturbación por ocupación ilegal.</string>
+    <string name="codigo_art_81"><b>Artículo 81°. Acción preventiva por perturbación. </b> Cuando se ejecuten acciones con las cuales se
+        pretenda o inicie la perturbación de bienes inmuebles sean éstos de uso público o privado ocupándolos por vías de hecho, la Policía
+        Nacional lo impedirá o expulsará a los responsables de ella, dentro de las cuarenta y ocho (48) horas siguientes a la ocupación.\n
+        \n
+        El querellante realizará las obras necesarias, razonables y asequibles para impedir sucesivas ocupaciones o intentos de hacerlas
+        por vías de hecho, de conformidad con las órdenes que impartan las autoridades de policía. </string>
+    <string name="codigo_art_82"><b>Artículo 82°. El derecho a la protección del domicilio.</b> Quien se encuentre domiciliado en un
+        inmueble y considere que su derecho ha sido perturbado o alterado ilegalmente, podrá acudir al inspector de policía, para
+        iniciar querella mediante el ejercicio de la acción de protección, por el procedimiento señalado en este Código.\n
+        \n
+        La protección del domicilio es una medida de efecto inmediato, cuya única finalidad es mantener el statu quo, mientras el
+        juez ordinario competente decide definitivamente sobre los derechos en controversia y las indemnizaciones correspondientes
+        si a ellas hubiera lugar. \n
+        \n
+        <b>Parágrafo.</b>La medida de que trata el presente artículo garantizará el statu quo físico y jurídico del bien y deberá ser
+        reportada a la oficina de registro de instrumentos públicos de la jurisdicción del inmueble. </string>
+
+    <string name="libro_2_titulo_8"><b>TÍTULO VIII \n
+        DE LA ACTIVIDAD ECONÓMICA</b></string>
+
+    <string name="lib_2_tit_8_cap_1"><b>CAPÍTULO I \n
+        DE LA ACTIVIDAD ECONÓMICA Y SU REGLAMENTACIÓN</b></string>
+    <string name="codigo_art_83"><b>Artículo 83°. Actividad económica.</b> Es la actividad lícita, desarrollada por las personas
+        naturales y jurídicas, en cualquier lugar y sobre cualquier bien, sea comercial, industrial, social, de servicios, de
+        recreación o de entretenimiento; de carácter público o privado o en entidades con o sin ánimo de lucro, o similares o que
+        siendo privados, sus actividades trasciendan a lo público.\n
+        \n
+        <b>Parágrafo.</b> Los alcaldes fijarán horarios para el ejercicio de la actividad económica en los casos en que esta actividad
+        pueda afectar la convivencia, y en su defecto lo hará el gobernador.</string>
+    <string name="codigo_art_84"><b>Artículo 84°. Perímetro de impacto de la actividad económica.</b>A partir de la expedición del
+        presente Código, alrededor de hospitales, hospicios, centros de salud, centros que ofrezcan el servicio educativo en los
+        niveles de preescolar, básica, media, superior o de educación para el trabajo y desarrollo humano, o centros religiosos, no
+        podrán desarrollarse actividades económicas relacionadas con el ejercicio de la prostitución, juegos de suerte y azar localizados,
+        concursos, o donde se ejecute, por cualquier medio, música o ruidos que afecten la tranquilidad.\n
+        \n
+        Corresponderá a los Concejos Distritales o lV1unicipales a iniciativa de los Alcaldes establecer el perímetro para el ejercicio
+        de las actividades mencionadas en el presente artículo, dentro del año siguiente a la publicación de la presente ley.\n
+        \n
+        <b>Parágrafo 1°.</b> Para el caso de los establecimientos de prestación de servicio de videojuegos, estos deberán cumplir lo
+        dispuesto por la Ley 1554 de 2012 en su artículo 3°, o por las normas que la modifiquen o adicionen.\n
+        \n
+        <b>Parágrafo 2°.</b> Se respetarán los derechos adquiridos de los establecimientos legalmente constituidos. </string>
+    <string name="codigo_art_85"><b>Artículo 85°. Informe de registro en Cámaras de Comercio.</b> Las Cámaras de Comercio permitirán
+        el acceso permanente en tiempo real a la administración municipal o distrital correspondiente y a la Policía Nacional a las
+        matrículas mercantiles registradas o modificadas.\n
+        \n
+        Corresponde a la administración municipal o distrital verificar que las actividades económicas estén autorizadas por la reglamentación
+        de las normas de uso del suelo y las que la desarrollen o complementen, de la respectiva jurisdicción.\n
+        \n
+        <b>Parágrafo.</b> En caso de cualquier modificación del nombre, datos de ubicación del empresario o el establecimiento de comercio,
+        cambio de domicilio o de la actividad económica con actividades de alto impacto que involucren venta y consumo de bebidas alcohólicas,
+        o servicios sexuales, se requerirá aportar certificación de donde conste que el uso del suelo para el desarrollo de estas actividades
+        mercantiles es permitido, el cual deberá ser expedido por la oficina de planeación municipal o el sistema que se establezca para tal
+        efecto, en caso contrario la Cámara de Comercio se negará a efectuar la inscripción correspondiente. </string>
+    <string name="codigo_art_86"><b>Artículo 86°. Control de actividades que trascienden a lo público.</b> Las personas jurídicas con o sin
+        ánimo de lucro establecidas o que funcionen bajo la denominación de clubes sociales sin ánimo de lucro cuya actividad pueda afectar
+        la convivencia y el orden público, casas culturales, centros sociales privados o clubes privados o similares, que ofrezcan servicios
+        o actividades de recreación, diversión, expendio o consumo de licor, sala de baile, discoteca, grill, bar, taberna, whiskería, cantina,
+        rockola, karaoke, sala de masajes o cualquier tipo de espectáculo para sus asociados o para el público en general, estarán sujetos a
+        las normas del presente Código. \n
+        \n
+        <b>Parágrafo 1°.</b> Como consecuencia de lo anterior, los alcaldes distritales o municipales podrán establecer horarios de funcionamiento
+        para los establecimientos antes mencionados, y determinar las medidas correctivas por su incumplimiento, de conformidad con lo previsto
+        en el presente Código.\n
+        \n
+        <b>Parágrafo 2°.</b> Facúltese a las autoridades de policía y Comandantes de Estación de Policía para ingresar a los establecimientos
+        mencionados en el presente artículo con el fin de verificar el cumplimiento de horarios dispuestos por los alcaldes distritales o
+        municipales y para imponer las medidas correctivas que correspondan. </string>
+    <string name="codigo_art_87"><b>Artículo 87°. Requisitos para cumplir actividades económicas.</b> Es obligatorio, para el ejercicio de
+        cualquier actividad: comercial, industrial, de servicios, social, cultural, de recreación, de entretenimiento, de diversión; con o
+        sin ánimo de lucro, o que siendo privadas, trasciendan a lo público; que se desarrolle o no a través de establecimientos abiertos o
+        cerrados al público, además de los requisitos previstos en normas especiales, cumplir previamente a la iniciación de la actividad
+        económica los siguientes requisitos:\n
+        \n
+        1. Las normas referentes al uso del suelo, destinación o finalidad para la que fue construida la edificación y su ubicación.\n
+        2. Mantener vigente la matrícula mercantil de la Cámara de Comercio de la respectiva jurisdicción donde se desarrolle la actividad.\n
+        3. La comunicación de la apertura del establecimiento, al comandante de estación o subestación de policía del lugar donde funciona
+        el mismo, por el medio más expedito o idóneo, que para tal efecto establezca la Policía Nacional.\n
+        4. Para la comercialización de equipos terminales móviles se deberá contar con el permiso o autorización expedido por el Ministerio
+        de Tecnologías de la Información y las Comunicaciones o su delegado.\n
+        \n
+        Durante la ejecución de la actividad económica deberá cumplirse con los siguientes requisitos:\n
+        \n
+        1. Las normas referentes a los niveles de intensidad auditiva.\n
+        2. Cumplir con los horarios establecidos para la actividad económica desarrollada.\n
+        3. Las condiciones de seguridad, sanitarias y ambientales determinadas en el régimen de policía.\n
+        4. El objeto registrado en la matrícula mercantil y no desarrollar otra actividad diferente.\n
+        5. Para aquellos establecimientos donde se ejecuten públicamente obras musicales causantes de pago, protegidas por las disposiciones
+        legales vigentes sobre derechos de autor, mantener y presentar el comprobante de pago al día.\n
+        6. Para ofrecer los servicios de alojamiento al público u hospitalidad, se debe contar con el registro nacional de turismo. \n
+        \n
+        <b>Parágrafo 1°.</b> Los anteriores requisitos podrán ser verificados por las autoridades de policía en cualquier momento, para lo cual
+        éstas podrán ingresar por iniciativa propia a los lugares señalados, siempre que estén en desarrollo de sus actividades económicas.\n
+        \n
+        <b>Parágrafo 2°.</b> Ninguna autoridad podrá exigir licencia, permiso o requisito adicional de funcionamiento, para el desarrollo de
+        actividades económicas salvo lo previsto en la ley.  </string>
+    <string name="codigo_art_88"><b>Artículo 88°. Servicio de baño.</b>Es obligación de todos y cada uno de los establecimientos de
+        comercio abiertos al público, prestar el servicio de baño a niños, mujeres en evidente estado de embarazo y adultos de la
+        tercera edad cuando así lo soliciten, sin importar que los mismos sean sus clientes o no. La inobservancia de la presente
+        norma tendrá como consecuencia la imposición de una multa General Tipo 1 o suspensión temporal de actividad.\n
+        \n
+        Será potestad de los establecimientos de comercio en mención el cobro del servicio enunciado el cual deberá ser regulado
+        por los correspondientes entes territoriales. </string>
+
+    <string name="lib_2_tit_8_cap_2"><b>CAPÍTULO II \n
+        ESTACIONAMIENTOS O PARQUEADEROS</b></string>
+    <string name="codigo_art_89"><b>Artículo 89°. Definición de estacionamiento o parqueaderos.</b> Son los bienes públiCOS o privados,
+        destinados y autorizados de acuerdo con lo dispuesto en las normas de uso del suelo y en las normas que lo desarrollen o complementen
+        por los concejos distritales o municipales, para el estacionamiento y depósito temporal de vehículos automotores, motos o bicicletas,
+        a título oneroso o gratuito.  \n
+        \n
+        <b>Parágrafo.</b> Los estacionamientos o parqueaderos ubicados en inmuebles de uso público, como parques, zonas verdes y escenarios
+        deportivos o culturales, sólo podrán ser utilizados para el estacionamiento de vehículos con fines relativos a la destinación de tales bienes. </string>
+    <string name="codigo_art_90"><b>Artículo 90°.Reglamentación de los estacionamientos o parqueaderos abiertos al público. </b>
+        Para el funcionamiento y administración de los estacionamientos o parqueaderos abiertos al público, se observarán los
+        siguientes requisitos:\n
+        \n
+        1. Constitución de póliza de responsabilidad civil extracontractual, para la protección de los bienes depositados y las personas.
+        En el recibo de depósito del vehículo se informará el número de la póliza, compañía aseguradora y el procedimiento de reclamación.\n
+        2. Expedir recibo de depósito del vehículo al momento del ingreso, en el que se consigne el número de placa del vehículo y la hora de ingreso.\n
+        3. Ofrecer al conductor del vehículo la opción de relacionar bienes adicionales al que deja en depósito.\n
+        4. Cumplir con las tarifas establecidas por la autoridad distrital o municipal.\n
+        5. Cumplir los requisitos de carácter sanitario, ambiental y de tránsito.\n
+        6. Contar con seguridad permanente, y de acuerdo con la clasificación del estacionamiento o parqueadero, con acomodadores uniformados
+        con licencia de conducción y con credenciales que faciliten su identificación por parte de los usuarios.\n
+        7. Señalizar debidamente la entrada y la salida de vehículos y demarcar el espacio que ocupa cada vehículo y los corredores de giro y movilidad.\n
+        8. Cumplir las exigencias para el desarrollo de actividades económicas.\n
+        9. Adecuar o habilitar plazas para el estacionamiento de bicicletas. </string>
+
+    <string name="lib_2_tit_8_cap_3"><b>CAPÍTULO III \n
+        COMPORTAMIENTOS QUE AFECTAN LA ACTIVIDAD ECONÓMICA</b></string>
+    <string name="codigo_art_91"><b>Artículo 91°. Comportamientos que afectan la actividad económica.</b> Los comportamientos que
+        afectan la actividad economica comprenden comportamientos relacionados con el cumplimiento de la normatividad, comportamientos
+        relacionados con la seguridad y la tranquilidad, comportamientos relacionados con el ambiente y la salud pública. </string>
+    <string name="codigo_art_92"><b>Artículo 92°. Comportamientos relacionados con el cumplimiento de la normatividad que afectan la actividad económica.</b>
+        Los siguientes comportamientos relacionados con el cumplimiento de la normatividad afectan la actividad económica y por lo
+        tanto no deben realizarse:\n
+        \n
+        1. Vender, procesar o almacenar productos alimenticios en los sitios no permitidos o contrariando las normas vigentes.\n
+        2. No presentar el comprobante de pago, cuando a ello hubiere lugar, de obras musicales protegidas por las disposiciones
+        legales vigentes sobre derechos de autor.\n
+        3. No comunicar previamente de la apertura del establecimiento, al comandante de estación o subestación de policía de la
+        jurisdicción, a fin de facilitar posteriormente su labor de convivencia, de acuerdo al procedimiento que para tal fin se establezca.\n
+        4. Quebrantar los horarios establecidos por el Alcalde.\n
+        s. Desarrollar actividades diferentes a las registradas en el objeto social de la ¡ matrícula o registro mercantil.\n
+        6. Permitir el ingreso de personas o elementos en un número superior a la capacidad del lugar.\n
+        7. Entregar, enviar, facilitar, alquilar, vender, comercializar, distribuir, exhibir, o publicar textos, imágenes, documentos, o
+        archivos audiovisuales de contenido pornográfico a menores de dieciocho (18) años.\n
+        8. Almacenar, elaborar, poseer, tener, facilitar, entregar, distribuir o comercializar, bienes ilícitos, drogas o sustancias
+        prohibidas por la normatividad vigente o las autoridades competentes.\n
+        9. Permitir o facilitar el consumo de drogas o sustancias prohibidas por la normatividad vigente o las autoridades competentes.\n
+        10. Propiciar la ocupación indebida del espacio público.\n
+        11. Tolerar, incitar, permitir, obligar o consentir actividades sexuales con niños, niñas y adolescentes.\n
+        12. Incumplir las normas referentes al uso reglamentado del suelo y las disposiciones de ubicación, destinación o finalidad,
+        para la que fue construida la edificación.\n
+        13. Instalar servicios eléctricos, hidráulicos u otros especiales, sin previa autorización escrita de la empresa de servicios
+        públicos respectiva.\n
+        14. Arrendar o facilitar un inmueble, contrariando las normas sobre el uso del suelo.\n
+        15.Cuando en el término de dos (2) años y en diferentes hechos, se incurra en dos o más comportamientos contrarios a la convivencia
+        que motivan la suspensión temporal de actividad o la multa o se repita dicho comportamiento contrario en alguna de ellas.\n
+        16. Desarrollar la actividad económica sin cumplir cualquiera de los requisitos establecidos en la normatividad vigente.\n
+        17. Ofrecer servicios que son prestados por las entidades de apoyo al tránsito, sin la debida autorización, habilitación o
+        reconocimiento por parte de las autoridades o entidades competentes.\n
+        \n
+        <b>Parágrafo 1°.</b> En los comportamientos señalados en los numerales 7 y 11, se impondrán las medidas correctivas y se pondrá en
+        conocimiento de manera inmediata a la autoridad competente para aplicar lo establecido en las Leyes 679 de 2001, 1236 de 2008,
+        1329 de 2009 y las normas que las adicionen o modifiquen.\n
+        \n
+        <b>Parágrafo 2°.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las siguientes medidas: </string>
+    //tabla
+    <string name="codigo_art_92_2"><b>Parágrafo 3°.</b> Se mantendrá la aplicación de las medidas correctivas si se continúa desarrollando
+        en el lugar la misma actividad económica que dio lugar a su imposición, aun cuando se modifique o cambie la nomenclatura, el nombre
+        del establecimiento, su razón social, propietario, poseedor o tenedor del mismo. \n
+        \n
+        <b>Parágrafo 4°.</b>  Las medidas correctivas mencionadas para el incumplimiento de los anteriores comportamientos, se aplicarán,
+        sin perjuicio de lo establecido en la legislación especial que regula esas materias.\n
+        \n
+        <b>Parágrafo 5°.</b> Cuando se aplique la medida de suspensión temporal de actividad porque el responsable del establecimiento no
+        permitió el ingreso de autoridades de policía, la medida se extenderá hasta tanto se autorice el ingreso de la autoridad que en
+        ejercicio de su función o actividad de policía, requiera hacerlo.\n
+        \n
+        <b>Parágrafo 6°.</b>Quien en el término de un año contado a partir de la aplicación de la medida incurra nuevamente en alguno de
+        los comportamientos prohibidos en el presente artículo que da:lugar a la medida de suspensión temporal, será objeto de suspensión
+        definitiva de la actividad.</string>
+    <string name="codigo_art_93"><b>Artículo 93°.Comportamientos relacionados con la seguridad y tranquilidad que afectan la actividad económica.</b>
+        Los siguientes comportamientos relacionados con la seguridad y tranquilidad afectan la actividad económica y por lo tanto no deben realizarse:\n
+        \n
+        1. Vender, procesar o almacenar productos alimenticios en los sitios no permitidos o contrariando las normas vigentes.\n
+        2. No presentar el comprobante de pago, cuando a ello hubiere lugar, de obras musicales protegidas por las disposiciones
+        legales vigentes sobre derechos de autor.\n
+        3. No comunicar previamente de la apertura del establecimiento, al comandante de estación o subestación de policía de la
+        jurisdicción, a fin de facilitar posteriormente su labor de convivencia, de acuerdo al procedimiento que para tal fin se establezca.\n
+        4. Quebrantar los horarios establecidos por el Alcalde.\n
+        s. Desarrollar actividades diferentes a las registradas en el objeto social de la ¡ matrícula o registro mercantil.\n
+        6. Permitir el ingreso de personas o elementos en un número superior a la capacidad del lugar.\n
+        7. Entregar, enviar, facilitar, alquilar, vender, comercializar, distribuir, exhibir, o publicar textos, imágenes, documentos, o
+        archivos audiovisuales de contenido pornográfico a menores de dieciocho (18) años.\n
+        8. Almacenar, elaborar, poseer, tener, facilitar, entregar, distribuir o comercializar, bienes ilícitos, drogas o sustancias
+        prohibidas por la normatividad vigente o las autoridades competentes.\n
+        9. Permitir o facilitar el consumo de drogas o sustancias prohibidas por la normatividad vigente o las autoridades competentes.\n
+        10. Propiciar la ocupación indebida del espacio público.\n
+        11. Tolerar, incitar, permitir, obligar o consentir actividades sexuales con niños, niñas y adolescentes.\n
+        12. Incumplir las normas referentes al uso reglamentado del suelo y las disposiciones de ubicación, destinación o finalidad,
+        para la que fue construida la edificación.\n
+        13. Instalar servicios eléctricos, hidráulicos u otros especiales, sin previa autorización escrita de la empresa de servicios
+        públicos respectiva.\n
+        14. Arrendar o facilitar un inmueble, contrariando las normas sobre el uso del suelo.\n
+        15.Cuando en el término de dos (2) años y en diferentes hechos, se incurra en dos o más comportamientos contrarios a la convivencia
+        que motivan la suspensión temporal de actividad o la multa o se repita dicho comportamiento contrario en alguna de ellas.\n
+        16. Desarrollar la actividad económica sin cumplir cualquiera de los requisitos establecidos en la normatividad vigente.\n
+        17. Ofrecer servicios que son prestados por las entidades de apoyo al tránsito, sin la debida autorización, habilitación o
+        reconocimiento por parte de las autoridades o entidades competentes.\n
+        \n
+        <b>Parágrafo 1°.</b> En los comportamientos señalados en los numerales 7 y 11, se impondrán las medidas correctivas y se pondrá en
+        conocimiento de manera inmediata a la autoridad competente para aplicar lo establecido en las Leyes 679 de 2001, 1236 de 2008,
+        1329 de 2009 y las normas que las adicionen o modifiquen.\n
+        \n
+        <b>Parágrafo 2°.</b> Quien incurra en uno o más de los comportamientos antes señalados, será objeto de la aplicación de las siguientes medidas: </string>
+    //tabla
+    <string name="codigo_art_93_2"><b>Parágrafo 3°.</b> Se mantendrá la aplicación de las medidas correctivas si se continúa desarrollando
+        en el lugar la misma actividad económica que dio lugar a su imposición, aun cuando se modifique o cambie la nomenclatura, el nombre
+        del establecimiento, su razón social, propietario, poseedor o tenedor del mismo. \n
+        \n
+        <b>Parágrafo 4°.</b>  Las medidas correctivas mencionadas para el incumplimiento de los anteriores comportamientos, se aplicarán,
+        sin perjuicio de lo establecido en la legislación especial que regula esas materias.\n
+        \n
+        <b>Parágrafo 5°.</b> Cuando se aplique la medida de suspensión temporal de actividad porque el responsable del establecimiento no
+        permitió el ingreso de autoridades de policía, la medida se extenderá hasta tanto se autorice el ingreso de la autoridad que en
+        ejercicio de su función o actividad de policía, requiera hacerlo.\n
+        \n
+        <b>Parágrafo 6°.</b>Quien en el término de un año contado a partir de la aplicación de la medida incurra nuevamente en alguno de
+        los comportamientos prohibidos en el presente artículo que da:lugar a la medida de suspensión temporal, será objeto de suspensión
+        definitiva de la actividad.</string>
+
     <!-- Alcohol y drogas -->
     <string name="text_responsible">Autoridades responsables</string>
     <string name="text_behaviors">Comportamientos contrarios a la convivencia y sanciones</string>
